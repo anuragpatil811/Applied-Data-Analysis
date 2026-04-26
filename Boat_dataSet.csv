@@ -1,0 +1,2001 @@
+Price,Boat Type,Manufacturer,Type,Year Built,Length,Width,Material,Location,Number of views last 7 days,Prices
+3311095,Sailboat,Sea Ray,New,2004,11.35,5.49,Steel,Chennai,17,459146
+3611781,Sailboat,Yamaha,New,2024,29.72,4.89,Steel,Kochi,150,877609
+4174877,Sailboat,Jeanneau,Used,1990,15.22,9.58,Aluminum,Visakhapatnam,435,3903807
+3940148,Fishing Boat,Yamaha,New,2019,32.44,4.37,Steel,Kochi,201,460983
+88418,Motorboat,Bayliner,New,1996,32.21,4.35,Steel,Kochi,229,3528377
+1511699,Fishing Boat,Boston Whaler,New,2006,49.98,4.96,Aluminum,Kochi,243,2654656
+3645744,Jet Ski,Yamaha,New,2018,13.42,4.97,Steel,Visakhapatnam,487,1886585
+2267782,Jet Ski,Yamaha,Used,1994,44.18,3.11,Fiberglass,Kochi,15,1645706
+4392910,Fishing Boat,Sea Ray,Used,2021,37.94,5.58,Wood,Goa,101,3098670
+3239812,Yacht,Boston Whaler,Used,2010,34.3,8.4,Wood,Goa,197,4427717
+822151,Fishing Boat,Yamaha,Used,2004,7.51,9.11,Aluminum,Mumbai,75,4783236
+1642495,Motorboat,Beneteau,New,1995,44.22,8.87,Steel,Chennai,412,4152273
+2247059,Sailboat,Sea Ray,New,2009,36.07,7.8,Fiberglass,Mumbai,295,1806037
+283630,Motorboat,Sea Ray,Used,1990,45.09,2.09,Wood,Kochi,306,3736752
+219514,Fishing Boat,Beneteau,Used,2016,38.25,3.33,Steel,Chennai,168,2562044
+902171,Motorboat,Beneteau,New,2005,30.4,2.28,Wood,Mumbai,424,369048
+4168222,Motorboat,Bayliner,Used,2009,47.87,7.13,Fiberglass,Chennai,330,1887758
+973013,Sailboat,Beneteau,Used,2020,37.56,6.39,Wood,Chennai,198,2605985
+1833413,Yacht,Boston Whaler,New,2009,41.05,5.5,Aluminum,Goa,55,3757612
+4995965,Yacht,Boston Whaler,New,2000,47.79,2.12,Steel,Kochi,57,2107426
+2459066,Sailboat,Jeanneau,New,2019,23.17,5.59,Aluminum,Mumbai,71,2296877
+1671339,Sailboat,Sea Ray,Used,1991,41.08,8.3,Wood,Chennai,229,222362
+1537558,Jet Ski,Beneteau,Used,2013,39.56,6.08,Steel,Visakhapatnam,339,152908
+595053,Sailboat,Yamaha,Used,2009,29.46,2.42,Steel,Chennai,176,2590541
+2423599,Fishing Boat,Sea Ray,New,1995,26.72,5.74,Aluminum,Kochi,480,4075165
+4686715,Fishing Boat,Boston Whaler,New,2020,42.73,7.96,Steel,Visakhapatnam,431,3352567
+3585030,Motorboat,Yamaha,New,2012,35.61,9.3,Steel,Goa,326,3052101
+4959549,Yacht,Bayliner,Used,2012,43.46,9.74,Wood,Goa,184,2745396
+1510002,Sailboat,Bayliner,New,1995,44.12,3.34,Aluminum,Goa,348,2026029
+1165528,Fishing Boat,Boston Whaler,New,1992,6.8,7.09,Steel,Chennai,172,4288149
+4089507,Yacht,Bayliner,Used,2012,29.98,8.99,Aluminum,Visakhapatnam,357,551748
+4952585,Yacht,Yamaha,New,2003,48.9,5.69,Aluminum,Mumbai,347,858350
+3231053,Jet Ski,Jeanneau,Used,1994,47.59,8.26,Wood,Visakhapatnam,334,1702535
+1796903,Fishing Boat,Beneteau,Used,1998,26.83,5.33,Aluminum,Visakhapatnam,382,1430143
+2737557,Sailboat,Beneteau,New,2014,23.64,6.16,Wood,Chennai,364,1287258
+1659651,Yacht,Beneteau,New,2012,41.38,8.35,Aluminum,Chennai,364,2848273
+841149,Fishing Boat,Bayliner,Used,2021,6.79,2.45,Steel,Visakhapatnam,435,3364291
+2754364,Motorboat,Yamaha,Used,2017,34.63,7.82,Wood,Mumbai,20,3408059
+4775074,Jet Ski,Sea Ray,New,2019,10.06,5.5,Wood,Mumbai,422,2922336
+3314422,Jet Ski,Beneteau,New,1993,20.55,6.68,Wood,Kochi,209,3054831
+4643569,Jet Ski,Sea Ray,New,2016,45.09,9.6,Steel,Visakhapatnam,430,2799213
+3139567,Sailboat,Beneteau,New,1995,18.95,9.83,Aluminum,Goa,398,1387527
+3467794,Fishing Boat,Bayliner,New,2021,10.58,6.59,Aluminum,Chennai,196,4671461
+4617090,Fishing Boat,Jeanneau,New,2017,47.91,7.78,Aluminum,Visakhapatnam,86,2707521
+2295001,Fishing Boat,Beneteau,Used,1999,43.75,9.13,Fiberglass,Mumbai,243,3567365
+2888055,Fishing Boat,Beneteau,Used,2021,32.23,4.17,Aluminum,Mumbai,22,3655421
+353690,Yacht,Yamaha,New,1991,18.52,9.52,Steel,Mumbai,275,3178719
+4165619,Motorboat,Jeanneau,New,1998,45.75,8.8,Steel,Kochi,328,2075301
+1223245,Fishing Boat,Yamaha,New,2005,18.66,6.36,Steel,Kochi,434,1749692
+2112458,Jet Ski,Sea Ray,Used,2005,16.4,2.07,Wood,Chennai,15,2050693
+2801981,Motorboat,Bayliner,New,2004,46.47,9.05,Wood,Mumbai,335,1689819
+2365607,Jet Ski,Bayliner,New,2009,26.74,4.67,Fiberglass,Kochi,192,4118851
+2827910,Fishing Boat,Beneteau,New,1997,30.16,4.48,Fiberglass,Kochi,8,2633550
+2857670,Yacht,Beneteau,Used,1995,39.96,7.67,Steel,Mumbai,370,2546869
+66021,Fishing Boat,Jeanneau,Used,2007,16.6,5.31,Steel,Mumbai,179,54356
+3593605,Yacht,Yamaha,Used,2000,12.88,6.34,Aluminum,Visakhapatnam,243,4086385
+1223213,Jet Ski,Beneteau,New,2015,5.35,3.59,Steel,Kochi,296,888301
+1018207,Fishing Boat,Bayliner,New,2011,46.11,6.82,Fiberglass,Goa,443,2126974
+1086740,Fishing Boat,Yamaha,Used,2023,48.61,4.44,Fiberglass,Visakhapatnam,100,2546534
+1250088,Sailboat,Beneteau,New,2011,9.89,6.0,Wood,Kochi,476,3411630
+3601038,Sailboat,Beneteau,New,1992,28.48,6.0,Aluminum,Kochi,391,1081672
+3687388,Motorboat,Yamaha,New,2001,48.75,4.47,Wood,Visakhapatnam,116,3468760
+2675664,Jet Ski,Beneteau,New,2002,10.33,2.38,Aluminum,Chennai,87,3469137
+154829,Sailboat,Beneteau,Used,2009,39.08,2.8,Aluminum,Goa,451,535765
+1479279,Sailboat,Sea Ray,New,2007,36.22,7.82,Fiberglass,Chennai,81,4472992
+2218979,Yacht,Yamaha,Used,1990,16.1,2.77,Steel,Goa,337,369591
+3433959,Jet Ski,Sea Ray,New,1998,25.08,2.36,Steel,Goa,388,1073326
+1291235,Yacht,Jeanneau,Used,1999,27.07,9.77,Aluminum,Mumbai,33,4573234
+4295045,Fishing Boat,Jeanneau,New,2013,36.53,2.11,Fiberglass,Chennai,483,4977369
+1811309,Motorboat,Yamaha,New,2003,15.74,9.42,Fiberglass,Kochi,427,968868
+2635138,Sailboat,Beneteau,New,2013,34.5,4.14,Wood,Kochi,296,2607020
+881015,Jet Ski,Beneteau,New,1998,6.53,4.05,Fiberglass,Chennai,297,3898507
+1964730,Jet Ski,Sea Ray,New,2015,24.0,6.5,Steel,Kochi,492,3713117
+1613632,Fishing Boat,Yamaha,Used,2020,11.18,2.3,Wood,Kochi,192,2983987
+3334329,Motorboat,Sea Ray,Used,2018,47.53,5.34,Wood,Kochi,446,4549557
+2121820,Sailboat,Jeanneau,Used,2012,25.56,7.43,Aluminum,Chennai,175,2378552
+3978933,Yacht,Jeanneau,New,1998,43.94,2.45,Wood,Goa,97,4950848
+3183337,Fishing Boat,Jeanneau,Used,1995,22.62,6.07,Wood,Goa,459,1447113
+961454,Fishing Boat,Bayliner,Used,1996,26.22,3.54,Wood,Mumbai,394,2017829
+4190066,Sailboat,Boston Whaler,New,2003,25.08,3.56,Steel,Kochi,80,2390449
+4874755,Yacht,Jeanneau,Used,2021,10.48,7.71,Fiberglass,Visakhapatnam,445,478424
+4517994,Yacht,Jeanneau,New,2006,10.31,4.47,Aluminum,Goa,100,4929877
+1313127,Sailboat,Jeanneau,Used,1991,29.96,9.93,Steel,Mumbai,215,2968426
+1390781,Sailboat,Beneteau,New,2021,35.59,7.63,Wood,Goa,276,1483057
+573887,Yacht,Beneteau,New,1993,29.61,6.56,Steel,Goa,132,132924
+2775298,Jet Ski,Bayliner,Used,1991,41.28,5.13,Steel,Visakhapatnam,353,526507
+2311193,Yacht,Beneteau,New,2000,6.59,8.99,Fiberglass,Mumbai,419,3284482
+3348325,Motorboat,Sea Ray,New,2014,38.35,5.7,Fiberglass,Chennai,158,1476120
+3290846,Fishing Boat,Sea Ray,Used,2021,34.99,6.71,Wood,Kochi,46,2070275
+4206696,Sailboat,Bayliner,Used,2022,28.78,4.28,Steel,Mumbai,453,1776023
+1764152,Yacht,Sea Ray,Used,1999,25.63,8.19,Aluminum,Mumbai,377,4263526
+2356517,Motorboat,Yamaha,Used,2018,26.39,2.8,Wood,Chennai,76,513143
+2006162,Fishing Boat,Beneteau,Used,2009,19.9,3.69,Steel,Visakhapatnam,111,2161157
+4893697,Yacht,Sea Ray,New,1991,14.03,3.21,Steel,Mumbai,420,3821748
+4183033,Motorboat,Boston Whaler,Used,2007,26.62,5.21,Aluminum,Kochi,314,4167568
+2125434,Sailboat,Boston Whaler,New,2017,45.17,7.04,Aluminum,Mumbai,58,2964814
+3612852,Jet Ski,Beneteau,Used,1990,18.43,8.88,Aluminum,Visakhapatnam,249,2286094
+4679039,Yacht,Sea Ray,New,2004,38.31,4.24,Wood,Kochi,83,817719
+3520502,Fishing Boat,Beneteau,Used,2024,34.75,5.28,Fiberglass,Chennai,464,3938980
+1516207,Fishing Boat,Beneteau,New,1999,27.51,8.22,Wood,Visakhapatnam,125,311008
+1463846,Fishing Boat,Jeanneau,Used,2001,28.08,4.93,Steel,Visakhapatnam,146,4748859
+2876030,Motorboat,Beneteau,New,1993,40.38,6.26,Fiberglass,Goa,218,4508560
+602109,Yacht,Boston Whaler,Used,2019,37.95,2.54,Wood,Chennai,348,3714089
+3599577,Fishing Boat,Yamaha,New,2010,23.73,3.68,Wood,Mumbai,383,1503147
+3744447,Fishing Boat,Beneteau,Used,2010,45.72,3.04,Aluminum,Visakhapatnam,393,576087
+4197232,Fishing Boat,Boston Whaler,Used,2001,22.15,5.18,Aluminum,Kochi,461,4474612
+3324951,Fishing Boat,Boston Whaler,New,2020,36.84,9.73,Fiberglass,Mumbai,338,2687854
+2385437,Fishing Boat,Beneteau,Used,2016,8.15,6.1,Aluminum,Kochi,40,2926429
+3849394,Yacht,Yamaha,Used,2020,13.94,2.64,Fiberglass,Mumbai,373,629848
+3582253,Motorboat,Yamaha,Used,1999,40.01,4.51,Fiberglass,Chennai,109,3506410
+1155674,Jet Ski,Beneteau,New,2020,5.12,3.0,Fiberglass,Mumbai,95,4077516
+417476,Yacht,Yamaha,New,2007,48.73,2.33,Wood,Goa,364,4348285
+4056043,Yacht,Bayliner,Used,2007,20.89,2.52,Steel,Mumbai,489,1231088
+2532306,Fishing Boat,Sea Ray,Used,2024,25.13,2.4,Wood,Goa,211,2203489
+4842933,Motorboat,Sea Ray,New,1990,49.66,6.37,Wood,Visakhapatnam,333,2173779
+3672076,Jet Ski,Sea Ray,Used,1995,20.43,5.3,Aluminum,Chennai,216,3791953
+940153,Motorboat,Sea Ray,New,2015,23.8,4.69,Aluminum,Goa,154,3276931
+681028,Sailboat,Boston Whaler,Used,2011,12.4,5.93,Fiberglass,Visakhapatnam,130,2512544
+1422134,Jet Ski,Jeanneau,Used,1999,27.4,4.64,Fiberglass,Kochi,235,1998081
+189555,Sailboat,Sea Ray,Used,2007,32.91,8.19,Fiberglass,Chennai,489,2054626
+2813382,Jet Ski,Yamaha,New,2001,49.7,4.17,Steel,Visakhapatnam,17,2688296
+4163762,Yacht,Beneteau,Used,2018,26.26,5.09,Steel,Kochi,332,1620155
+2024728,Jet Ski,Yamaha,Used,2022,47.48,2.55,Wood,Visakhapatnam,460,2354795
+816042,Sailboat,Boston Whaler,Used,2004,23.55,2.57,Aluminum,Mumbai,347,4027957
+1994636,Fishing Boat,Bayliner,New,2015,19.89,4.1,Fiberglass,Kochi,124,2046269
+1700618,Motorboat,Beneteau,New,1995,33.23,5.39,Fiberglass,Goa,195,3720099
+609086,Jet Ski,Sea Ray,New,1999,41.67,7.09,Wood,Visakhapatnam,495,3965497
+2984219,Motorboat,Boston Whaler,New,2014,6.56,8.93,Wood,Mumbai,300,4308399
+3139287,Jet Ski,Sea Ray,New,1998,46.77,6.02,Steel,Goa,97,3324177
+1720606,Motorboat,Beneteau,New,1993,32.87,7.88,Fiberglass,Visakhapatnam,454,3207309
+2890723,Sailboat,Sea Ray,Used,2024,22.12,6.19,Fiberglass,Chennai,198,3690711
+3503534,Fishing Boat,Bayliner,Used,2021,28.82,7.13,Fiberglass,Chennai,170,2156236
+1561721,Motorboat,Yamaha,Used,1993,33.14,5.59,Fiberglass,Chennai,234,999750
+360531,Fishing Boat,Boston Whaler,Used,2018,31.75,2.43,Aluminum,Visakhapatnam,350,2835312
+418365,Yacht,Beneteau,Used,2021,9.86,5.13,Steel,Mumbai,6,4209025
+1873114,Yacht,Jeanneau,Used,1995,13.52,5.62,Steel,Chennai,322,1540629
+394287,Yacht,Bayliner,New,2008,49.02,4.68,Aluminum,Chennai,486,4754748
+347687,Motorboat,Jeanneau,New,2000,23.81,3.74,Wood,Mumbai,54,52856
+3463215,Fishing Boat,Beneteau,New,2003,17.74,6.03,Fiberglass,Kochi,126,4588397
+4494589,Yacht,Jeanneau,Used,1996,21.1,7.71,Wood,Chennai,82,1466398
+2570966,Motorboat,Boston Whaler,Used,1992,13.88,2.08,Fiberglass,Visakhapatnam,393,4708243
+440132,Motorboat,Boston Whaler,Used,2016,5.41,4.49,Aluminum,Visakhapatnam,286,2219956
+1435036,Jet Ski,Jeanneau,New,1992,37.93,5.11,Fiberglass,Kochi,248,194191
+2269409,Fishing Boat,Yamaha,Used,2019,21.04,3.38,Fiberglass,Mumbai,410,1445776
+1614594,Motorboat,Yamaha,Used,1992,11.01,3.89,Fiberglass,Kochi,452,4034499
+453723,Motorboat,Jeanneau,Used,2006,17.81,4.09,Aluminum,Mumbai,203,342565
+3243172,Yacht,Boston Whaler,Used,2022,43.17,2.12,Wood,Visakhapatnam,306,4142044
+1537492,Fishing Boat,Sea Ray,New,1997,33.49,6.37,Fiberglass,Mumbai,99,902250
+3102480,Fishing Boat,Beneteau,New,1997,47.29,8.9,Fiberglass,Goa,445,306142
+2230783,Motorboat,Sea Ray,New,2023,35.07,6.33,Fiberglass,Chennai,364,281816
+3495162,Jet Ski,Yamaha,Used,2003,35.66,5.07,Aluminum,Chennai,49,668427
+4981590,Motorboat,Boston Whaler,Used,2004,10.73,5.22,Fiberglass,Goa,144,2233269
+3388788,Fishing Boat,Bayliner,Used,2011,43.55,8.13,Steel,Goa,100,2803112
+3709372,Motorboat,Yamaha,Used,1991,29.52,9.57,Fiberglass,Kochi,386,3712561
+4040944,Yacht,Yamaha,New,1995,18.66,5.95,Wood,Goa,12,2334405
+2700609,Motorboat,Beneteau,New,2017,18.67,2.34,Fiberglass,Kochi,291,89853
+185889,Jet Ski,Yamaha,Used,2002,19.77,3.84,Wood,Chennai,293,2807488
+3911813,Yacht,Yamaha,New,2018,34.3,6.35,Aluminum,Goa,222,3348856
+619408,Motorboat,Yamaha,New,1992,17.3,5.99,Wood,Mumbai,5,4363649
+4860957,Sailboat,Boston Whaler,New,1997,44.48,6.58,Steel,Goa,351,3481493
+2288124,Motorboat,Jeanneau,Used,2017,39.77,5.21,Steel,Chennai,46,4628879
+995601,Motorboat,Bayliner,New,2014,9.99,4.13,Wood,Mumbai,126,3487906
+150136,Fishing Boat,Jeanneau,Used,1997,13.47,6.74,Steel,Goa,291,4527069
+3641676,Sailboat,Sea Ray,New,2010,45.91,3.36,Steel,Visakhapatnam,70,2531256
+1696637,Sailboat,Bayliner,New,2006,27.62,6.98,Fiberglass,Chennai,422,4135079
+1526534,Fishing Boat,Beneteau,Used,1994,48.14,4.46,Wood,Kochi,412,1876722
+2946307,Motorboat,Sea Ray,Used,2016,41.55,4.79,Aluminum,Kochi,159,2249739
+1154517,Jet Ski,Sea Ray,New,2002,46.76,8.93,Wood,Mumbai,478,4124302
+546477,Sailboat,Bayliner,New,1995,34.58,7.45,Wood,Mumbai,483,2344557
+4740202,Yacht,Bayliner,New,2002,45.4,4.72,Steel,Mumbai,289,4890287
+4142767,Motorboat,Boston Whaler,New,2024,23.66,7.37,Aluminum,Mumbai,187,1301847
+3149028,Jet Ski,Jeanneau,New,2020,23.29,3.8,Fiberglass,Kochi,105,3455174
+1441308,Motorboat,Yamaha,Used,1998,17.19,9.59,Fiberglass,Visakhapatnam,339,355963
+4601233,Jet Ski,Sea Ray,New,1997,39.11,3.28,Steel,Mumbai,263,1457364
+2726940,Yacht,Beneteau,Used,2003,29.8,4.47,Steel,Chennai,17,3301754
+1722563,Fishing Boat,Bayliner,New,2010,13.81,8.79,Wood,Goa,311,3779981
+772326,Jet Ski,Boston Whaler,Used,1995,47.13,2.53,Fiberglass,Kochi,263,1762843
+2461797,Jet Ski,Beneteau,Used,2014,44.44,3.82,Fiberglass,Kochi,394,689605
+631965,Yacht,Bayliner,Used,2020,21.66,9.39,Wood,Visakhapatnam,382,81745
+4478511,Yacht,Beneteau,Used,2013,22.21,8.38,Wood,Goa,475,1900504
+4574734,Sailboat,Sea Ray,Used,2023,38.47,5.75,Steel,Chennai,98,487897
+1029224,Jet Ski,Bayliner,New,1990,28.17,6.01,Fiberglass,Mumbai,310,4961493
+2376777,Jet Ski,Beneteau,New,2009,13.1,3.81,Steel,Kochi,32,1118751
+1864432,Fishing Boat,Sea Ray,Used,2007,11.07,9.24,Aluminum,Kochi,221,1718050
+422374,Yacht,Yamaha,New,1996,37.02,3.02,Steel,Chennai,202,3555549
+1570389,Yacht,Sea Ray,New,2007,22.77,9.41,Wood,Mumbai,327,3731136
+742875,Yacht,Bayliner,New,2010,26.95,2.57,Fiberglass,Goa,202,1173664
+2554543,Yacht,Boston Whaler,New,2006,16.97,9.52,Wood,Kochi,452,3753474
+4661619,Motorboat,Bayliner,Used,1990,38.65,6.01,Steel,Mumbai,67,3348787
+746611,Jet Ski,Jeanneau,Used,1994,8.0,4.67,Aluminum,Kochi,55,3979997
+3578077,Sailboat,Bayliner,Used,1999,35.54,3.13,Fiberglass,Chennai,195,3565535
+3343732,Jet Ski,Boston Whaler,New,2007,12.34,9.2,Fiberglass,Goa,158,4769970
+3061464,Jet Ski,Jeanneau,Used,1996,38.93,7.89,Steel,Visakhapatnam,296,4534467
+1492050,Yacht,Yamaha,Used,1998,47.4,5.71,Aluminum,Goa,445,3129006
+2570116,Fishing Boat,Jeanneau,New,2007,14.88,7.86,Steel,Kochi,408,1040322
+2236781,Fishing Boat,Jeanneau,New,2012,23.12,6.92,Wood,Mumbai,100,1525719
+1653839,Motorboat,Beneteau,New,1998,27.68,6.66,Aluminum,Goa,222,1360142
+1566248,Jet Ski,Boston Whaler,Used,2020,40.15,4.41,Fiberglass,Kochi,348,4000205
+1416736,Jet Ski,Bayliner,Used,2019,39.95,6.55,Fiberglass,Goa,140,1687208
+1337236,Motorboat,Sea Ray,Used,2016,6.91,9.52,Fiberglass,Visakhapatnam,368,1724369
+2173979,Motorboat,Yamaha,New,2010,31.88,4.02,Steel,Visakhapatnam,45,1897463
+472348,Yacht,Bayliner,New,1993,7.82,4.39,Aluminum,Kochi,170,3263170
+3112067,Fishing Boat,Sea Ray,Used,2009,14.92,2.5,Steel,Visakhapatnam,14,781700
+1976550,Fishing Boat,Jeanneau,New,2021,33.56,8.77,Steel,Kochi,170,3229997
+3027820,Yacht,Sea Ray,New,1991,39.18,2.56,Aluminum,Mumbai,344,1758381
+1571534,Fishing Boat,Beneteau,New,1993,33.57,2.45,Aluminum,Chennai,353,1093032
+1609047,Jet Ski,Sea Ray,Used,2024,10.94,8.7,Fiberglass,Kochi,103,956017
+4755489,Yacht,Beneteau,New,1991,22.66,5.99,Steel,Mumbai,414,327965
+1815325,Yacht,Beneteau,Used,2004,40.04,8.13,Aluminum,Mumbai,129,3294812
+2550948,Jet Ski,Boston Whaler,New,2019,19.3,4.12,Wood,Chennai,115,1057132
+4444885,Yacht,Beneteau,New,2019,38.41,2.72,Steel,Visakhapatnam,94,2513106
+3428311,Sailboat,Jeanneau,New,2019,37.55,7.54,Steel,Goa,130,816359
+2563281,Sailboat,Beneteau,New,1998,44.96,9.37,Wood,Chennai,360,3405583
+4288391,Fishing Boat,Bayliner,New,2019,28.56,9.34,Wood,Chennai,196,1210615
+67001,Fishing Boat,Beneteau,New,1995,33.19,9.24,Aluminum,Kochi,61,3976484
+4278393,Sailboat,Boston Whaler,Used,2007,16.93,3.93,Fiberglass,Kochi,87,4064844
+1000510,Jet Ski,Bayliner,New,2002,39.92,8.79,Fiberglass,Mumbai,276,4098586
+2818700,Fishing Boat,Beneteau,Used,2002,37.48,2.53,Fiberglass,Chennai,489,763476
+2673518,Motorboat,Boston Whaler,Used,1991,34.37,4.33,Fiberglass,Goa,164,1937342
+3873134,Jet Ski,Jeanneau,New,2013,35.12,5.61,Aluminum,Chennai,346,531312
+635349,Motorboat,Yamaha,Used,2013,40.07,6.11,Aluminum,Goa,354,3637367
+1292566,Jet Ski,Yamaha,New,1990,21.79,2.04,Fiberglass,Chennai,391,2593117
+4949627,Fishing Boat,Beneteau,New,1997,18.58,3.42,Aluminum,Goa,243,4269672
+4662419,Fishing Boat,Beneteau,New,2023,36.49,8.94,Wood,Chennai,496,1560377
+2618658,Yacht,Beneteau,New,1990,43.57,2.47,Steel,Mumbai,492,3890955
+4694665,Fishing Boat,Jeanneau,Used,2007,49.74,2.4,Fiberglass,Goa,252,812897
+4264803,Sailboat,Beneteau,Used,2022,32.23,8.4,Wood,Visakhapatnam,249,1152891
+669134,Yacht,Boston Whaler,Used,1998,30.5,3.63,Steel,Goa,328,651749
+3789953,Jet Ski,Beneteau,Used,2012,39.05,3.25,Aluminum,Goa,65,3494953
+2901899,Fishing Boat,Jeanneau,Used,2021,38.08,6.74,Wood,Goa,218,1257920
+198245,Motorboat,Jeanneau,New,2015,24.02,3.05,Wood,Visakhapatnam,242,349823
+479274,Jet Ski,Beneteau,New,1996,28.85,5.49,Aluminum,Chennai,105,4909812
+3069233,Fishing Boat,Bayliner,Used,2012,34.28,4.13,Fiberglass,Mumbai,229,2333593
+4229150,Sailboat,Beneteau,Used,2000,14.53,3.76,Steel,Chennai,291,2017505
+4336432,Jet Ski,Bayliner,New,2020,39.27,9.9,Steel,Mumbai,319,3759876
+998074,Sailboat,Sea Ray,New,2017,23.73,2.57,Wood,Chennai,274,4865172
+4116571,Sailboat,Bayliner,New,1998,17.08,7.8,Fiberglass,Goa,27,674268
+3609641,Yacht,Jeanneau,New,2014,35.47,7.85,Aluminum,Visakhapatnam,440,2384907
+1154713,Motorboat,Sea Ray,Used,1994,11.48,2.09,Fiberglass,Goa,61,246220
+501541,Jet Ski,Bayliner,New,1995,9.6,7.54,Fiberglass,Chennai,400,1941225
+2596235,Jet Ski,Sea Ray,New,2018,42.04,8.07,Wood,Kochi,151,3354963
+3819877,Fishing Boat,Yamaha,New,2016,15.76,9.26,Steel,Goa,352,2275874
+3719329,Jet Ski,Boston Whaler,Used,1991,28.09,8.27,Wood,Goa,282,2377662
+4381406,Yacht,Beneteau,New,1991,19.95,4.02,Wood,Chennai,445,2738525
+3445017,Sailboat,Boston Whaler,Used,1999,47.43,7.67,Fiberglass,Kochi,311,3959532
+1044803,Motorboat,Beneteau,New,2008,7.61,3.62,Aluminum,Visakhapatnam,77,3954437
+1189304,Yacht,Sea Ray,Used,1997,40.02,4.18,Steel,Goa,337,876956
+1712121,Yacht,Beneteau,New,1998,5.89,5.12,Wood,Mumbai,8,4674374
+446667,Jet Ski,Sea Ray,New,2015,17.98,9.18,Fiberglass,Goa,281,1788349
+2103973,Jet Ski,Jeanneau,New,2005,10.34,5.59,Wood,Visakhapatnam,324,4889557
+294389,Sailboat,Jeanneau,Used,1990,14.33,5.56,Wood,Kochi,377,2668396
+3511475,Sailboat,Sea Ray,New,1995,46.68,8.52,Steel,Visakhapatnam,82,4538666
+4197773,Fishing Boat,Yamaha,New,1998,38.42,4.22,Steel,Kochi,362,557087
+2409071,Jet Ski,Jeanneau,Used,2013,22.93,7.55,Steel,Goa,436,1692598
+2291947,Sailboat,Bayliner,New,1992,43.28,4.57,Steel,Goa,257,2816088
+4975989,Sailboat,Boston Whaler,New,2023,42.68,7.71,Wood,Goa,331,3799722
+2551379,Motorboat,Yamaha,Used,1991,35.58,6.63,Wood,Kochi,392,3496189
+2930647,Motorboat,Yamaha,Used,2002,18.12,4.35,Aluminum,Chennai,399,1256449
+3171812,Motorboat,Bayliner,New,1999,25.43,8.77,Fiberglass,Visakhapatnam,294,2106336
+1942711,Jet Ski,Beneteau,Used,2004,46.82,8.19,Fiberglass,Chennai,213,2673252
+1708183,Yacht,Sea Ray,Used,2013,36.28,8.4,Steel,Mumbai,361,231034
+3289275,Jet Ski,Sea Ray,New,2008,44.36,7.36,Aluminum,Kochi,448,330244
+63128,Jet Ski,Bayliner,Used,2000,35.92,5.43,Wood,Goa,297,1993589
+3752973,Jet Ski,Jeanneau,Used,1990,26.1,7.1,Steel,Kochi,290,1067624
+4942214,Sailboat,Bayliner,Used,2024,31.53,4.47,Steel,Goa,85,1591547
+2786375,Sailboat,Bayliner,New,2003,45.81,6.61,Wood,Kochi,213,3301599
+92666,Yacht,Boston Whaler,Used,1995,47.96,2.25,Aluminum,Goa,272,1931248
+736145,Motorboat,Beneteau,Used,1993,25.62,3.39,Wood,Chennai,8,197212
+921051,Fishing Boat,Beneteau,Used,2010,15.45,9.2,Aluminum,Mumbai,244,3588335
+210001,Yacht,Jeanneau,New,1999,35.4,7.53,Steel,Goa,475,1321443
+2742796,Fishing Boat,Beneteau,Used,1996,27.74,6.26,Steel,Kochi,488,4592731
+1832179,Sailboat,Boston Whaler,New,1991,40.08,7.17,Steel,Visakhapatnam,9,2871801
+1526364,Sailboat,Boston Whaler,New,2019,36.51,8.84,Aluminum,Mumbai,9,1477059
+3055021,Jet Ski,Bayliner,Used,1999,24.51,5.62,Steel,Mumbai,65,4009410
+471672,Fishing Boat,Jeanneau,Used,2017,38.57,8.51,Steel,Mumbai,314,935959
+1889104,Sailboat,Beneteau,New,1999,8.23,3.89,Steel,Visakhapatnam,82,440976
+331591,Jet Ski,Sea Ray,Used,2014,5.98,4.03,Aluminum,Mumbai,15,4938719
+3894805,Fishing Boat,Bayliner,New,2001,40.93,7.86,Aluminum,Mumbai,490,1835489
+3387912,Fishing Boat,Yamaha,Used,1991,30.32,9.76,Steel,Visakhapatnam,246,3266338
+446405,Yacht,Jeanneau,New,2013,34.85,3.75,Steel,Kochi,300,4837786
+912112,Yacht,Beneteau,New,2002,32.97,8.02,Fiberglass,Kochi,478,1861595
+1845421,Jet Ski,Sea Ray,New,2022,12.5,7.37,Wood,Visakhapatnam,487,3270474
+4022477,Sailboat,Yamaha,New,2018,34.28,6.65,Fiberglass,Mumbai,415,4769009
+1475253,Sailboat,Sea Ray,New,2023,12.26,6.66,Steel,Mumbai,153,4845394
+2710045,Yacht,Yamaha,New,2012,32.02,8.85,Aluminum,Chennai,124,4968517
+4932090,Motorboat,Boston Whaler,Used,2020,7.22,4.64,Wood,Mumbai,258,4916323
+3186870,Yacht,Beneteau,Used,1992,49.66,6.83,Aluminum,Chennai,321,905018
+4104574,Motorboat,Boston Whaler,Used,2005,20.69,7.02,Aluminum,Visakhapatnam,408,3012699
+461234,Yacht,Bayliner,Used,2015,18.13,2.14,Fiberglass,Visakhapatnam,463,4404371
+98055,Fishing Boat,Jeanneau,Used,1993,36.2,9.26,Fiberglass,Visakhapatnam,380,2907182
+2612722,Fishing Boat,Sea Ray,Used,2013,45.91,7.66,Fiberglass,Chennai,20,785573
+566197,Yacht,Sea Ray,Used,2021,43.93,2.7,Fiberglass,Kochi,46,2054624
+4620524,Jet Ski,Yamaha,Used,2023,25.04,2.23,Wood,Kochi,237,4686800
+2537039,Yacht,Yamaha,Used,2015,35.77,2.08,Fiberglass,Goa,441,3368364
+4928298,Motorboat,Yamaha,New,2023,32.37,4.84,Wood,Mumbai,311,3925820
+2699567,Yacht,Bayliner,New,2017,14.45,2.8,Fiberglass,Visakhapatnam,181,877218
+3756199,Jet Ski,Yamaha,New,2020,13.92,9.55,Fiberglass,Goa,187,179336
+2458651,Motorboat,Yamaha,New,1996,39.5,3.54,Steel,Mumbai,187,551423
+2916080,Yacht,Yamaha,New,2008,42.47,6.03,Aluminum,Goa,9,1800624
+715496,Yacht,Boston Whaler,Used,2014,23.01,2.79,Steel,Kochi,185,51141
+3678983,Motorboat,Jeanneau,Used,2000,23.83,7.09,Steel,Chennai,270,1461735
+822483,Fishing Boat,Beneteau,Used,2018,21.47,7.63,Steel,Kochi,193,1783713
+1218634,Yacht,Yamaha,New,1997,22.57,6.43,Aluminum,Visakhapatnam,352,3022180
+1318248,Fishing Boat,Sea Ray,New,2015,17.56,4.56,Aluminum,Goa,188,4312533
+533127,Yacht,Boston Whaler,Used,2017,38.96,5.09,Fiberglass,Mumbai,427,2184456
+4207065,Sailboat,Bayliner,Used,2011,29.26,5.77,Fiberglass,Visakhapatnam,28,2010348
+2262150,Motorboat,Jeanneau,Used,2023,40.78,6.11,Wood,Visakhapatnam,91,1918990
+3212269,Sailboat,Bayliner,New,2019,33.51,2.81,Aluminum,Visakhapatnam,462,2064625
+1731058,Sailboat,Boston Whaler,Used,2015,9.8,9.1,Aluminum,Mumbai,494,1954297
+4009582,Sailboat,Beneteau,New,1990,7.01,2.92,Wood,Mumbai,499,462342
+2861377,Yacht,Beneteau,Used,2000,28.95,7.21,Wood,Chennai,16,4961036
+618890,Sailboat,Sea Ray,Used,1992,46.96,7.26,Fiberglass,Kochi,151,1757354
+3468179,Yacht,Jeanneau,New,2011,9.99,7.29,Fiberglass,Goa,63,2236946
+1677886,Yacht,Bayliner,Used,2014,39.96,9.92,Steel,Chennai,413,3200129
+1284032,Motorboat,Beneteau,Used,2020,7.91,4.39,Aluminum,Visakhapatnam,2,702845
+3973665,Sailboat,Yamaha,New,2001,37.2,8.99,Fiberglass,Mumbai,177,3815791
+1021363,Yacht,Bayliner,New,2004,33.42,7.94,Wood,Chennai,454,4403451
+3983635,Fishing Boat,Boston Whaler,New,1990,10.0,8.56,Wood,Goa,70,3017006
+537148,Yacht,Beneteau,New,1992,49.99,5.77,Fiberglass,Kochi,123,4193939
+3677003,Yacht,Boston Whaler,Used,1991,47.68,2.02,Wood,Goa,380,3481979
+207107,Motorboat,Sea Ray,Used,2013,24.16,6.23,Steel,Visakhapatnam,331,4395791
+4327207,Sailboat,Bayliner,New,2012,43.31,7.97,Wood,Goa,477,4888437
+787286,Sailboat,Yamaha,New,2021,20.49,9.35,Wood,Kochi,189,4903197
+1035159,Yacht,Yamaha,Used,2012,17.11,8.3,Steel,Goa,463,697452
+2060140,Sailboat,Yamaha,New,2017,33.98,6.57,Wood,Mumbai,274,4529423
+4301558,Motorboat,Yamaha,Used,2003,35.98,3.64,Aluminum,Visakhapatnam,488,3775981
+1999104,Yacht,Bayliner,Used,2008,7.67,6.39,Fiberglass,Visakhapatnam,202,1650441
+2599994,Motorboat,Yamaha,New,1997,41.72,9.39,Aluminum,Visakhapatnam,496,4484813
+4792761,Jet Ski,Sea Ray,New,2002,16.01,2.43,Aluminum,Kochi,446,3599144
+4061160,Sailboat,Jeanneau,Used,1993,41.58,8.59,Wood,Kochi,83,2934941
+1483967,Fishing Boat,Jeanneau,New,2023,43.73,8.9,Wood,Mumbai,390,51224
+1849476,Sailboat,Beneteau,New,2022,45.64,6.96,Fiberglass,Kochi,82,3390972
+119357,Sailboat,Bayliner,New,2003,22.22,9.14,Steel,Goa,67,2125182
+4005933,Jet Ski,Jeanneau,New,2005,33.35,8.81,Aluminum,Visakhapatnam,368,338601
+263425,Motorboat,Boston Whaler,New,2001,31.77,5.91,Wood,Chennai,206,491902
+2291884,Jet Ski,Boston Whaler,New,2003,12.61,6.26,Steel,Mumbai,471,937886
+4416225,Jet Ski,Yamaha,Used,1999,48.69,6.09,Aluminum,Goa,382,2516975
+4501909,Yacht,Bayliner,New,2016,13.48,2.3,Aluminum,Chennai,108,3648884
+1430861,Fishing Boat,Sea Ray,Used,2017,29.39,9.79,Fiberglass,Chennai,53,182663
+902016,Motorboat,Bayliner,New,1994,9.86,9.08,Aluminum,Chennai,483,1876590
+3351375,Yacht,Sea Ray,New,1992,46.54,4.89,Wood,Mumbai,99,4514918
+1628485,Motorboat,Bayliner,New,1999,34.98,4.98,Steel,Chennai,43,1116645
+2149576,Sailboat,Bayliner,Used,2004,23.77,5.94,Steel,Chennai,177,2804065
+2802276,Sailboat,Sea Ray,New,2024,41.86,3.26,Aluminum,Visakhapatnam,156,3237186
+3460179,Motorboat,Boston Whaler,Used,2010,7.56,6.08,Aluminum,Chennai,32,882307
+3363805,Fishing Boat,Sea Ray,New,1998,9.64,5.73,Steel,Mumbai,178,2081316
+2014771,Yacht,Bayliner,New,2022,27.48,6.62,Wood,Visakhapatnam,326,3690222
+3979403,Yacht,Beneteau,Used,1995,15.14,8.16,Wood,Mumbai,375,1342761
+1282960,Jet Ski,Sea Ray,New,2006,37.86,2.25,Steel,Mumbai,175,2473081
+2729570,Fishing Boat,Bayliner,Used,1990,34.05,8.99,Wood,Chennai,12,1347737
+2925509,Motorboat,Jeanneau,Used,1996,27.74,9.24,Steel,Kochi,312,821781
+2247164,Fishing Boat,Boston Whaler,New,2014,44.99,2.14,Aluminum,Visakhapatnam,14,877785
+4078206,Yacht,Beneteau,Used,2002,36.25,8.72,Aluminum,Chennai,437,799826
+3494927,Sailboat,Beneteau,Used,1991,17.64,3.21,Wood,Goa,325,4211544
+4303979,Jet Ski,Yamaha,New,2004,10.62,2.71,Fiberglass,Visakhapatnam,447,2945624
+4729811,Yacht,Sea Ray,Used,2024,24.12,5.8,Aluminum,Mumbai,115,4000065
+2503766,Fishing Boat,Sea Ray,Used,1995,13.22,5.02,Fiberglass,Visakhapatnam,387,3687279
+3683636,Motorboat,Boston Whaler,Used,2009,36.98,6.71,Fiberglass,Kochi,45,2262111
+512834,Yacht,Beneteau,New,2017,34.38,9.26,Aluminum,Kochi,294,2881956
+1018286,Motorboat,Yamaha,Used,1997,48.67,5.55,Wood,Mumbai,238,222195
+2041787,Fishing Boat,Yamaha,Used,2007,48.48,7.91,Wood,Kochi,197,3469061
+670031,Yacht,Boston Whaler,New,2018,45.18,8.37,Aluminum,Kochi,402,3860725
+3140093,Sailboat,Boston Whaler,Used,2024,40.61,9.54,Steel,Chennai,304,1874373
+1020992,Yacht,Yamaha,New,1999,37.28,8.75,Aluminum,Mumbai,496,2276419
+2136262,Yacht,Boston Whaler,Used,2005,10.26,2.03,Fiberglass,Mumbai,416,1584198
+661781,Sailboat,Sea Ray,Used,2012,31.15,3.95,Steel,Kochi,56,3144141
+309912,Jet Ski,Yamaha,New,1992,29.4,7.26,Aluminum,Chennai,449,4363972
+4944815,Fishing Boat,Sea Ray,Used,1991,17.31,7.77,Steel,Goa,354,4867672
+4034652,Motorboat,Jeanneau,New,2004,31.19,6.49,Aluminum,Kochi,266,3550378
+995895,Motorboat,Jeanneau,Used,2018,22.29,4.33,Fiberglass,Kochi,440,4580400
+3759644,Jet Ski,Bayliner,Used,2023,16.57,6.28,Wood,Chennai,492,4773764
+3576829,Yacht,Beneteau,Used,2005,5.5,8.4,Steel,Visakhapatnam,462,4401102
+2366677,Sailboat,Yamaha,Used,1990,17.49,7.48,Aluminum,Mumbai,200,4164205
+1722564,Fishing Boat,Boston Whaler,Used,1995,25.48,7.0,Wood,Kochi,72,949819
+4473765,Sailboat,Jeanneau,New,1998,16.68,9.31,Steel,Kochi,296,2965149
+1450408,Motorboat,Yamaha,New,2014,26.18,2.5,Fiberglass,Mumbai,343,2961505
+804828,Jet Ski,Jeanneau,New,2004,7.51,3.59,Steel,Visakhapatnam,158,2473077
+2178897,Fishing Boat,Boston Whaler,New,2016,21.76,7.9,Fiberglass,Visakhapatnam,408,3467341
+2258745,Fishing Boat,Beneteau,Used,2010,36.64,2.45,Wood,Chennai,84,1253903
+3528664,Sailboat,Yamaha,New,2009,6.67,5.25,Fiberglass,Goa,496,288988
+3478014,Jet Ski,Yamaha,New,2002,43.69,3.53,Wood,Visakhapatnam,319,3226729
+3794632,Jet Ski,Yamaha,Used,2008,48.63,7.2,Steel,Mumbai,460,4620785
+1013602,Sailboat,Sea Ray,Used,1995,18.06,9.38,Wood,Chennai,266,4882406
+1743828,Jet Ski,Bayliner,New,2021,8.92,4.74,Steel,Chennai,220,1417567
+401515,Fishing Boat,Sea Ray,Used,2022,44.59,3.61,Fiberglass,Mumbai,383,402317
+4639123,Yacht,Bayliner,Used,2009,10.75,8.41,Aluminum,Kochi,179,308667
+3121073,Yacht,Yamaha,New,1997,44.95,5.31,Steel,Mumbai,346,2584614
+2233043,Motorboat,Yamaha,Used,1991,48.4,4.94,Steel,Kochi,190,183436
+1043055,Jet Ski,Sea Ray,New,2003,8.44,3.9,Aluminum,Goa,291,3321964
+2413545,Yacht,Sea Ray,Used,2017,21.31,3.38,Wood,Mumbai,277,1221851
+1346741,Jet Ski,Jeanneau,New,1997,9.78,3.58,Wood,Visakhapatnam,188,413177
+4754884,Fishing Boat,Jeanneau,New,2022,38.19,6.68,Fiberglass,Visakhapatnam,249,1556763
+4187783,Fishing Boat,Beneteau,New,1995,37.77,6.74,Fiberglass,Visakhapatnam,495,2356096
+1681232,Fishing Boat,Bayliner,Used,2017,21.15,8.49,Wood,Chennai,478,2147889
+4649195,Fishing Boat,Sea Ray,Used,2001,48.22,8.34,Steel,Visakhapatnam,26,3503014
+3017508,Yacht,Jeanneau,Used,2000,22.64,5.58,Fiberglass,Visakhapatnam,59,4249973
+4791262,Fishing Boat,Boston Whaler,Used,2000,28.82,7.61,Steel,Visakhapatnam,348,874596
+2976484,Jet Ski,Bayliner,New,2001,30.26,3.75,Fiberglass,Visakhapatnam,224,2055650
+987096,Sailboat,Boston Whaler,New,1996,36.43,3.34,Fiberglass,Chennai,248,1137677
+2816090,Fishing Boat,Sea Ray,Used,2007,36.95,8.06,Steel,Mumbai,82,138753
+655666,Yacht,Beneteau,New,2007,21.08,7.1,Fiberglass,Kochi,267,945859
+4544632,Yacht,Sea Ray,New,2006,23.49,5.8,Steel,Visakhapatnam,6,318428
+1764842,Yacht,Sea Ray,Used,2003,33.64,8.33,Fiberglass,Kochi,84,561968
+1148727,Sailboat,Jeanneau,Used,2016,6.58,7.46,Steel,Visakhapatnam,219,4710165
+4824440,Jet Ski,Bayliner,New,2012,25.95,5.25,Fiberglass,Mumbai,381,1952695
+2252265,Jet Ski,Jeanneau,Used,1991,12.69,4.69,Wood,Goa,429,4107280
+1690009,Motorboat,Sea Ray,New,2017,23.04,4.91,Fiberglass,Visakhapatnam,446,3927260
+249376,Sailboat,Sea Ray,Used,2010,14.45,4.93,Aluminum,Kochi,345,1193059
+3930936,Motorboat,Bayliner,Used,1993,41.2,7.8,Wood,Kochi,326,2941058
+2098442,Fishing Boat,Yamaha,New,2003,48.28,3.89,Wood,Visakhapatnam,355,2886596
+339936,Motorboat,Yamaha,New,2009,26.27,3.43,Steel,Mumbai,308,4167064
+4687368,Motorboat,Sea Ray,New,2011,20.69,8.73,Aluminum,Goa,463,4864083
+4620682,Jet Ski,Bayliner,Used,2012,24.09,5.13,Aluminum,Kochi,304,4450726
+2701815,Yacht,Sea Ray,New,2008,8.2,6.85,Fiberglass,Kochi,343,3203983
+4725227,Jet Ski,Yamaha,Used,1994,13.23,7.76,Steel,Goa,311,281901
+471977,Jet Ski,Beneteau,New,2020,34.08,3.04,Fiberglass,Mumbai,373,2527430
+3995787,Yacht,Bayliner,Used,2009,15.75,7.03,Aluminum,Goa,193,636292
+563086,Yacht,Beneteau,New,2006,17.08,4.68,Fiberglass,Visakhapatnam,41,1932357
+3999409,Yacht,Yamaha,New,2000,27.32,5.24,Steel,Mumbai,234,2949611
+4496923,Yacht,Sea Ray,New,2017,43.53,4.09,Steel,Mumbai,479,2626118
+4525847,Motorboat,Beneteau,Used,2012,5.2,9.08,Wood,Mumbai,398,2360663
+4459263,Motorboat,Sea Ray,New,2001,39.86,7.56,Fiberglass,Chennai,389,405777
+4629520,Motorboat,Jeanneau,Used,1999,38.94,6.7,Wood,Chennai,102,3980224
+4183161,Sailboat,Beneteau,Used,2006,19.57,6.36,Wood,Visakhapatnam,139,1162039
+4900600,Sailboat,Beneteau,Used,1999,6.05,6.57,Fiberglass,Kochi,285,4447172
+1140313,Motorboat,Boston Whaler,Used,2004,38.1,2.31,Fiberglass,Kochi,142,3967637
+828094,Motorboat,Jeanneau,Used,2022,24.18,4.09,Aluminum,Goa,220,2249316
+1950619,Sailboat,Jeanneau,New,2015,34.34,9.78,Steel,Kochi,363,1818064
+263889,Jet Ski,Yamaha,Used,2010,26.43,5.11,Aluminum,Kochi,242,144230
+869605,Jet Ski,Bayliner,New,1992,6.25,4.98,Fiberglass,Goa,478,1000299
+385530,Yacht,Beneteau,Used,1995,17.75,3.54,Steel,Goa,418,4645025
+4245364,Jet Ski,Yamaha,Used,2017,33.43,6.86,Steel,Kochi,242,1879437
+4174762,Motorboat,Sea Ray,New,2009,21.36,3.02,Fiberglass,Goa,449,3783423
+2559110,Sailboat,Boston Whaler,Used,2000,6.54,9.26,Steel,Kochi,446,3360766
+523213,Yacht,Sea Ray,New,2003,26.42,2.93,Wood,Kochi,260,3714461
+3970730,Jet Ski,Bayliner,New,1994,32.05,3.32,Wood,Chennai,194,862096
+3592908,Yacht,Boston Whaler,Used,2019,5.4,3.2,Steel,Visakhapatnam,483,4529218
+768733,Sailboat,Bayliner,New,2008,5.03,4.89,Fiberglass,Chennai,379,807878
+4641882,Fishing Boat,Jeanneau,New,2011,43.35,3.93,Fiberglass,Chennai,337,1663110
+1270875,Motorboat,Sea Ray,Used,1999,23.8,4.83,Fiberglass,Mumbai,415,4644447
+1914904,Jet Ski,Sea Ray,New,2021,16.15,8.86,Steel,Kochi,78,1799966
+3638096,Fishing Boat,Bayliner,New,1991,47.34,3.79,Aluminum,Visakhapatnam,396,661091
+3041849,Jet Ski,Jeanneau,Used,2011,14.85,2.78,Fiberglass,Goa,217,94910
+3189162,Yacht,Boston Whaler,Used,2016,19.31,7.38,Aluminum,Kochi,287,537442
+4280896,Fishing Boat,Beneteau,Used,2002,27.44,2.62,Steel,Visakhapatnam,134,2971176
+1841011,Fishing Boat,Yamaha,Used,2020,12.49,4.91,Steel,Mumbai,476,1950563
+3199329,Yacht,Beneteau,Used,2005,7.79,6.22,Steel,Chennai,75,4489548
+4479936,Fishing Boat,Jeanneau,New,2007,28.41,2.31,Aluminum,Kochi,367,1799521
+1063633,Fishing Boat,Beneteau,Used,1995,24.69,5.52,Wood,Goa,27,320455
+841922,Fishing Boat,Yamaha,Used,2024,10.69,4.99,Steel,Mumbai,223,4214213
+1719770,Sailboat,Sea Ray,New,2006,41.16,5.92,Aluminum,Goa,161,2753452
+3428529,Sailboat,Bayliner,Used,2013,28.05,3.27,Fiberglass,Chennai,92,79937
+2669493,Motorboat,Beneteau,Used,1997,11.71,9.37,Fiberglass,Kochi,332,1893543
+3470602,Yacht,Boston Whaler,Used,2016,26.58,8.69,Wood,Visakhapatnam,105,487784
+3302118,Yacht,Yamaha,Used,2008,24.9,5.34,Wood,Goa,479,3878730
+4349672,Yacht,Beneteau,Used,2024,7.44,5.3,Steel,Visakhapatnam,130,1975522
+1512652,Fishing Boat,Jeanneau,Used,2004,17.82,2.34,Wood,Mumbai,157,2779313
+2371892,Motorboat,Boston Whaler,Used,1992,5.36,9.22,Steel,Kochi,394,3710668
+158469,Fishing Boat,Bayliner,Used,2017,12.56,6.4,Wood,Mumbai,134,859706
+3334485,Sailboat,Beneteau,New,2005,12.65,2.16,Steel,Goa,8,3335229
+3502016,Sailboat,Boston Whaler,New,2014,20.6,4.12,Aluminum,Chennai,440,4106301
+83115,Jet Ski,Jeanneau,New,2004,13.69,4.9,Wood,Kochi,134,3736808
+4037927,Sailboat,Jeanneau,New,2020,11.43,5.91,Aluminum,Chennai,282,163690
+2567481,Motorboat,Beneteau,Used,2024,16.35,5.9,Wood,Goa,195,517906
+3016918,Yacht,Beneteau,New,2015,31.99,4.98,Steel,Mumbai,76,2137334
+2034374,Jet Ski,Jeanneau,New,1995,20.04,8.52,Fiberglass,Visakhapatnam,114,3535923
+4329825,Yacht,Bayliner,Used,2022,18.41,7.11,Aluminum,Goa,56,3819913
+4015924,Sailboat,Bayliner,New,2006,22.32,4.69,Wood,Kochi,274,4815227
+4690252,Jet Ski,Bayliner,Used,2004,41.44,8.67,Fiberglass,Chennai,228,1112788
+1620675,Jet Ski,Boston Whaler,New,2015,20.01,4.65,Steel,Chennai,423,3059570
+3314710,Sailboat,Sea Ray,New,1991,20.56,9.07,Steel,Mumbai,422,1403863
+1585678,Sailboat,Beneteau,Used,2018,9.09,6.08,Steel,Visakhapatnam,52,1142662
+1427430,Fishing Boat,Yamaha,Used,2002,9.12,4.59,Wood,Mumbai,175,341761
+3604415,Fishing Boat,Jeanneau,New,2021,47.53,6.89,Steel,Chennai,385,1319209
+3747255,Motorboat,Yamaha,New,2023,10.53,9.39,Fiberglass,Chennai,234,907493
+4925136,Sailboat,Jeanneau,Used,2004,19.96,5.85,Wood,Visakhapatnam,376,1982695
+3052952,Jet Ski,Bayliner,New,1991,19.27,9.23,Steel,Kochi,229,2480762
+3186040,Jet Ski,Bayliner,Used,2014,44.53,9.12,Aluminum,Goa,12,3263213
+3485169,Sailboat,Boston Whaler,Used,1991,40.83,3.97,Steel,Kochi,426,2537033
+2111635,Jet Ski,Bayliner,New,2019,22.34,9.37,Aluminum,Goa,182,2196457
+4957215,Motorboat,Jeanneau,Used,2022,14.39,9.46,Aluminum,Visakhapatnam,47,3986394
+1069838,Jet Ski,Bayliner,Used,2001,6.08,4.27,Fiberglass,Kochi,477,3228862
+4664583,Jet Ski,Boston Whaler,New,1992,6.42,6.84,Steel,Mumbai,237,1591359
+866084,Yacht,Bayliner,Used,2004,7.15,2.52,Steel,Visakhapatnam,44,967955
+3828243,Yacht,Bayliner,Used,1997,36.43,2.98,Wood,Mumbai,200,2802649
+655051,Jet Ski,Beneteau,New,1992,34.86,8.4,Wood,Chennai,372,2297645
+1407187,Sailboat,Yamaha,New,2017,27.05,3.11,Aluminum,Chennai,378,2579365
+4775669,Motorboat,Beneteau,Used,2005,45.17,6.11,Wood,Goa,249,171874
+1504820,Fishing Boat,Boston Whaler,Used,2020,20.51,6.33,Steel,Goa,281,693459
+538058,Motorboat,Boston Whaler,Used,2019,9.51,4.22,Aluminum,Goa,253,3430485
+4448108,Sailboat,Jeanneau,Used,1995,32.72,4.23,Steel,Chennai,412,705029
+3206681,Yacht,Sea Ray,New,2011,12.27,5.82,Aluminum,Chennai,353,3947635
+4274325,Motorboat,Yamaha,New,2022,14.22,6.12,Fiberglass,Visakhapatnam,17,3552114
+4817534,Fishing Boat,Boston Whaler,Used,1991,47.36,8.6,Fiberglass,Mumbai,92,1495489
+177196,Yacht,Beneteau,Used,2000,19.13,4.21,Fiberglass,Visakhapatnam,425,1296481
+2892964,Motorboat,Jeanneau,New,1994,43.8,6.32,Wood,Mumbai,167,1020171
+490888,Motorboat,Yamaha,New,2006,23.42,6.72,Wood,Mumbai,427,1395877
+4292318,Sailboat,Bayliner,Used,2023,48.42,6.05,Aluminum,Chennai,210,3948754
+723066,Yacht,Bayliner,New,1994,14.1,6.86,Steel,Goa,93,1413369
+4591194,Fishing Boat,Sea Ray,New,2013,41.11,9.46,Aluminum,Mumbai,215,4111890
+3526620,Motorboat,Yamaha,New,2014,24.05,4.85,Aluminum,Goa,482,117343
+2367619,Yacht,Beneteau,Used,2013,35.9,5.19,Wood,Kochi,265,3164502
+2709699,Sailboat,Boston Whaler,New,2018,6.92,2.61,Aluminum,Visakhapatnam,208,1399686
+3921732,Jet Ski,Yamaha,Used,2020,40.51,7.17,Wood,Mumbai,422,3558342
+2979909,Sailboat,Yamaha,New,1998,45.67,5.7,Fiberglass,Chennai,87,2294234
+2911387,Fishing Boat,Bayliner,Used,2020,7.21,6.37,Aluminum,Chennai,265,1581612
+539932,Yacht,Beneteau,Used,2018,38.9,6.33,Fiberglass,Mumbai,6,663025
+1254011,Yacht,Boston Whaler,Used,2019,47.17,3.32,Steel,Chennai,396,4655227
+4836126,Jet Ski,Sea Ray,Used,2010,10.8,7.3,Steel,Visakhapatnam,70,4394291
+1353239,Sailboat,Boston Whaler,New,2003,7.72,5.23,Fiberglass,Kochi,453,3901769
+737924,Yacht,Boston Whaler,Used,2023,23.4,4.07,Fiberglass,Goa,272,162714
+4325607,Fishing Boat,Sea Ray,Used,2001,38.38,9.67,Steel,Chennai,427,231782
+731053,Jet Ski,Sea Ray,Used,2008,15.08,7.41,Aluminum,Chennai,384,4587363
+4800020,Jet Ski,Bayliner,New,2023,36.94,5.34,Steel,Kochi,313,1496894
+4872023,Motorboat,Jeanneau,New,2006,27.11,9.45,Steel,Kochi,143,63093
+3329302,Sailboat,Jeanneau,New,2004,16.51,5.56,Steel,Goa,279,908449
+1722794,Sailboat,Boston Whaler,Used,2020,35.19,8.64,Wood,Chennai,141,4367802
+849709,Jet Ski,Beneteau,New,2024,34.57,6.96,Wood,Visakhapatnam,192,1179692
+606892,Jet Ski,Sea Ray,New,2017,18.73,4.55,Wood,Chennai,141,4020635
+4347482,Jet Ski,Bayliner,New,2016,14.3,7.2,Steel,Chennai,21,4487206
+1938444,Motorboat,Yamaha,New,1998,45.55,5.02,Aluminum,Kochi,320,4614840
+4697588,Jet Ski,Boston Whaler,New,1993,13.02,8.42,Aluminum,Chennai,376,2765604
+2611810,Motorboat,Sea Ray,Used,1999,9.13,3.68,Fiberglass,Visakhapatnam,447,2416113
+63310,Motorboat,Bayliner,Used,2007,49.88,8.12,Aluminum,Kochi,148,1733453
+1321076,Fishing Boat,Beneteau,New,1993,46.58,8.36,Aluminum,Goa,78,1743372
+2909803,Sailboat,Sea Ray,Used,1998,15.36,8.93,Aluminum,Chennai,366,4064716
+1884881,Jet Ski,Bayliner,New,2023,17.16,7.07,Aluminum,Chennai,474,938521
+2690406,Sailboat,Beneteau,Used,2004,20.61,2.38,Wood,Mumbai,236,2597582
+367977,Yacht,Sea Ray,New,1997,22.37,3.31,Fiberglass,Chennai,435,105597
+3174111,Fishing Boat,Bayliner,New,2020,7.46,7.95,Steel,Goa,179,148732
+438875,Fishing Boat,Boston Whaler,Used,2012,26.9,2.41,Wood,Mumbai,311,2929406
+996286,Yacht,Sea Ray,New,1994,32.56,6.99,Steel,Goa,481,4921295
+4442384,Jet Ski,Boston Whaler,New,1999,10.77,5.01,Fiberglass,Visakhapatnam,18,4006302
+774592,Jet Ski,Jeanneau,New,2023,16.35,6.55,Steel,Mumbai,304,147048
+4824504,Sailboat,Sea Ray,New,2023,45.0,7.89,Aluminum,Mumbai,310,1904892
+206073,Sailboat,Beneteau,New,1994,5.4,8.39,Wood,Visakhapatnam,298,1561754
+2755559,Motorboat,Bayliner,Used,2016,16.58,4.35,Aluminum,Visakhapatnam,37,2480864
+2497152,Yacht,Bayliner,New,2023,10.92,2.55,Steel,Mumbai,326,3030317
+1817087,Motorboat,Boston Whaler,Used,2015,7.43,6.28,Fiberglass,Visakhapatnam,377,468109
+1877207,Motorboat,Sea Ray,Used,2006,41.05,2.12,Steel,Chennai,128,2980434
+4795514,Sailboat,Boston Whaler,Used,2009,48.06,5.9,Steel,Goa,22,1936731
+1369563,Yacht,Beneteau,New,2019,19.52,6.79,Fiberglass,Chennai,121,4565941
+4604679,Yacht,Yamaha,New,2000,44.22,7.15,Wood,Mumbai,396,1620946
+4043775,Sailboat,Beneteau,Used,2013,30.84,6.64,Aluminum,Goa,105,1930316
+4487800,Yacht,Bayliner,Used,1993,11.16,6.6,Fiberglass,Mumbai,304,1192115
+2481070,Yacht,Bayliner,Used,2000,42.22,9.69,Fiberglass,Chennai,476,3233074
+2251917,Yacht,Boston Whaler,New,2008,41.06,9.8,Aluminum,Chennai,381,3947338
+1562063,Jet Ski,Sea Ray,New,1991,33.85,3.32,Aluminum,Chennai,416,3415136
+3222884,Motorboat,Jeanneau,Used,1999,11.48,8.62,Steel,Kochi,263,4324860
+1107848,Jet Ski,Yamaha,New,2020,30.87,4.7,Aluminum,Goa,107,512783
+3094021,Sailboat,Boston Whaler,New,1997,33.48,9.23,Aluminum,Kochi,383,4592617
+2830940,Yacht,Beneteau,Used,1994,30.53,8.4,Aluminum,Mumbai,99,2943344
+695019,Jet Ski,Bayliner,New,2008,49.92,5.55,Steel,Chennai,396,1457698
+871064,Yacht,Jeanneau,New,2017,39.76,9.39,Steel,Goa,396,2201902
+2395705,Jet Ski,Jeanneau,Used,1999,47.73,3.95,Steel,Kochi,483,3090696
+3893506,Sailboat,Sea Ray,Used,2021,9.76,7.63,Fiberglass,Mumbai,465,3291015
+1138087,Sailboat,Boston Whaler,New,1999,32.35,4.01,Fiberglass,Kochi,356,3118643
+2466063,Motorboat,Beneteau,New,2014,29.05,3.97,Wood,Goa,108,2521900
+3757889,Motorboat,Bayliner,New,2014,17.37,9.27,Steel,Visakhapatnam,97,3245938
+1050829,Jet Ski,Beneteau,New,2020,21.09,8.25,Aluminum,Visakhapatnam,168,4517995
+3873139,Fishing Boat,Bayliner,New,2022,37.84,4.83,Fiberglass,Visakhapatnam,25,1207204
+1283482,Jet Ski,Jeanneau,New,2023,48.76,5.89,Wood,Mumbai,356,2922860
+2917105,Jet Ski,Beneteau,New,2022,15.63,5.52,Steel,Visakhapatnam,310,3956768
+2854719,Yacht,Boston Whaler,New,1997,29.52,2.3,Aluminum,Kochi,159,1725134
+794080,Sailboat,Jeanneau,Used,2000,22.56,3.46,Fiberglass,Mumbai,397,2289407
+2675997,Motorboat,Sea Ray,Used,2001,14.8,5.9,Steel,Mumbai,128,845256
+2230259,Motorboat,Bayliner,New,2013,6.86,2.23,Fiberglass,Visakhapatnam,252,902468
+2253747,Yacht,Sea Ray,New,1999,44.41,3.52,Fiberglass,Visakhapatnam,498,1313506
+1024631,Fishing Boat,Boston Whaler,Used,2024,33.59,4.26,Aluminum,Chennai,458,3936867
+3958445,Jet Ski,Jeanneau,Used,2024,16.68,2.13,Fiberglass,Goa,135,2850828
+3079562,Sailboat,Sea Ray,New,2017,20.59,9.3,Steel,Visakhapatnam,59,1318488
+2869241,Yacht,Bayliner,Used,2023,38.96,9.76,Aluminum,Kochi,343,789308
+4676259,Jet Ski,Bayliner,Used,1998,46.54,4.42,Wood,Mumbai,212,3787094
+1429094,Jet Ski,Boston Whaler,Used,2018,38.15,5.76,Fiberglass,Kochi,358,1511373
+4063579,Sailboat,Jeanneau,Used,2014,39.69,4.57,Steel,Mumbai,23,2469733
+4401133,Jet Ski,Boston Whaler,Used,2015,29.27,2.94,Steel,Chennai,491,1263340
+4732839,Sailboat,Beneteau,Used,2023,32.67,5.44,Steel,Chennai,336,3956473
+2078506,Fishing Boat,Jeanneau,Used,2005,38.48,7.92,Fiberglass,Goa,66,2872541
+1332988,Sailboat,Beneteau,New,1994,32.52,7.28,Fiberglass,Chennai,454,2443321
+2903713,Sailboat,Boston Whaler,New,2000,44.39,5.66,Wood,Mumbai,320,2962697
+1461935,Fishing Boat,Yamaha,Used,2018,8.83,8.72,Fiberglass,Goa,394,1626322
+869874,Motorboat,Jeanneau,Used,2002,19.55,7.15,Steel,Chennai,125,3805277
+2434482,Jet Ski,Bayliner,New,2011,28.56,2.14,Wood,Visakhapatnam,80,3170096
+4645443,Jet Ski,Sea Ray,New,2019,22.75,9.26,Aluminum,Chennai,412,4151907
+1071436,Fishing Boat,Beneteau,Used,2008,42.7,8.33,Fiberglass,Chennai,459,4906017
+4481169,Sailboat,Bayliner,New,2007,41.41,3.57,Aluminum,Kochi,351,2799789
+2205566,Yacht,Beneteau,Used,2020,17.06,6.91,Fiberglass,Visakhapatnam,251,4647252
+761181,Motorboat,Yamaha,New,2017,33.66,4.96,Steel,Goa,46,1172388
+4574239,Motorboat,Beneteau,Used,2018,19.97,7.05,Wood,Goa,308,2334359
+4883188,Motorboat,Beneteau,New,2015,12.78,6.32,Steel,Kochi,98,2216702
+1433713,Fishing Boat,Sea Ray,Used,2006,23.05,8.19,Aluminum,Kochi,133,944429
+3714153,Yacht,Yamaha,Used,1996,12.36,6.43,Wood,Chennai,363,2006113
+759428,Motorboat,Boston Whaler,New,2013,40.22,4.25,Wood,Visakhapatnam,107,64394
+2696830,Yacht,Boston Whaler,New,2011,42.28,9.98,Fiberglass,Mumbai,179,508764
+2474615,Fishing Boat,Beneteau,New,1991,39.28,5.2,Aluminum,Chennai,490,238478
+3829214,Sailboat,Yamaha,New,2002,17.86,6.94,Aluminum,Visakhapatnam,296,834421
+4142430,Sailboat,Bayliner,New,2000,40.39,8.03,Steel,Kochi,495,1414893
+1546567,Sailboat,Boston Whaler,Used,2019,29.93,2.7,Fiberglass,Mumbai,454,3690765
+1178314,Jet Ski,Sea Ray,Used,2013,15.72,9.7,Fiberglass,Visakhapatnam,118,4487051
+132451,Jet Ski,Beneteau,Used,1999,16.46,7.78,Aluminum,Mumbai,83,4390094
+4688158,Fishing Boat,Boston Whaler,Used,1999,14.31,2.06,Fiberglass,Chennai,87,1875729
+1149833,Yacht,Yamaha,Used,2016,43.64,3.18,Steel,Mumbai,94,565202
+2833381,Motorboat,Yamaha,New,2002,26.11,3.34,Wood,Chennai,83,2121301
+3413374,Sailboat,Sea Ray,Used,2004,5.99,4.45,Aluminum,Mumbai,392,392568
+2886491,Sailboat,Boston Whaler,Used,2021,18.05,4.67,Wood,Chennai,408,2856698
+3874168,Motorboat,Beneteau,Used,2023,19.59,3.83,Aluminum,Chennai,11,2011872
+4880323,Jet Ski,Bayliner,Used,2016,29.98,9.89,Aluminum,Chennai,441,397132
+1780407,Fishing Boat,Sea Ray,Used,2015,14.72,3.32,Fiberglass,Visakhapatnam,146,4583786
+2628668,Fishing Boat,Boston Whaler,New,2006,17.19,5.99,Steel,Goa,319,4857988
+3199743,Sailboat,Bayliner,Used,2012,33.97,3.27,Fiberglass,Kochi,199,2393656
+4950444,Motorboat,Yamaha,New,2016,35.83,8.44,Steel,Chennai,7,1609897
+2980073,Sailboat,Jeanneau,Used,2013,25.69,7.22,Aluminum,Visakhapatnam,45,924574
+619895,Motorboat,Jeanneau,New,2007,15.49,9.28,Steel,Chennai,246,1287795
+615627,Fishing Boat,Bayliner,Used,1990,33.88,8.95,Wood,Mumbai,107,4975693
+1470048,Yacht,Sea Ray,Used,2000,13.72,6.62,Fiberglass,Chennai,345,3511852
+2676939,Motorboat,Beneteau,New,2012,26.06,5.27,Wood,Mumbai,315,4100870
+4587820,Jet Ski,Yamaha,Used,2016,15.75,8.6,Wood,Goa,140,1336134
+172078,Fishing Boat,Bayliner,New,2001,34.09,6.46,Fiberglass,Goa,370,3678641
+3878035,Jet Ski,Sea Ray,New,1997,36.39,7.28,Aluminum,Visakhapatnam,358,174463
+2945292,Jet Ski,Boston Whaler,Used,2020,31.8,9.43,Aluminum,Chennai,98,4487676
+4743087,Yacht,Boston Whaler,New,2017,34.66,4.43,Aluminum,Visakhapatnam,391,4495750
+2851097,Yacht,Bayliner,Used,2015,25.28,9.03,Fiberglass,Chennai,7,4209742
+4033259,Jet Ski,Jeanneau,Used,1992,45.62,3.79,Aluminum,Goa,12,2317449
+262608,Sailboat,Bayliner,New,2023,35.44,5.61,Wood,Goa,481,4035081
+746098,Yacht,Yamaha,New,2021,45.76,3.22,Fiberglass,Visakhapatnam,113,4551465
+4252554,Yacht,Jeanneau,New,1992,29.37,3.79,Fiberglass,Mumbai,236,1305600
+1471886,Jet Ski,Beneteau,New,2015,42.16,3.37,Aluminum,Goa,478,3178270
+3560550,Fishing Boat,Yamaha,Used,2023,24.19,7.73,Aluminum,Kochi,41,1754808
+685812,Motorboat,Bayliner,New,2009,34.01,8.71,Steel,Mumbai,85,1847085
+1793211,Sailboat,Bayliner,New,1995,49.4,3.31,Wood,Kochi,166,1284509
+999586,Motorboat,Boston Whaler,New,2003,45.12,3.39,Steel,Chennai,82,1327134
+4073778,Yacht,Sea Ray,Used,2017,9.26,8.99,Wood,Goa,232,1872603
+1227884,Sailboat,Bayliner,New,2020,10.15,6.89,Fiberglass,Visakhapatnam,167,500333
+3226697,Yacht,Jeanneau,New,2002,43.86,9.8,Wood,Goa,421,4877849
+621004,Sailboat,Beneteau,New,2005,31.28,5.87,Aluminum,Chennai,380,325022
+4899427,Fishing Boat,Beneteau,New,1998,31.41,8.94,Aluminum,Mumbai,174,466422
+969963,Jet Ski,Sea Ray,New,2024,48.07,9.34,Wood,Mumbai,195,4407546
+3614967,Fishing Boat,Jeanneau,New,2004,43.89,9.43,Steel,Visakhapatnam,376,2494669
+1558910,Fishing Boat,Jeanneau,Used,2020,42.35,3.47,Steel,Mumbai,484,423523
+2500932,Fishing Boat,Jeanneau,New,2016,39.14,8.15,Steel,Chennai,418,1602330
+1098045,Sailboat,Beneteau,Used,2011,28.23,9.43,Wood,Mumbai,26,3856684
+385065,Motorboat,Jeanneau,New,2017,20.22,8.24,Wood,Chennai,84,1488065
+3133704,Fishing Boat,Sea Ray,New,1995,29.79,8.28,Fiberglass,Mumbai,71,2204290
+4860243,Yacht,Beneteau,New,2017,15.03,5.58,Fiberglass,Visakhapatnam,324,895429
+4480181,Yacht,Jeanneau,New,2009,23.79,3.98,Aluminum,Kochi,284,4149377
+2383004,Sailboat,Beneteau,New,1995,35.41,6.15,Aluminum,Visakhapatnam,147,2080785
+3786728,Motorboat,Jeanneau,Used,2000,37.97,2.54,Steel,Goa,69,1063717
+925838,Motorboat,Beneteau,Used,2010,47.88,9.55,Wood,Kochi,377,336560
+1570173,Sailboat,Yamaha,New,2014,31.1,2.93,Fiberglass,Chennai,401,1868782
+2185773,Yacht,Bayliner,Used,1995,18.23,4.06,Wood,Kochi,208,3292757
+620915,Sailboat,Boston Whaler,Used,2013,49.75,8.91,Fiberglass,Mumbai,267,552528
+433573,Yacht,Yamaha,New,1998,34.07,7.3,Aluminum,Chennai,179,869784
+2143893,Yacht,Jeanneau,Used,2020,14.12,4.43,Steel,Goa,9,4550014
+1704705,Sailboat,Bayliner,New,2009,6.89,4.05,Fiberglass,Kochi,275,4617168
+2730797,Sailboat,Jeanneau,Used,2002,9.84,5.82,Wood,Visakhapatnam,249,177135
+2652782,Sailboat,Boston Whaler,New,2022,21.99,7.32,Steel,Chennai,37,610714
+4279228,Sailboat,Bayliner,New,2020,25.15,3.89,Aluminum,Kochi,492,3865296
+3937485,Yacht,Jeanneau,New,2010,48.42,9.82,Fiberglass,Goa,220,3030568
+2702772,Jet Ski,Beneteau,New,1990,49.61,3.85,Steel,Visakhapatnam,484,4706683
+818416,Jet Ski,Sea Ray,Used,1991,36.32,9.26,Steel,Kochi,485,4304592
+3005808,Yacht,Beneteau,New,2006,33.27,3.84,Wood,Mumbai,392,3230817
+3904420,Jet Ski,Sea Ray,Used,1997,31.62,2.15,Aluminum,Chennai,16,2191644
+4035140,Jet Ski,Sea Ray,New,2000,6.75,5.96,Steel,Chennai,147,613330
+4239060,Jet Ski,Jeanneau,Used,2023,15.88,4.78,Steel,Kochi,65,1212496
+839656,Fishing Boat,Beneteau,New,2004,8.08,5.24,Fiberglass,Visakhapatnam,283,1765018
+540326,Jet Ski,Boston Whaler,New,2018,32.15,6.37,Aluminum,Mumbai,467,3117885
+2456000,Sailboat,Bayliner,Used,2006,35.07,4.88,Fiberglass,Goa,141,3550029
+4130798,Yacht,Beneteau,New,2004,38.08,8.72,Aluminum,Goa,277,4848145
+3132661,Motorboat,Jeanneau,New,2009,6.14,8.12,Aluminum,Mumbai,375,3445035
+1199648,Sailboat,Boston Whaler,New,2004,41.08,3.03,Wood,Mumbai,366,4142119
+4636396,Yacht,Jeanneau,New,2019,46.2,9.55,Wood,Visakhapatnam,269,1046466
+3891915,Fishing Boat,Boston Whaler,Used,1998,28.59,3.63,Fiberglass,Chennai,127,1318410
+1762192,Motorboat,Jeanneau,Used,2015,10.74,6.74,Aluminum,Goa,423,1678221
+3022944,Fishing Boat,Boston Whaler,Used,1996,36.16,5.8,Aluminum,Goa,137,1359697
+3600954,Jet Ski,Beneteau,Used,2003,10.72,8.13,Aluminum,Kochi,499,3313856
+4715594,Jet Ski,Sea Ray,Used,2004,43.95,9.99,Wood,Goa,365,325460
+2982245,Jet Ski,Sea Ray,New,2001,19.86,3.66,Aluminum,Mumbai,125,3152342
+725673,Sailboat,Sea Ray,Used,2024,34.27,7.21,Wood,Kochi,242,480427
+3508718,Sailboat,Bayliner,New,2000,9.49,8.82,Aluminum,Visakhapatnam,110,3957899
+1074431,Motorboat,Bayliner,Used,2007,34.36,4.04,Aluminum,Goa,401,2904083
+2080746,Yacht,Yamaha,Used,2009,10.89,8.87,Steel,Chennai,415,561880
+89262,Jet Ski,Bayliner,New,1992,33.36,9.98,Wood,Chennai,347,2291722
+3936591,Sailboat,Yamaha,New,2010,46.62,7.93,Wood,Chennai,232,4201265
+857349,Sailboat,Sea Ray,Used,1994,47.4,3.65,Wood,Visakhapatnam,131,1784361
+1863693,Motorboat,Sea Ray,New,1998,23.68,5.14,Wood,Visakhapatnam,391,2793514
+1129859,Jet Ski,Bayliner,New,2010,14.92,6.56,Wood,Kochi,4,1759670
+1840132,Jet Ski,Jeanneau,Used,2005,46.2,5.88,Fiberglass,Kochi,285,4547691
+3127490,Motorboat,Bayliner,Used,2022,10.92,8.95,Steel,Kochi,20,3286989
+1830549,Motorboat,Sea Ray,New,2002,18.39,9.88,Fiberglass,Chennai,394,4712060
+3325233,Jet Ski,Sea Ray,Used,2022,10.49,2.11,Fiberglass,Kochi,379,1550449
+2340637,Yacht,Yamaha,New,2007,42.36,5.06,Fiberglass,Goa,381,646539
+4377687,Motorboat,Jeanneau,New,2020,16.18,9.73,Fiberglass,Chennai,218,1982885
+3601532,Jet Ski,Sea Ray,New,2012,31.4,4.01,Wood,Visakhapatnam,232,1586308
+2936392,Motorboat,Sea Ray,Used,2002,26.14,4.37,Steel,Goa,198,3611648
+4982099,Yacht,Beneteau,New,1995,49.69,7.63,Wood,Chennai,367,3589732
+1672767,Jet Ski,Boston Whaler,New,2021,8.76,6.03,Wood,Goa,459,1224113
+3601520,Fishing Boat,Yamaha,New,2004,49.59,9.15,Steel,Mumbai,3,175609
+3635375,Fishing Boat,Yamaha,Used,2010,31.62,7.77,Aluminum,Chennai,89,4034960
+941915,Fishing Boat,Jeanneau,Used,2001,16.6,6.09,Steel,Goa,14,3162248
+676369,Yacht,Beneteau,Used,2021,24.28,6.65,Fiberglass,Mumbai,434,524184
+827420,Sailboat,Yamaha,Used,2011,38.35,7.03,Wood,Kochi,242,281947
+4340138,Jet Ski,Boston Whaler,New,2015,44.32,2.79,Fiberglass,Mumbai,455,1869801
+4092931,Jet Ski,Sea Ray,New,1997,39.88,6.03,Fiberglass,Goa,487,718096
+2117700,Yacht,Boston Whaler,Used,2006,37.98,3.56,Fiberglass,Mumbai,409,1763750
+4669098,Sailboat,Boston Whaler,Used,2021,26.84,4.76,Wood,Mumbai,141,3531051
+3787458,Jet Ski,Bayliner,Used,2006,47.24,2.28,Fiberglass,Mumbai,398,3374347
+2887849,Fishing Boat,Bayliner,New,2004,39.96,9.79,Wood,Goa,374,3921693
+2392266,Jet Ski,Yamaha,Used,2012,47.74,2.11,Fiberglass,Kochi,379,1759617
+2527106,Sailboat,Jeanneau,New,1996,37.84,8.17,Steel,Kochi,26,2556666
+3641220,Jet Ski,Bayliner,Used,2015,38.06,3.24,Fiberglass,Mumbai,433,4501713
+4814339,Yacht,Boston Whaler,Used,2017,29.83,6.19,Wood,Goa,467,2924470
+3273436,Motorboat,Yamaha,Used,1995,36.29,5.31,Wood,Mumbai,239,1123576
+655534,Jet Ski,Sea Ray,Used,2012,5.41,6.2,Fiberglass,Goa,406,296838
+3525957,Motorboat,Bayliner,Used,2015,47.98,2.02,Aluminum,Goa,335,820101
+4401874,Jet Ski,Beneteau,Used,2017,46.53,2.23,Steel,Kochi,82,3327932
+1341658,Motorboat,Bayliner,Used,1995,20.88,6.84,Wood,Visakhapatnam,212,4818765
+1931223,Fishing Boat,Jeanneau,New,2011,36.89,9.56,Aluminum,Kochi,160,1849711
+667585,Motorboat,Jeanneau,New,2012,23.53,2.5,Aluminum,Chennai,116,4684997
+1385311,Yacht,Yamaha,New,2010,38.49,7.29,Wood,Visakhapatnam,458,1999104
+348385,Sailboat,Sea Ray,Used,2011,38.4,2.27,Fiberglass,Goa,332,4032494
+486195,Motorboat,Boston Whaler,New,1990,10.76,5.63,Steel,Mumbai,177,2501615
+1961563,Jet Ski,Bayliner,New,1992,30.78,9.0,Steel,Mumbai,337,583257
+2238033,Yacht,Yamaha,Used,2003,35.34,2.42,Wood,Kochi,83,2169847
+4150177,Fishing Boat,Boston Whaler,New,2003,9.42,8.18,Steel,Kochi,214,3906916
+4966106,Yacht,Boston Whaler,Used,2022,30.73,7.68,Wood,Goa,82,124560
+2812501,Yacht,Beneteau,New,1991,35.33,7.22,Steel,Mumbai,65,4416799
+2082130,Motorboat,Boston Whaler,Used,2000,8.69,5.14,Wood,Chennai,360,1568766
+4024469,Sailboat,Yamaha,Used,1994,9.79,3.27,Wood,Kochi,406,4973117
+746790,Fishing Boat,Beneteau,Used,1990,37.85,5.44,Fiberglass,Kochi,387,1446878
+4435477,Motorboat,Yamaha,New,1990,22.98,5.92,Aluminum,Chennai,284,1345102
+965270,Jet Ski,Bayliner,New,2002,34.26,7.23,Steel,Kochi,370,2540556
+4384139,Fishing Boat,Beneteau,New,2016,34.95,5.79,Steel,Chennai,221,4455146
+2650382,Fishing Boat,Jeanneau,Used,2006,29.75,4.94,Fiberglass,Visakhapatnam,311,4069234
+3429207,Motorboat,Bayliner,Used,1991,9.44,9.16,Wood,Visakhapatnam,473,267102
+324330,Jet Ski,Boston Whaler,New,2009,44.11,5.97,Fiberglass,Goa,311,4793965
+2260983,Fishing Boat,Jeanneau,Used,1994,39.69,5.62,Steel,Visakhapatnam,209,3603455
+1156068,Sailboat,Boston Whaler,New,2011,31.6,8.68,Fiberglass,Visakhapatnam,228,1950232
+3015236,Sailboat,Sea Ray,New,1990,23.2,6.67,Steel,Visakhapatnam,491,2126226
+4385717,Jet Ski,Yamaha,Used,2017,22.04,5.32,Aluminum,Goa,392,4079150
+429992,Jet Ski,Yamaha,Used,2001,46.2,2.83,Wood,Mumbai,51,2580440
+1152795,Jet Ski,Sea Ray,Used,1991,7.79,9.04,Aluminum,Mumbai,390,3209106
+2918261,Fishing Boat,Sea Ray,New,2000,30.08,8.57,Fiberglass,Kochi,189,3910600
+3842528,Jet Ski,Jeanneau,New,2001,18.63,4.53,Aluminum,Chennai,9,2721788
+679689,Yacht,Jeanneau,Used,1995,15.41,4.58,Wood,Goa,270,1762183
+2444510,Jet Ski,Sea Ray,Used,2009,33.96,8.26,Fiberglass,Goa,430,443747
+2453572,Fishing Boat,Beneteau,Used,2010,11.61,5.94,Wood,Visakhapatnam,81,3216636
+4697505,Sailboat,Yamaha,New,1990,23.46,7.33,Aluminum,Kochi,489,2827106
+3051557,Jet Ski,Jeanneau,New,2005,9.74,2.93,Aluminum,Goa,121,3830074
+4127031,Yacht,Beneteau,Used,2016,44.37,7.21,Aluminum,Chennai,76,1311770
+1166382,Sailboat,Jeanneau,New,2014,14.97,2.29,Aluminum,Mumbai,288,1383490
+2564967,Jet Ski,Yamaha,Used,2016,11.77,6.77,Fiberglass,Chennai,348,4466517
+1821941,Yacht,Beneteau,Used,1991,39.79,5.94,Fiberglass,Visakhapatnam,204,109237
+1878493,Fishing Boat,Bayliner,Used,2007,43.43,5.09,Fiberglass,Mumbai,233,364309
+440229,Motorboat,Yamaha,Used,2007,15.9,5.58,Steel,Visakhapatnam,413,910431
+3256571,Jet Ski,Bayliner,New,2023,33.09,2.37,Aluminum,Kochi,206,2403493
+259111,Motorboat,Boston Whaler,Used,2012,12.01,6.03,Wood,Kochi,440,4060272
+1611863,Sailboat,Jeanneau,New,2000,17.0,3.48,Wood,Visakhapatnam,121,493937
+728212,Motorboat,Boston Whaler,New,2004,23.16,5.51,Fiberglass,Visakhapatnam,366,281298
+2007261,Sailboat,Sea Ray,New,2013,5.18,3.72,Aluminum,Goa,133,2411177
+3077604,Sailboat,Yamaha,Used,1992,44.06,4.48,Aluminum,Chennai,333,835357
+4308842,Sailboat,Yamaha,New,2000,36.87,4.31,Aluminum,Kochi,345,2517743
+4828848,Fishing Boat,Beneteau,New,2013,27.28,8.61,Steel,Mumbai,384,3152490
+824012,Fishing Boat,Beneteau,New,2011,40.48,8.34,Aluminum,Goa,430,457602
+565539,Fishing Boat,Jeanneau,Used,1991,22.81,2.16,Wood,Chennai,436,1389622
+4455670,Sailboat,Beneteau,Used,2019,38.95,4.26,Wood,Mumbai,241,988124
+1454699,Jet Ski,Jeanneau,New,2016,10.98,4.93,Wood,Visakhapatnam,369,2380098
+468541,Jet Ski,Bayliner,Used,1995,43.01,7.25,Steel,Kochi,485,417913
+2869469,Motorboat,Bayliner,Used,2002,27.5,6.34,Wood,Goa,321,4999821
+4811135,Yacht,Yamaha,New,2023,40.63,8.04,Aluminum,Visakhapatnam,163,2994937
+271969,Sailboat,Bayliner,Used,2012,41.75,4.79,Aluminum,Goa,323,4447202
+274139,Sailboat,Bayliner,Used,2001,21.92,5.77,Fiberglass,Goa,231,3011161
+2559657,Motorboat,Jeanneau,New,1990,42.72,3.18,Wood,Goa,43,2482536
+4820967,Yacht,Bayliner,New,1990,16.22,3.9,Aluminum,Chennai,485,3776260
+536253,Fishing Boat,Bayliner,New,2019,30.84,8.66,Fiberglass,Goa,31,1307168
+658854,Sailboat,Beneteau,Used,2018,37.8,8.19,Aluminum,Visakhapatnam,337,743324
+1153578,Yacht,Beneteau,New,2005,8.19,3.05,Fiberglass,Visakhapatnam,275,2099954
+3431128,Jet Ski,Beneteau,Used,2016,6.92,3.79,Aluminum,Mumbai,434,329153
+4779484,Sailboat,Beneteau,New,2000,38.55,4.4,Wood,Kochi,233,1613306
+3101126,Sailboat,Boston Whaler,New,2012,10.17,7.05,Wood,Goa,170,3038387
+3380284,Jet Ski,Yamaha,New,1995,14.25,5.75,Steel,Mumbai,378,4371946
+3836888,Jet Ski,Sea Ray,New,1992,12.61,6.97,Fiberglass,Chennai,160,301910
+2021006,Motorboat,Bayliner,Used,2011,29.24,6.3,Steel,Goa,137,4748545
+3871352,Sailboat,Sea Ray,Used,2010,25.31,7.64,Fiberglass,Kochi,276,3382945
+2325693,Motorboat,Beneteau,New,1993,45.55,4.96,Aluminum,Chennai,3,1091788
+2977899,Motorboat,Sea Ray,New,2005,37.01,3.92,Aluminum,Goa,278,3739632
+1791170,Sailboat,Yamaha,Used,2006,30.27,2.04,Wood,Chennai,295,1473197
+2113797,Motorboat,Boston Whaler,New,2016,44.19,4.9,Aluminum,Visakhapatnam,193,699061
+1425821,Jet Ski,Beneteau,New,2011,45.52,2.12,Wood,Mumbai,316,2450485
+1377056,Motorboat,Bayliner,New,2022,48.71,2.64,Wood,Mumbai,217,3547783
+1151612,Jet Ski,Sea Ray,Used,2022,30.11,5.39,Aluminum,Kochi,14,4152625
+3712848,Jet Ski,Jeanneau,Used,2011,22.66,2.5,Aluminum,Mumbai,70,902952
+3356430,Yacht,Bayliner,Used,1999,14.67,6.39,Wood,Goa,295,1669027
+4307115,Motorboat,Yamaha,New,2008,14.96,7.09,Aluminum,Kochi,340,3168654
+3847795,Fishing Boat,Bayliner,New,2012,10.26,7.65,Fiberglass,Visakhapatnam,28,3163233
+2574688,Jet Ski,Yamaha,Used,1995,44.93,7.42,Aluminum,Kochi,222,3623837
+2688688,Sailboat,Jeanneau,New,2021,34.63,3.07,Wood,Chennai,129,3804096
+1119337,Sailboat,Bayliner,New,2011,12.82,2.02,Wood,Visakhapatnam,113,3451170
+4823615,Motorboat,Beneteau,Used,2008,24.76,8.66,Fiberglass,Goa,459,1517876
+1562086,Yacht,Sea Ray,Used,2014,37.49,7.87,Wood,Chennai,59,3096324
+3317382,Motorboat,Boston Whaler,Used,2007,21.59,6.72,Fiberglass,Mumbai,188,4313154
+1782085,Motorboat,Beneteau,Used,2019,47.91,2.5,Fiberglass,Goa,307,3067287
+331268,Jet Ski,Jeanneau,New,2018,13.47,5.26,Wood,Kochi,334,1470598
+3001606,Fishing Boat,Boston Whaler,Used,2015,39.14,7.7,Fiberglass,Goa,67,3171386
+643187,Jet Ski,Yamaha,New,2008,43.25,3.97,Aluminum,Goa,453,4083436
+1853622,Fishing Boat,Beneteau,New,2012,24.09,7.74,Aluminum,Kochi,257,4329355
+4742370,Jet Ski,Boston Whaler,Used,2022,33.48,2.13,Aluminum,Goa,93,2785191
+4919223,Jet Ski,Sea Ray,Used,2005,9.01,6.2,Fiberglass,Mumbai,435,1057342
+2301203,Yacht,Sea Ray,Used,2006,25.87,6.75,Wood,Visakhapatnam,203,1314001
+2677150,Fishing Boat,Jeanneau,New,2021,12.3,6.79,Fiberglass,Chennai,491,1207593
+838974,Sailboat,Sea Ray,New,1996,23.71,8.89,Fiberglass,Goa,99,2385702
+1985388,Fishing Boat,Yamaha,Used,2005,20.03,5.23,Wood,Mumbai,208,3775165
+1338895,Fishing Boat,Sea Ray,Used,1992,10.51,3.65,Steel,Visakhapatnam,369,2464005
+4094546,Motorboat,Bayliner,New,2010,7.73,4.23,Aluminum,Kochi,335,4117019
+4597315,Motorboat,Boston Whaler,New,2023,21.91,8.85,Steel,Mumbai,344,2839765
+1690489,Jet Ski,Bayliner,Used,1992,41.88,8.64,Steel,Goa,454,199049
+76233,Jet Ski,Bayliner,New,1993,22.87,3.17,Wood,Goa,307,2299345
+4098270,Jet Ski,Jeanneau,Used,2016,12.97,5.32,Steel,Mumbai,495,1636524
+4115631,Motorboat,Jeanneau,Used,2004,25.08,9.69,Wood,Visakhapatnam,354,4544000
+3313350,Fishing Boat,Bayliner,Used,2010,24.53,7.53,Wood,Mumbai,499,3048658
+3847701,Fishing Boat,Beneteau,New,2001,31.89,7.07,Steel,Mumbai,216,4625949
+4552254,Fishing Boat,Jeanneau,Used,2017,27.89,3.79,Wood,Goa,494,4438860
+1985909,Jet Ski,Jeanneau,Used,2020,36.41,8.01,Wood,Kochi,144,1146792
+4586073,Jet Ski,Boston Whaler,New,2010,23.44,3.38,Steel,Goa,443,4971171
+2041865,Motorboat,Boston Whaler,Used,2012,8.32,4.52,Wood,Mumbai,320,1070107
+3663270,Jet Ski,Sea Ray,New,2012,47.67,6.6,Wood,Mumbai,143,2133191
+4427844,Fishing Boat,Sea Ray,New,1993,45.74,4.17,Wood,Mumbai,113,694440
+4603733,Yacht,Bayliner,New,2001,29.3,6.78,Aluminum,Goa,27,2332145
+4032138,Sailboat,Yamaha,Used,2017,44.36,7.95,Aluminum,Goa,169,516992
+3465639,Fishing Boat,Sea Ray,Used,2005,21.48,6.34,Steel,Visakhapatnam,357,3848085
+1569830,Motorboat,Bayliner,Used,1995,30.03,7.56,Steel,Kochi,434,2159374
+4128918,Motorboat,Beneteau,New,1991,48.43,2.94,Wood,Kochi,499,3307772
+4549440,Motorboat,Jeanneau,New,2014,17.34,4.31,Aluminum,Goa,291,4963531
+1878078,Yacht,Bayliner,Used,2012,46.76,6.74,Aluminum,Chennai,234,1766206
+1011920,Jet Ski,Yamaha,New,1990,34.71,9.17,Aluminum,Visakhapatnam,159,3177047
+561211,Yacht,Bayliner,Used,1998,12.98,3.7,Steel,Visakhapatnam,458,4368674
+1795701,Fishing Boat,Sea Ray,Used,2021,48.98,7.22,Steel,Kochi,478,1117663
+2318720,Jet Ski,Boston Whaler,New,2022,19.7,5.74,Wood,Kochi,262,2401879
+2325091,Motorboat,Jeanneau,New,2003,26.77,9.76,Fiberglass,Chennai,459,4392382
+3092309,Sailboat,Bayliner,New,2016,14.25,6.26,Aluminum,Kochi,137,4426675
+4527752,Yacht,Boston Whaler,New,2002,10.44,8.75,Wood,Visakhapatnam,459,748029
+2131511,Yacht,Jeanneau,Used,2023,32.69,4.14,Wood,Kochi,348,1886931
+4040301,Motorboat,Sea Ray,Used,2013,22.16,2.8,Aluminum,Kochi,317,4323040
+432604,Motorboat,Yamaha,New,2017,31.33,3.31,Aluminum,Visakhapatnam,148,4399265
+3484864,Motorboat,Boston Whaler,Used,1995,23.97,8.83,Steel,Chennai,310,2873363
+4832375,Yacht,Beneteau,New,2014,27.3,3.16,Steel,Goa,256,244209
+1780497,Sailboat,Sea Ray,New,2005,25.38,4.75,Steel,Chennai,453,4749058
+4124935,Sailboat,Sea Ray,Used,2009,6.92,2.58,Steel,Chennai,166,3648489
+4880299,Fishing Boat,Jeanneau,Used,2017,6.19,4.17,Aluminum,Kochi,222,1067276
+3338052,Sailboat,Bayliner,Used,2012,19.64,9.84,Fiberglass,Mumbai,35,4182845
+3726254,Jet Ski,Beneteau,Used,1998,17.21,7.88,Wood,Goa,427,2097152
+4577186,Sailboat,Sea Ray,Used,1994,31.49,9.96,Wood,Visakhapatnam,480,1517198
+426676,Jet Ski,Yamaha,New,1999,21.1,5.54,Wood,Visakhapatnam,251,2356003
+1571433,Fishing Boat,Yamaha,New,1990,6.91,8.24,Aluminum,Chennai,78,104507
+2520155,Motorboat,Bayliner,New,2005,41.08,3.9,Wood,Visakhapatnam,401,4829701
+990346,Motorboat,Jeanneau,Used,2016,34.52,9.95,Aluminum,Mumbai,343,2904174
+2024595,Yacht,Yamaha,Used,2023,22.5,4.29,Fiberglass,Chennai,223,2091613
+3446176,Yacht,Beneteau,Used,2015,5.7,6.02,Wood,Kochi,232,506448
+1549602,Yacht,Bayliner,New,1992,46.31,7.77,Aluminum,Mumbai,228,3298922
+2249646,Yacht,Sea Ray,Used,2008,42.04,9.45,Steel,Goa,45,3004702
+824240,Motorboat,Boston Whaler,Used,2010,41.32,9.43,Fiberglass,Goa,118,4262063
+4550261,Yacht,Bayliner,Used,2002,9.28,9.84,Fiberglass,Chennai,395,4275573
+2779944,Motorboat,Boston Whaler,Used,2012,36.44,7.87,Fiberglass,Mumbai,173,4344621
+3514342,Yacht,Boston Whaler,New,2010,12.74,8.85,Aluminum,Kochi,345,864170
+2628043,Yacht,Sea Ray,New,1993,12.24,6.0,Steel,Mumbai,319,4230166
+1591776,Jet Ski,Yamaha,New,2018,30.05,6.58,Aluminum,Goa,227,4603809
+1073393,Sailboat,Jeanneau,Used,2016,5.26,6.98,Aluminum,Mumbai,87,904055
+2076607,Sailboat,Sea Ray,Used,2013,5.83,7.31,Steel,Chennai,449,1958674
+3497741,Yacht,Beneteau,Used,2013,24.12,9.04,Aluminum,Kochi,466,4510349
+1916624,Fishing Boat,Bayliner,Used,2022,24.94,6.57,Aluminum,Goa,475,715870
+3959074,Motorboat,Boston Whaler,Used,2003,29.83,3.81,Fiberglass,Goa,53,3402640
+3895205,Yacht,Jeanneau,New,2007,29.83,7.88,Aluminum,Visakhapatnam,276,2369049
+1412750,Sailboat,Beneteau,Used,1998,16.79,4.74,Fiberglass,Goa,400,519164
+970057,Jet Ski,Bayliner,Used,2017,43.4,5.87,Aluminum,Kochi,456,3334789
+4664141,Jet Ski,Boston Whaler,Used,2005,9.71,4.93,Fiberglass,Visakhapatnam,184,4981175
+4901773,Yacht,Beneteau,Used,2003,27.49,7.68,Aluminum,Mumbai,138,2535565
+1935456,Fishing Boat,Jeanneau,Used,2013,19.13,9.35,Steel,Goa,137,2403076
+1917391,Yacht,Yamaha,New,1992,8.61,2.01,Fiberglass,Chennai,327,3885131
+3481879,Sailboat,Sea Ray,Used,2002,10.74,8.07,Steel,Chennai,304,3468475
+4238073,Sailboat,Jeanneau,New,2018,28.49,8.47,Aluminum,Visakhapatnam,473,2374627
+4252772,Jet Ski,Bayliner,New,2010,49.28,4.97,Fiberglass,Visakhapatnam,260,715887
+4197064,Motorboat,Boston Whaler,New,2001,39.21,4.4,Wood,Goa,187,718393
+102077,Jet Ski,Yamaha,New,1995,45.13,2.52,Steel,Chennai,462,3765363
+3486208,Fishing Boat,Bayliner,New,1994,34.98,7.48,Aluminum,Visakhapatnam,159,3437943
+2362009,Sailboat,Bayliner,New,2001,8.77,6.37,Wood,Kochi,39,96443
+3644455,Motorboat,Yamaha,New,1992,31.89,7.45,Fiberglass,Kochi,114,416015
+549341,Yacht,Jeanneau,New,1999,12.75,4.29,Steel,Kochi,143,3061582
+4916788,Sailboat,Yamaha,New,1991,18.76,3.75,Wood,Kochi,8,4097503
+4910084,Fishing Boat,Bayliner,New,2007,33.61,8.12,Fiberglass,Visakhapatnam,67,150768
+4189186,Sailboat,Sea Ray,Used,2005,12.25,2.49,Aluminum,Mumbai,319,2579142
+4116357,Yacht,Sea Ray,Used,2018,27.37,4.07,Wood,Chennai,462,3502357
+4115139,Yacht,Sea Ray,New,2015,25.79,5.64,Aluminum,Mumbai,149,3422539
+3586758,Sailboat,Jeanneau,New,2021,29.27,6.83,Wood,Chennai,420,215018
+2390394,Yacht,Boston Whaler,Used,1994,33.09,8.65,Wood,Kochi,87,3372591
+881872,Jet Ski,Sea Ray,New,1990,30.69,3.22,Wood,Chennai,224,3167784
+3440429,Sailboat,Sea Ray,New,1999,29.73,3.48,Fiberglass,Goa,243,1906860
+2567144,Yacht,Jeanneau,New,2004,14.43,8.95,Wood,Goa,481,778953
+2964684,Fishing Boat,Boston Whaler,Used,2003,35.58,9.86,Wood,Mumbai,197,1547997
+4749077,Sailboat,Sea Ray,New,1992,39.61,6.05,Aluminum,Kochi,447,1553327
+3871763,Sailboat,Boston Whaler,New,1994,19.62,6.31,Steel,Mumbai,159,2556682
+390582,Jet Ski,Yamaha,New,1999,41.07,6.62,Aluminum,Kochi,393,1076498
+580087,Sailboat,Bayliner,New,1999,26.16,4.89,Wood,Goa,472,1035658
+4589437,Jet Ski,Jeanneau,New,2015,41.61,8.26,Fiberglass,Chennai,391,2137763
+2501392,Yacht,Bayliner,New,2016,5.41,7.31,Fiberglass,Kochi,399,1325164
+4086701,Yacht,Bayliner,Used,2021,20.56,5.06,Fiberglass,Kochi,389,4478375
+967722,Fishing Boat,Sea Ray,Used,2001,36.05,4.32,Steel,Chennai,462,3454045
+4675971,Yacht,Beneteau,New,2016,35.94,2.23,Wood,Goa,497,821187
+1596216,Yacht,Beneteau,New,2009,33.58,5.53,Fiberglass,Kochi,466,155566
+3051958,Motorboat,Bayliner,Used,1997,46.15,2.45,Steel,Mumbai,387,3413800
+3046684,Motorboat,Beneteau,New,1995,25.27,8.36,Aluminum,Goa,154,2436542
+4872810,Motorboat,Sea Ray,New,1992,18.48,9.87,Aluminum,Kochi,68,2112798
+4193239,Motorboat,Boston Whaler,New,2017,23.27,3.75,Steel,Goa,277,816810
+501783,Fishing Boat,Sea Ray,New,2023,25.05,4.94,Aluminum,Chennai,2,4312417
+546952,Sailboat,Yamaha,New,2022,26.49,3.28,Aluminum,Kochi,420,2455139
+4796910,Sailboat,Sea Ray,Used,1991,44.15,6.43,Aluminum,Chennai,438,4671552
+4602325,Fishing Boat,Jeanneau,New,1990,7.12,8.84,Steel,Goa,433,2171222
+2595977,Sailboat,Sea Ray,New,2002,46.96,2.48,Fiberglass,Goa,437,4448676
+4128787,Fishing Boat,Jeanneau,New,2012,19.47,4.29,Fiberglass,Kochi,456,4648542
+1870996,Motorboat,Yamaha,Used,2001,5.75,2.41,Wood,Chennai,247,2432935
+2537144,Motorboat,Yamaha,Used,2012,47.95,3.44,Fiberglass,Mumbai,312,4533512
+3922728,Fishing Boat,Beneteau,New,2020,12.82,7.61,Steel,Mumbai,402,112733
+4346563,Motorboat,Bayliner,New,2009,12.46,4.6,Wood,Kochi,224,1043769
+1282591,Motorboat,Sea Ray,Used,1997,31.42,7.56,Steel,Kochi,115,3492647
+568783,Jet Ski,Beneteau,New,2000,47.79,5.38,Aluminum,Goa,483,1479482
+3568276,Yacht,Sea Ray,New,1996,16.82,2.22,Steel,Mumbai,357,91487
+2586736,Sailboat,Bayliner,Used,2018,33.9,3.23,Fiberglass,Visakhapatnam,362,4230517
+1181354,Motorboat,Bayliner,Used,1990,9.79,4.35,Wood,Visakhapatnam,476,4814713
+1193567,Sailboat,Bayliner,Used,1993,13.6,4.0,Fiberglass,Visakhapatnam,126,4817458
+3878104,Sailboat,Sea Ray,Used,2020,45.2,5.86,Aluminum,Chennai,137,3582451
+1640164,Yacht,Sea Ray,Used,2022,23.05,3.48,Fiberglass,Chennai,98,3186201
+1482727,Yacht,Jeanneau,Used,2007,24.24,2.76,Wood,Chennai,182,3788998
+307078,Fishing Boat,Jeanneau,New,2004,40.16,3.81,Aluminum,Chennai,3,4309278
+2532447,Yacht,Boston Whaler,New,2009,30.38,6.69,Aluminum,Mumbai,118,3196594
+1795214,Sailboat,Yamaha,Used,2013,5.56,8.68,Wood,Chennai,273,3790507
+2020596,Yacht,Boston Whaler,New,1990,7.01,9.91,Wood,Kochi,401,4663850
+4455958,Fishing Boat,Yamaha,Used,1995,21.82,3.11,Wood,Chennai,377,1778981
+4893717,Jet Ski,Beneteau,New,2014,16.35,3.81,Fiberglass,Mumbai,422,441679
+2814187,Yacht,Beneteau,Used,2011,29.53,2.65,Aluminum,Chennai,216,4999793
+2906526,Yacht,Sea Ray,Used,1994,49.56,2.43,Steel,Chennai,46,2171437
+481036,Motorboat,Jeanneau,New,2008,21.61,7.48,Steel,Goa,443,1396815
+4185069,Motorboat,Jeanneau,New,2015,6.3,7.42,Steel,Kochi,7,266670
+2970368,Motorboat,Sea Ray,Used,2001,6.8,3.15,Wood,Chennai,2,118037
+2386638,Fishing Boat,Jeanneau,Used,1999,14.71,8.48,Fiberglass,Kochi,376,3648296
+1543502,Jet Ski,Bayliner,Used,1999,36.61,2.44,Fiberglass,Chennai,413,829091
+3529887,Sailboat,Sea Ray,Used,2023,37.46,5.67,Aluminum,Visakhapatnam,266,4860135
+3365559,Sailboat,Jeanneau,New,2000,44.55,6.4,Aluminum,Kochi,139,4247737
+4320690,Jet Ski,Beneteau,New,2021,44.46,6.02,Fiberglass,Goa,404,4136683
+1177773,Yacht,Bayliner,Used,1999,9.38,6.38,Wood,Visakhapatnam,167,4356271
+3453210,Fishing Boat,Beneteau,New,2008,35.04,4.74,Aluminum,Kochi,146,3830525
+3311381,Motorboat,Bayliner,New,1991,42.59,4.85,Aluminum,Chennai,453,4905058
+2780625,Sailboat,Yamaha,New,2017,37.75,5.41,Wood,Kochi,405,2513524
+3826220,Fishing Boat,Yamaha,Used,2016,34.66,5.29,Steel,Goa,17,2318527
+4860840,Jet Ski,Boston Whaler,New,2014,49.33,2.13,Steel,Chennai,388,1519881
+212981,Jet Ski,Jeanneau,Used,2013,43.69,3.5,Fiberglass,Kochi,91,651783
+3579978,Fishing Boat,Yamaha,Used,2013,13.77,2.25,Fiberglass,Mumbai,242,1105293
+2255125,Motorboat,Sea Ray,New,1992,39.32,2.51,Steel,Kochi,195,4768459
+1741753,Sailboat,Yamaha,Used,1999,21.18,4.79,Steel,Visakhapatnam,223,2245038
+567117,Sailboat,Jeanneau,Used,2018,8.6,4.57,Fiberglass,Goa,241,2082316
+1040737,Sailboat,Boston Whaler,Used,2009,23.3,6.92,Wood,Visakhapatnam,110,4587583
+63659,Yacht,Bayliner,New,2010,39.32,3.36,Steel,Chennai,474,3184382
+3108042,Sailboat,Bayliner,New,1993,49.1,9.76,Wood,Mumbai,166,2205020
+2312939,Jet Ski,Sea Ray,Used,2002,43.63,2.37,Wood,Goa,352,3935009
+2510148,Motorboat,Boston Whaler,Used,2013,12.81,7.01,Aluminum,Goa,175,1239037
+832188,Fishing Boat,Jeanneau,Used,1993,35.24,3.28,Fiberglass,Goa,404,1807262
+853436,Motorboat,Jeanneau,New,1995,48.07,2.92,Fiberglass,Chennai,87,951811
+99452,Fishing Boat,Jeanneau,Used,2004,45.69,5.79,Aluminum,Mumbai,296,4090045
+462147,Motorboat,Jeanneau,New,2004,8.36,4.52,Fiberglass,Goa,128,340089
+3318445,Sailboat,Beneteau,New,2020,33.18,5.57,Aluminum,Chennai,82,283844
+4451796,Yacht,Sea Ray,Used,2011,25.83,4.79,Wood,Kochi,296,3587931
+2291017,Yacht,Boston Whaler,New,2008,13.86,7.16,Fiberglass,Chennai,338,3865240
+3859397,Yacht,Boston Whaler,Used,2003,29.43,5.78,Wood,Kochi,141,4412576
+2599123,Fishing Boat,Yamaha,New,2003,29.71,7.25,Aluminum,Chennai,193,4227920
+4564575,Sailboat,Yamaha,New,1995,22.82,2.71,Steel,Mumbai,95,4980522
+4832593,Jet Ski,Yamaha,Used,2003,32.51,4.32,Aluminum,Mumbai,73,3414063
+2536163,Fishing Boat,Yamaha,New,2011,26.02,6.45,Wood,Kochi,397,3199389
+1690727,Motorboat,Boston Whaler,New,2024,31.28,8.79,Wood,Visakhapatnam,171,3875113
+331653,Jet Ski,Boston Whaler,Used,1993,33.52,9.65,Steel,Kochi,137,340664
+1030917,Fishing Boat,Yamaha,Used,2005,8.63,9.19,Wood,Kochi,285,1724402
+224132,Yacht,Yamaha,Used,1994,33.73,6.19,Wood,Mumbai,472,4619695
+3269876,Jet Ski,Yamaha,Used,1992,33.76,5.83,Steel,Chennai,255,1497737
+2790145,Yacht,Boston Whaler,New,1990,13.95,4.22,Aluminum,Mumbai,90,4398590
+51369,Yacht,Beneteau,Used,2013,5.3,9.39,Steel,Mumbai,2,4179811
+1225799,Jet Ski,Jeanneau,Used,2014,17.53,8.81,Aluminum,Visakhapatnam,133,2974916
+3045115,Fishing Boat,Boston Whaler,Used,2023,24.12,7.34,Fiberglass,Chennai,106,3466599
+4094548,Sailboat,Beneteau,New,2002,17.56,9.59,Fiberglass,Visakhapatnam,32,2052514
+2612007,Fishing Boat,Boston Whaler,Used,1994,27.98,8.82,Aluminum,Mumbai,446,607427
+601889,Jet Ski,Jeanneau,New,2011,33.96,2.14,Aluminum,Kochi,254,2762097
+1650469,Jet Ski,Sea Ray,New,1995,16.95,4.3,Aluminum,Mumbai,21,1191182
+2531340,Fishing Boat,Yamaha,Used,1996,42.79,4.28,Fiberglass,Chennai,384,1725207
+4261210,Yacht,Beneteau,Used,1993,6.08,4.57,Fiberglass,Mumbai,175,2607444
+3641887,Sailboat,Yamaha,Used,2008,25.64,6.07,Wood,Visakhapatnam,463,4731706
+2476350,Yacht,Jeanneau,New,1990,49.9,6.71,Aluminum,Visakhapatnam,377,3923360
+890536,Sailboat,Beneteau,New,2018,16.09,4.74,Aluminum,Visakhapatnam,301,3125674
+4890008,Yacht,Jeanneau,New,2022,29.68,3.18,Wood,Kochi,40,1490556
+2378403,Fishing Boat,Jeanneau,Used,2013,30.11,2.61,Steel,Kochi,444,4790300
+567607,Jet Ski,Beneteau,New,1990,23.15,2.22,Fiberglass,Kochi,348,1969582
+802344,Motorboat,Beneteau,New,2021,18.9,3.44,Fiberglass,Mumbai,36,2122531
+1069096,Fishing Boat,Beneteau,New,1992,41.59,9.45,Aluminum,Visakhapatnam,250,773623
+2394035,Sailboat,Jeanneau,New,2002,14.78,2.43,Fiberglass,Visakhapatnam,54,1348148
+4194824,Fishing Boat,Boston Whaler,New,2006,10.55,3.45,Steel,Kochi,314,2243303
+1169964,Sailboat,Bayliner,Used,1994,38.21,6.14,Steel,Goa,22,3023961
+3660591,Yacht,Bayliner,Used,1998,20.3,3.06,Steel,Mumbai,210,206018
+2381601,Yacht,Jeanneau,New,1994,33.84,5.89,Wood,Mumbai,439,3095773
+1398551,Motorboat,Bayliner,Used,1999,37.89,6.11,Steel,Kochi,84,402985
+2556622,Fishing Boat,Bayliner,New,2005,8.75,2.37,Wood,Visakhapatnam,297,3999849
+1515147,Motorboat,Sea Ray,Used,2000,20.47,9.15,Fiberglass,Goa,109,822647
+3492777,Yacht,Bayliner,Used,1999,25.67,4.96,Fiberglass,Chennai,324,2154357
+4797548,Fishing Boat,Beneteau,New,2023,24.36,3.71,Aluminum,Chennai,172,2032874
+4327556,Yacht,Jeanneau,Used,2008,18.02,5.13,Wood,Goa,14,655835
+1834748,Sailboat,Yamaha,New,2008,35.22,9.33,Wood,Kochi,269,1421558
+3043520,Fishing Boat,Yamaha,Used,1993,36.88,5.18,Wood,Mumbai,23,4567763
+3619296,Motorboat,Beneteau,Used,2003,30.17,8.0,Fiberglass,Visakhapatnam,418,4526318
+183771,Jet Ski,Sea Ray,New,1997,15.44,3.05,Fiberglass,Kochi,283,1747579
+3492485,Fishing Boat,Jeanneau,New,2020,39.25,6.37,Wood,Kochi,346,4659326
+4716895,Jet Ski,Yamaha,New,2008,10.31,2.21,Steel,Chennai,486,4397648
+4966116,Fishing Boat,Beneteau,New,2019,24.65,3.96,Aluminum,Chennai,104,732273
+2323675,Fishing Boat,Boston Whaler,New,2013,17.69,4.15,Steel,Mumbai,41,488584
+3806326,Sailboat,Yamaha,Used,2022,37.98,9.64,Aluminum,Chennai,225,3087712
+3040293,Jet Ski,Jeanneau,Used,2004,11.22,7.99,Steel,Kochi,382,68772
+2192543,Sailboat,Yamaha,New,1992,13.13,3.2,Fiberglass,Goa,330,1433433
+3237584,Jet Ski,Sea Ray,New,2014,23.92,6.59,Aluminum,Mumbai,389,2459162
+4352429,Sailboat,Sea Ray,New,2000,45.31,6.09,Steel,Chennai,462,2872465
+50139,Fishing Boat,Yamaha,New,2004,16.66,2.87,Steel,Goa,62,3714726
+1003707,Fishing Boat,Sea Ray,New,2001,36.86,6.93,Aluminum,Visakhapatnam,159,1110418
+4539778,Sailboat,Bayliner,Used,2017,25.38,5.27,Aluminum,Goa,370,3533328
+4684241,Yacht,Sea Ray,Used,2010,12.0,3.73,Steel,Goa,151,1880241
+2057387,Motorboat,Boston Whaler,Used,2006,16.31,3.53,Wood,Visakhapatnam,99,2863242
+3071830,Motorboat,Yamaha,New,1996,43.32,9.04,Fiberglass,Chennai,231,3761315
+2299521,Fishing Boat,Boston Whaler,Used,2000,11.77,4.34,Fiberglass,Goa,93,4742710
+773882,Fishing Boat,Boston Whaler,Used,2003,49.13,3.35,Fiberglass,Kochi,185,1605815
+312802,Fishing Boat,Yamaha,New,1994,27.95,7.23,Aluminum,Kochi,29,1831937
+533482,Sailboat,Yamaha,New,2015,49.13,2.14,Steel,Kochi,238,2818695
+678794,Sailboat,Yamaha,Used,2012,41.96,2.42,Fiberglass,Kochi,436,4574199
+4810209,Sailboat,Sea Ray,New,1997,29.82,9.47,Fiberglass,Mumbai,130,293507
+296386,Sailboat,Boston Whaler,New,1998,30.46,5.44,Steel,Goa,94,2921515
+1732522,Motorboat,Sea Ray,New,2013,49.94,5.8,Aluminum,Chennai,110,3201675
+2082454,Sailboat,Boston Whaler,Used,2000,47.4,3.68,Aluminum,Chennai,277,2749805
+3790740,Motorboat,Yamaha,Used,2016,25.86,4.04,Fiberglass,Kochi,420,1446274
+4617476,Jet Ski,Jeanneau,Used,2000,17.51,3.86,Steel,Mumbai,428,4502152
+4974817,Fishing Boat,Yamaha,New,2015,8.01,6.71,Fiberglass,Visakhapatnam,449,3334472
+2843844,Yacht,Sea Ray,New,1992,9.93,4.07,Fiberglass,Visakhapatnam,32,2195226
+2837750,Yacht,Sea Ray,New,2018,48.4,5.73,Steel,Goa,251,944871
+3342427,Fishing Boat,Beneteau,New,2017,29.27,6.99,Wood,Kochi,294,718224
+758183,Jet Ski,Sea Ray,Used,2009,12.42,3.46,Aluminum,Visakhapatnam,490,3371750
+4206616,Yacht,Boston Whaler,New,1995,45.91,5.61,Aluminum,Chennai,491,3567820
+1602832,Yacht,Boston Whaler,New,2004,28.1,4.85,Fiberglass,Mumbai,258,4335027
+2808607,Fishing Boat,Boston Whaler,New,2013,25.89,8.71,Wood,Visakhapatnam,258,2214882
+4577799,Fishing Boat,Jeanneau,New,1991,13.54,3.55,Steel,Chennai,338,2724360
+269155,Fishing Boat,Boston Whaler,Used,2016,14.48,5.39,Wood,Mumbai,190,2338910
+332960,Fishing Boat,Bayliner,Used,2020,21.2,4.56,Fiberglass,Visakhapatnam,408,3034895
+1927219,Yacht,Sea Ray,Used,1992,22.06,4.03,Aluminum,Chennai,403,4941274
+4305328,Sailboat,Sea Ray,New,2004,48.93,2.5,Fiberglass,Chennai,241,2458185
+4396020,Fishing Boat,Yamaha,New,2001,11.7,2.22,Aluminum,Mumbai,49,3569206
+258524,Motorboat,Yamaha,New,1990,11.85,8.6,Steel,Mumbai,451,3084797
+1805038,Fishing Boat,Yamaha,Used,1998,34.63,3.48,Steel,Mumbai,351,2697966
+4991341,Fishing Boat,Yamaha,New,2019,33.97,9.51,Aluminum,Chennai,256,2342226
+884877,Jet Ski,Yamaha,New,2014,49.79,3.89,Fiberglass,Chennai,55,2999191
+364543,Motorboat,Jeanneau,New,2021,43.79,5.24,Wood,Chennai,134,2363559
+4699137,Yacht,Yamaha,Used,2006,41.17,6.42,Aluminum,Kochi,26,117881
+4037547,Jet Ski,Beneteau,Used,2020,14.7,2.41,Steel,Chennai,434,3312665
+2375779,Sailboat,Sea Ray,New,2004,46.6,7.43,Steel,Visakhapatnam,316,573369
+2135204,Sailboat,Beneteau,New,2001,34.24,8.26,Steel,Chennai,457,1113078
+1533791,Yacht,Yamaha,New,2021,15.07,5.9,Wood,Visakhapatnam,219,60030
+3209096,Motorboat,Yamaha,Used,1994,33.8,9.79,Steel,Kochi,7,4872177
+2401925,Sailboat,Sea Ray,Used,2003,47.69,2.09,Fiberglass,Visakhapatnam,4,4512919
+1998724,Motorboat,Sea Ray,New,2008,38.81,8.03,Wood,Chennai,183,2886115
+3841153,Sailboat,Jeanneau,Used,1993,27.98,2.49,Wood,Goa,103,472707
+2924093,Yacht,Jeanneau,New,1996,18.73,9.48,Fiberglass,Goa,281,4486175
+3821594,Fishing Boat,Boston Whaler,Used,2011,14.86,7.02,Fiberglass,Goa,122,2276214
+4394697,Jet Ski,Jeanneau,New,2012,10.35,6.73,Aluminum,Kochi,405,1231935
+2622262,Sailboat,Beneteau,Used,2014,49.76,8.92,Aluminum,Goa,424,619030
+1571179,Yacht,Jeanneau,Used,2004,11.74,6.63,Fiberglass,Visakhapatnam,449,4958615
+721904,Jet Ski,Yamaha,New,2000,9.76,6.76,Aluminum,Visakhapatnam,15,4513587
+2906277,Yacht,Beneteau,Used,2016,42.94,2.44,Aluminum,Mumbai,44,4778482
+3928703,Motorboat,Sea Ray,Used,1995,21.2,4.88,Steel,Visakhapatnam,44,3922223
+539227,Jet Ski,Beneteau,New,2010,36.34,4.61,Steel,Visakhapatnam,378,610356
+4050251,Sailboat,Bayliner,Used,2008,44.83,5.88,Fiberglass,Mumbai,182,1176520
+4242253,Sailboat,Yamaha,New,2004,33.95,4.44,Wood,Chennai,405,3816399
+1734889,Fishing Boat,Yamaha,Used,1992,50.0,3.2,Aluminum,Chennai,445,3606825
+438124,Jet Ski,Yamaha,New,2013,29.1,5.25,Fiberglass,Chennai,222,3924980
+2296901,Sailboat,Yamaha,Used,2017,48.47,8.46,Steel,Goa,278,579806
+3439280,Sailboat,Yamaha,New,2019,25.14,7.73,Aluminum,Goa,315,3146456
+1140291,Yacht,Sea Ray,Used,2009,35.56,2.59,Fiberglass,Visakhapatnam,479,894180
+2826520,Jet Ski,Bayliner,Used,1997,49.31,6.58,Steel,Kochi,488,447788
+3748512,Yacht,Yamaha,Used,2007,31.6,9.37,Fiberglass,Chennai,286,3237470
+1921930,Jet Ski,Sea Ray,New,1998,42.58,8.93,Aluminum,Goa,347,1718797
+2152518,Sailboat,Yamaha,Used,1991,37.69,3.58,Fiberglass,Visakhapatnam,193,3466264
+105724,Motorboat,Boston Whaler,Used,1998,39.05,5.98,Wood,Kochi,212,2725096
+2508229,Sailboat,Beneteau,New,1991,35.25,3.28,Fiberglass,Mumbai,177,3190526
+4449491,Yacht,Yamaha,Used,2019,16.08,7.4,Aluminum,Chennai,253,554937
+594466,Jet Ski,Jeanneau,New,1994,19.56,3.16,Aluminum,Mumbai,117,1141161
+3398339,Fishing Boat,Bayliner,New,1993,49.26,6.61,Aluminum,Kochi,199,3904740
+1775839,Yacht,Bayliner,New,1995,8.07,5.18,Aluminum,Goa,353,2482533
+1205123,Fishing Boat,Yamaha,Used,2002,45.92,4.09,Steel,Mumbai,424,4996830
+3984554,Jet Ski,Bayliner,Used,2011,39.16,6.6,Fiberglass,Kochi,54,3801287
+681881,Sailboat,Sea Ray,New,2021,19.14,3.35,Aluminum,Chennai,414,3062349
+1439186,Motorboat,Bayliner,New,1993,34.46,4.54,Steel,Visakhapatnam,120,4055142
+3080104,Sailboat,Boston Whaler,New,2004,48.18,7.72,Aluminum,Chennai,414,480169
+227276,Jet Ski,Beneteau,Used,1997,45.88,4.07,Fiberglass,Chennai,313,165703
+2728267,Motorboat,Bayliner,New,1990,49.5,8.13,Wood,Mumbai,360,1776657
+698484,Sailboat,Yamaha,Used,1995,16.89,4.87,Fiberglass,Kochi,124,1750572
+1420121,Fishing Boat,Beneteau,New,1996,26.7,2.65,Steel,Mumbai,206,1552158
+2229966,Jet Ski,Boston Whaler,New,2020,11.95,5.86,Wood,Chennai,163,1955232
+1570398,Fishing Boat,Beneteau,New,2011,14.03,3.73,Aluminum,Goa,10,3236245
+2402467,Motorboat,Sea Ray,New,2007,10.28,8.83,Wood,Visakhapatnam,248,1603326
+1054301,Fishing Boat,Sea Ray,Used,2007,34.86,9.54,Aluminum,Goa,449,3319933
+3056557,Yacht,Jeanneau,New,2022,8.56,7.17,Aluminum,Mumbai,216,2164664
+3564590,Yacht,Bayliner,Used,2019,28.28,8.72,Wood,Goa,321,4387984
+191318,Motorboat,Jeanneau,Used,2024,11.45,5.72,Steel,Goa,180,3059111
+4291298,Motorboat,Beneteau,Used,2024,43.19,8.45,Wood,Goa,250,4012996
+1369271,Motorboat,Jeanneau,New,2014,9.36,7.12,Steel,Chennai,1,77391
+318609,Motorboat,Bayliner,New,2003,40.24,6.51,Steel,Visakhapatnam,183,4476018
+2425271,Jet Ski,Jeanneau,Used,1991,33.99,5.7,Fiberglass,Chennai,415,4229793
+3152004,Jet Ski,Beneteau,Used,1998,46.46,3.31,Wood,Chennai,365,1705659
+2184456,Motorboat,Jeanneau,Used,2002,33.43,7.43,Wood,Visakhapatnam,69,4778446
+4617084,Motorboat,Jeanneau,New,1993,26.25,6.38,Fiberglass,Visakhapatnam,423,3683934
+3851205,Sailboat,Bayliner,Used,2004,36.16,9.36,Wood,Chennai,260,4647500
+1245803,Jet Ski,Beneteau,New,2007,10.25,9.66,Wood,Kochi,94,1405221
+4059935,Jet Ski,Bayliner,Used,2011,12.95,6.78,Wood,Kochi,277,2906140
+4384047,Fishing Boat,Yamaha,New,2014,39.34,5.63,Fiberglass,Goa,130,565964
+3528504,Fishing Boat,Beneteau,New,1999,49.13,3.28,Fiberglass,Mumbai,289,3916734
+585452,Jet Ski,Bayliner,New,2007,12.6,7.71,Wood,Goa,149,133478
+3004796,Sailboat,Beneteau,New,1992,40.77,6.71,Wood,Mumbai,373,1659964
+4678505,Fishing Boat,Beneteau,Used,2012,16.5,6.76,Fiberglass,Goa,449,2645730
+1750645,Fishing Boat,Boston Whaler,New,2007,47.91,3.51,Wood,Chennai,435,3694962
+2359079,Fishing Boat,Boston Whaler,New,2010,42.28,4.19,Wood,Goa,63,327511
+3762961,Yacht,Boston Whaler,Used,2009,5.15,9.0,Aluminum,Kochi,330,3033684
+2126126,Fishing Boat,Boston Whaler,New,2021,18.93,7.93,Fiberglass,Chennai,145,1002717
+1631833,Sailboat,Boston Whaler,Used,1999,43.78,6.06,Steel,Kochi,312,798189
+1401077,Motorboat,Boston Whaler,New,1998,28.94,7.88,Wood,Goa,238,1664173
+108876,Sailboat,Beneteau,New,2010,8.86,3.25,Wood,Goa,29,4468519
+922496,Motorboat,Jeanneau,Used,2007,45.69,8.12,Wood,Kochi,433,2179556
+3271112,Jet Ski,Beneteau,Used,2001,16.39,8.23,Aluminum,Mumbai,432,1450819
+3892006,Sailboat,Jeanneau,New,2018,40.72,8.22,Steel,Mumbai,304,1307940
+2703728,Jet Ski,Bayliner,Used,2022,35.65,5.44,Wood,Chennai,98,4562432
+1992260,Motorboat,Bayliner,New,1996,21.62,9.99,Aluminum,Goa,442,2320467
+3623433,Fishing Boat,Boston Whaler,Used,2018,40.6,2.04,Wood,Visakhapatnam,75,2785544
+3592323,Sailboat,Jeanneau,New,1991,35.95,9.02,Wood,Goa,222,481675
+3916464,Motorboat,Boston Whaler,Used,1999,38.12,9.38,Aluminum,Kochi,63,4495932
+428802,Yacht,Beneteau,New,2023,18.81,4.95,Fiberglass,Kochi,499,4312501
+1293017,Sailboat,Boston Whaler,New,2023,44.06,6.9,Fiberglass,Chennai,122,4324801
+253325,Jet Ski,Yamaha,New,1998,25.27,8.11,Steel,Kochi,395,3326318
+4496122,Fishing Boat,Yamaha,New,2001,21.95,8.17,Wood,Kochi,27,2612852
+89335,Motorboat,Yamaha,New,2006,8.95,6.25,Steel,Mumbai,354,1803742
+3676468,Jet Ski,Sea Ray,New,2021,38.46,6.18,Aluminum,Kochi,29,4067446
+4037686,Motorboat,Jeanneau,Used,1992,36.7,3.46,Aluminum,Kochi,436,4360634
+3083081,Fishing Boat,Yamaha,New,2016,36.9,8.44,Steel,Kochi,280,2415739
+2107017,Fishing Boat,Jeanneau,Used,2014,20.57,7.4,Aluminum,Visakhapatnam,470,2711759
+116103,Jet Ski,Yamaha,New,2002,18.45,3.45,Steel,Mumbai,213,1438928
+2611458,Motorboat,Jeanneau,Used,2012,29.73,7.32,Wood,Visakhapatnam,472,78291
+4391941,Jet Ski,Beneteau,New,2009,20.2,9.6,Steel,Goa,284,2428456
+2935471,Jet Ski,Beneteau,Used,2000,16.89,5.93,Fiberglass,Kochi,336,4396233
+2794127,Motorboat,Beneteau,Used,2009,31.43,5.82,Steel,Visakhapatnam,271,3879884
+4170189,Motorboat,Bayliner,New,2004,34.01,4.4,Fiberglass,Chennai,494,4320623
+2312473,Sailboat,Boston Whaler,Used,2004,21.99,7.93,Wood,Mumbai,128,3091528
+1985782,Motorboat,Bayliner,New,1990,16.82,8.82,Aluminum,Kochi,117,3244955
+1185023,Yacht,Bayliner,Used,2007,31.46,5.73,Wood,Chennai,387,1408505
+3327798,Motorboat,Boston Whaler,New,2017,26.68,5.07,Wood,Visakhapatnam,318,3944497
+495036,Fishing Boat,Jeanneau,Used,1996,13.88,3.02,Steel,Kochi,300,3440918
+2850769,Jet Ski,Yamaha,Used,2008,9.47,3.63,Aluminum,Goa,478,1064387
+498321,Motorboat,Yamaha,Used,1995,25.66,7.56,Wood,Goa,313,1763172
+2076392,Motorboat,Boston Whaler,New,2004,32.65,8.06,Wood,Visakhapatnam,411,4945474
+4056917,Jet Ski,Jeanneau,New,2004,20.26,9.27,Steel,Kochi,434,1314449
+3903334,Yacht,Beneteau,New,1999,11.62,6.78,Steel,Goa,142,3112844
+354437,Sailboat,Sea Ray,New,2017,26.51,5.95,Fiberglass,Chennai,207,1761310
+4244878,Fishing Boat,Bayliner,New,2012,10.3,3.26,Steel,Mumbai,335,4798730
+3612464,Yacht,Boston Whaler,Used,2001,26.25,9.16,Steel,Chennai,495,2375022
+3147524,Motorboat,Yamaha,Used,2001,39.64,2.1,Aluminum,Visakhapatnam,107,1737070
+721740,Fishing Boat,Yamaha,New,1991,39.75,6.96,Steel,Chennai,106,2046674
+367604,Jet Ski,Boston Whaler,Used,1992,24.14,5.14,Aluminum,Visakhapatnam,49,4943324
+3763585,Jet Ski,Jeanneau,Used,1992,34.19,4.53,Fiberglass,Goa,120,4474251
+2536379,Fishing Boat,Boston Whaler,Used,2015,43.49,8.03,Fiberglass,Kochi,364,477073
+4367044,Jet Ski,Jeanneau,New,2024,22.98,6.01,Wood,Kochi,404,3235354
+4293055,Jet Ski,Jeanneau,New,2012,16.43,9.99,Aluminum,Kochi,321,634297
+1090196,Jet Ski,Sea Ray,New,2007,47.4,9.52,Steel,Mumbai,360,1602057
+585421,Yacht,Yamaha,Used,2017,23.46,7.69,Aluminum,Goa,335,4566830
+2005791,Sailboat,Sea Ray,Used,1990,10.76,6.01,Aluminum,Mumbai,218,2691651
+126809,Jet Ski,Yamaha,Used,2018,8.94,6.04,Fiberglass,Visakhapatnam,108,1517969
+4289377,Sailboat,Sea Ray,Used,2001,27.28,2.11,Wood,Mumbai,321,136818
+4188708,Motorboat,Beneteau,Used,2009,42.12,4.35,Wood,Chennai,186,2479569
+4628358,Motorboat,Boston Whaler,New,1995,17.66,6.91,Fiberglass,Chennai,363,4865674
+1545776,Fishing Boat,Yamaha,New,2001,5.9,7.24,Wood,Chennai,108,4799122
+4491030,Jet Ski,Bayliner,New,1999,23.77,7.51,Aluminum,Goa,303,2127953
+3984049,Motorboat,Boston Whaler,New,1999,24.19,2.26,Aluminum,Visakhapatnam,294,1460103
+1192530,Sailboat,Boston Whaler,Used,2007,42.27,8.65,Steel,Mumbai,97,3622102
+2082724,Jet Ski,Boston Whaler,New,1996,36.99,2.97,Aluminum,Mumbai,466,1725671
+929318,Jet Ski,Bayliner,New,2005,23.91,9.9,Fiberglass,Visakhapatnam,414,3640478
+3779308,Sailboat,Jeanneau,Used,2019,45.91,5.02,Steel,Kochi,282,4085744
+1453360,Jet Ski,Jeanneau,New,2017,28.46,5.61,Fiberglass,Chennai,172,3549768
+3062600,Fishing Boat,Jeanneau,Used,2017,26.84,3.12,Aluminum,Goa,383,4947323
+3521577,Fishing Boat,Sea Ray,Used,1998,25.96,6.43,Aluminum,Visakhapatnam,288,3788216
+4028539,Yacht,Jeanneau,New,1995,41.66,5.87,Aluminum,Mumbai,420,4893660
+1061931,Jet Ski,Bayliner,New,1997,14.17,3.63,Wood,Mumbai,117,998813
+2070771,Sailboat,Sea Ray,Used,2012,8.96,2.33,Wood,Mumbai,95,4423590
+1753533,Jet Ski,Boston Whaler,New,2010,42.07,5.87,Aluminum,Goa,252,1588725
+1816686,Fishing Boat,Bayliner,Used,2000,31.17,7.04,Wood,Visakhapatnam,337,1333534
+1001942,Jet Ski,Bayliner,Used,1997,36.68,5.42,Aluminum,Goa,301,3382364
+3163018,Fishing Boat,Yamaha,Used,2012,37.9,2.28,Fiberglass,Chennai,383,1470810
+1856950,Fishing Boat,Yamaha,New,2023,38.94,2.12,Steel,Visakhapatnam,30,64933
+3566711,Sailboat,Sea Ray,Used,2017,17.82,3.56,Fiberglass,Mumbai,86,2144825
+4127200,Jet Ski,Jeanneau,New,2002,12.93,9.15,Steel,Goa,233,2294506
+4385283,Jet Ski,Yamaha,Used,1999,25.63,7.08,Aluminum,Mumbai,424,3509058
+785499,Yacht,Beneteau,Used,2018,8.44,6.6,Wood,Goa,378,3756901
+611912,Yacht,Sea Ray,Used,1993,49.67,4.92,Steel,Visakhapatnam,105,3802831
+1992018,Sailboat,Yamaha,New,1995,17.87,7.8,Fiberglass,Mumbai,287,3258383
+567244,Fishing Boat,Yamaha,New,2022,12.93,9.42,Steel,Mumbai,99,4630470
+3656038,Motorboat,Yamaha,New,2020,24.36,9.79,Aluminum,Goa,432,3242582
+2666838,Sailboat,Bayliner,New,2023,18.78,5.38,Aluminum,Goa,244,1769633
+2311423,Fishing Boat,Beneteau,New,1992,47.37,5.62,Fiberglass,Visakhapatnam,146,486801
+4277127,Sailboat,Boston Whaler,Used,1990,14.12,9.36,Fiberglass,Mumbai,324,1687378
+3546917,Motorboat,Boston Whaler,New,2001,31.3,2.91,Steel,Chennai,166,670867
+4211105,Yacht,Bayliner,New,2000,34.47,9.81,Aluminum,Chennai,267,1603695
+1425535,Yacht,Beneteau,Used,2016,32.05,5.97,Wood,Goa,58,1469709
+1244235,Fishing Boat,Bayliner,New,2024,38.81,6.87,Aluminum,Mumbai,179,4219388
+1694941,Yacht,Yamaha,Used,2014,47.03,4.17,Fiberglass,Kochi,182,3180695
+1853688,Sailboat,Sea Ray,New,2000,33.95,8.55,Steel,Chennai,205,3098309
+2493769,Jet Ski,Yamaha,Used,2015,43.49,8.58,Aluminum,Kochi,286,2536057
+1065601,Motorboat,Beneteau,New,1997,7.37,4.61,Aluminum,Visakhapatnam,109,2743679
+1872517,Jet Ski,Beneteau,New,1990,27.48,6.49,Steel,Goa,102,1520649
+2919095,Sailboat,Sea Ray,Used,2012,17.94,9.75,Wood,Mumbai,63,1541096
+77411,Yacht,Jeanneau,New,2000,22.25,2.21,Steel,Chennai,354,2386778
+3966927,Yacht,Yamaha,Used,2006,49.49,2.7,Aluminum,Mumbai,9,3529867
+1732730,Yacht,Beneteau,New,2018,9.98,4.88,Aluminum,Chennai,479,3171257
+1893541,Motorboat,Beneteau,Used,1996,32.85,7.96,Aluminum,Goa,0,1481905
+928664,Yacht,Beneteau,Used,2002,19.72,3.36,Steel,Kochi,75,2184489
+4964210,Fishing Boat,Bayliner,Used,2001,26.23,6.63,Fiberglass,Mumbai,364,1684603
+3074558,Sailboat,Boston Whaler,Used,2002,30.1,4.74,Wood,Goa,199,1794328
+1698478,Fishing Boat,Boston Whaler,Used,2007,41.8,9.72,Aluminum,Goa,119,69187
+254338,Yacht,Yamaha,Used,2006,29.8,8.83,Fiberglass,Chennai,56,4711816
+2633249,Jet Ski,Bayliner,New,2012,18.4,9.16,Fiberglass,Goa,59,186909
+492781,Yacht,Bayliner,New,1998,12.95,4.62,Aluminum,Chennai,432,2264766
+1794317,Jet Ski,Sea Ray,New,2000,25.49,3.16,Wood,Kochi,36,300770
+2143122,Sailboat,Boston Whaler,New,2022,25.1,7.55,Wood,Chennai,246,2782092
+1840017,Fishing Boat,Yamaha,New,2008,39.79,9.9,Aluminum,Visakhapatnam,378,4816574
+3513102,Sailboat,Yamaha,Used,1991,24.05,4.43,Wood,Chennai,37,3892353
+3030231,Yacht,Yamaha,Used,2011,9.86,6.19,Wood,Visakhapatnam,152,2465113
+876565,Jet Ski,Jeanneau,New,2023,12.85,4.46,Wood,Goa,387,613024
+3743004,Motorboat,Jeanneau,New,2020,32.44,9.82,Fiberglass,Chennai,136,1631358
+3285923,Jet Ski,Jeanneau,New,2014,14.3,2.96,Steel,Chennai,213,2007493
+985953,Fishing Boat,Sea Ray,Used,2002,13.44,8.35,Wood,Kochi,150,2133941
+1067932,Motorboat,Sea Ray,Used,2022,36.78,4.46,Steel,Goa,480,3409345
+2362563,Yacht,Sea Ray,Used,2009,48.57,2.85,Steel,Goa,335,1744652
+4886060,Jet Ski,Beneteau,New,2008,17.45,5.56,Wood,Mumbai,210,3274769
+3878516,Yacht,Jeanneau,New,1999,9.31,5.3,Fiberglass,Chennai,154,1956572
+3503203,Fishing Boat,Yamaha,Used,2024,48.1,2.57,Fiberglass,Goa,183,3060049
+757586,Motorboat,Jeanneau,Used,1990,25.03,7.32,Fiberglass,Mumbai,17,2485846
+3351694,Motorboat,Beneteau,New,1997,18.37,6.34,Wood,Kochi,94,1681583
+4364577,Jet Ski,Sea Ray,Used,2022,20.37,2.68,Aluminum,Mumbai,143,2196713
+1823086,Sailboat,Bayliner,Used,2024,35.5,7.34,Aluminum,Visakhapatnam,44,902081
+1951026,Motorboat,Sea Ray,New,1991,21.83,2.0,Wood,Chennai,386,2436409
+3151258,Jet Ski,Sea Ray,New,1994,42.28,7.11,Wood,Chennai,99,1553966
+1177967,Yacht,Sea Ray,Used,2023,44.77,6.37,Aluminum,Kochi,409,4057813
+1090987,Jet Ski,Beneteau,New,1997,15.3,4.06,Aluminum,Visakhapatnam,201,1686760
+202290,Motorboat,Beneteau,Used,2000,18.97,7.7,Fiberglass,Mumbai,164,2826180
+866530,Jet Ski,Beneteau,New,2015,27.88,5.47,Wood,Goa,478,1379888
+1451880,Fishing Boat,Bayliner,Used,2023,45.77,3.17,Wood,Visakhapatnam,465,4426079
+1003462,Sailboat,Yamaha,Used,1993,42.73,7.58,Wood,Chennai,292,4166305
+2746446,Sailboat,Beneteau,New,1993,29.56,6.65,Fiberglass,Kochi,17,298533
+2989807,Fishing Boat,Jeanneau,New,1999,9.04,4.5,Wood,Chennai,290,401605
+1938299,Sailboat,Bayliner,Used,2020,24.07,7.47,Wood,Chennai,166,3217930
+4141300,Sailboat,Bayliner,New,1992,29.32,6.84,Fiberglass,Chennai,121,2439882
+4860955,Fishing Boat,Bayliner,New,1998,44.85,8.94,Wood,Kochi,434,2057773
+3642910,Motorboat,Yamaha,New,2003,18.23,6.76,Fiberglass,Mumbai,322,4526607
+4538602,Sailboat,Sea Ray,New,2000,36.25,5.47,Steel,Chennai,413,1099725
+397800,Fishing Boat,Boston Whaler,New,2010,20.52,2.96,Steel,Goa,76,1201616
+1411345,Fishing Boat,Beneteau,Used,2022,39.48,2.76,Fiberglass,Kochi,126,2616657
+2112385,Fishing Boat,Bayliner,Used,2003,21.25,9.37,Steel,Kochi,86,3235861
+1218577,Jet Ski,Beneteau,Used,1995,26.74,9.92,Fiberglass,Kochi,346,1861601
+3428605,Jet Ski,Jeanneau,Used,2017,48.06,8.97,Fiberglass,Visakhapatnam,201,1032916
+4632867,Yacht,Beneteau,New,2009,7.38,7.2,Steel,Kochi,344,4791804
+1164304,Yacht,Sea Ray,Used,2017,44.09,7.23,Steel,Chennai,201,3661534
+4291339,Fishing Boat,Boston Whaler,Used,2019,34.78,7.19,Steel,Kochi,341,3972508
+4398803,Fishing Boat,Sea Ray,Used,2016,11.13,9.77,Wood,Visakhapatnam,208,1420991
+3956826,Yacht,Boston Whaler,Used,2011,34.0,4.65,Steel,Goa,372,1018533
+1492376,Sailboat,Boston Whaler,Used,2002,36.41,9.95,Fiberglass,Chennai,460,2443656
+139762,Jet Ski,Jeanneau,New,2000,5.01,5.68,Aluminum,Mumbai,36,1027917
+4999044,Fishing Boat,Beneteau,New,2001,19.44,7.9,Steel,Chennai,252,211478
+4494065,Jet Ski,Sea Ray,Used,2022,40.68,8.23,Fiberglass,Goa,229,3934060
+4277607,Fishing Boat,Bayliner,Used,2009,11.83,7.35,Steel,Visakhapatnam,197,2039517
+1295564,Yacht,Boston Whaler,New,2021,30.52,8.23,Fiberglass,Kochi,43,1774732
+1352395,Yacht,Jeanneau,New,2016,28.97,3.73,Fiberglass,Chennai,471,1908235
+3347844,Yacht,Boston Whaler,Used,2014,8.69,4.88,Steel,Chennai,287,3408471
+1106027,Sailboat,Sea Ray,Used,2006,23.31,9.27,Steel,Mumbai,434,1115600
+2516569,Sailboat,Bayliner,New,2015,7.37,6.88,Fiberglass,Visakhapatnam,52,174816
+3585895,Jet Ski,Yamaha,Used,2015,19.6,2.85,Fiberglass,Kochi,89,4832766
+4253397,Motorboat,Sea Ray,New,2019,44.85,6.06,Aluminum,Mumbai,138,4807270
+318137,Motorboat,Beneteau,New,2018,39.24,6.88,Aluminum,Chennai,476,2025888
+2678351,Fishing Boat,Beneteau,Used,2022,29.52,5.16,Fiberglass,Goa,336,3271281
+2938170,Motorboat,Yamaha,New,2003,39.25,8.55,Fiberglass,Goa,471,3825734
+4106630,Jet Ski,Yamaha,Used,2007,16.84,8.04,Fiberglass,Mumbai,134,1366091
+1672216,Motorboat,Beneteau,New,2005,26.66,3.34,Wood,Mumbai,403,4011575
+4297361,Jet Ski,Boston Whaler,New,2018,22.94,5.29,Wood,Visakhapatnam,114,396771
+2353124,Motorboat,Boston Whaler,Used,2013,29.39,4.88,Aluminum,Mumbai,217,980469
+3834873,Fishing Boat,Sea Ray,Used,2015,31.79,7.06,Fiberglass,Mumbai,119,2232608
+3020505,Motorboat,Jeanneau,Used,2012,5.24,6.37,Aluminum,Mumbai,103,2949342
+2902021,Sailboat,Bayliner,Used,1993,47.92,8.63,Wood,Visakhapatnam,15,3067815
+4568972,Sailboat,Sea Ray,New,2003,22.12,4.22,Aluminum,Goa,210,1494939
+1844524,Fishing Boat,Yamaha,New,1990,35.55,4.25,Wood,Chennai,467,891286
+471287,Sailboat,Jeanneau,New,2000,27.51,2.43,Steel,Goa,278,139277
+1595120,Motorboat,Jeanneau,New,2023,49.46,2.24,Aluminum,Goa,355,2837598
+2260021,Yacht,Beneteau,Used,2024,26.76,3.84,Fiberglass,Goa,210,3507266
+3826563,Motorboat,Bayliner,Used,2022,45.87,5.22,Fiberglass,Mumbai,42,2813843
+3508727,Sailboat,Sea Ray,Used,2000,23.08,7.37,Aluminum,Visakhapatnam,489,2673224
+2580762,Motorboat,Bayliner,Used,2002,48.05,4.48,Fiberglass,Mumbai,181,3535596
+2250850,Yacht,Boston Whaler,New,1991,42.43,7.17,Steel,Kochi,452,4675263
+2050771,Fishing Boat,Boston Whaler,New,2004,20.86,9.58,Aluminum,Mumbai,424,1874172
+3657825,Fishing Boat,Yamaha,Used,2012,19.1,2.16,Fiberglass,Visakhapatnam,118,4198283
+2886329,Motorboat,Beneteau,New,1990,49.91,3.19,Steel,Mumbai,112,992316
+279495,Motorboat,Yamaha,New,1993,20.43,6.01,Steel,Mumbai,382,2453178
+3995497,Motorboat,Jeanneau,New,1992,29.79,6.02,Wood,Mumbai,454,2340261
+1224520,Yacht,Sea Ray,Used,1992,15.86,3.23,Wood,Goa,446,4509685
+1384843,Jet Ski,Jeanneau,Used,2001,6.21,9.32,Wood,Mumbai,480,3474738
+3172128,Motorboat,Jeanneau,Used,2011,41.26,3.19,Steel,Chennai,141,4172456
+4150157,Fishing Boat,Yamaha,New,2017,32.33,6.61,Steel,Goa,391,2779623
+4149514,Motorboat,Beneteau,New,2009,16.34,5.83,Fiberglass,Goa,124,1608693
+4693043,Fishing Boat,Yamaha,Used,2018,34.52,4.47,Steel,Kochi,156,3124422
+1351644,Yacht,Sea Ray,Used,2014,14.44,5.35,Fiberglass,Goa,73,3690720
+4931507,Motorboat,Beneteau,Used,2020,8.98,9.28,Wood,Mumbai,391,713602
+1530073,Motorboat,Boston Whaler,Used,2002,33.95,8.07,Aluminum,Kochi,369,997342
+3916878,Sailboat,Sea Ray,Used,2021,46.84,8.28,Steel,Goa,204,1821759
+3661124,Yacht,Sea Ray,New,2019,29.61,7.09,Steel,Visakhapatnam,94,4888159
+1300952,Yacht,Bayliner,New,1997,6.63,3.87,Fiberglass,Visakhapatnam,131,1969955
+3809536,Fishing Boat,Jeanneau,Used,1999,20.65,2.67,Wood,Kochi,1,4765716
+1753096,Motorboat,Jeanneau,Used,2005,30.78,8.27,Aluminum,Mumbai,215,1993506
+575056,Jet Ski,Bayliner,New,2009,46.38,8.03,Wood,Visakhapatnam,301,1311626
+2193420,Yacht,Jeanneau,Used,2019,28.57,8.24,Fiberglass,Goa,333,4881708
+4775275,Motorboat,Bayliner,Used,1998,13.76,6.97,Steel,Visakhapatnam,425,3690402
+4633408,Jet Ski,Beneteau,New,2005,29.68,2.35,Aluminum,Chennai,6,2854115
+1249654,Yacht,Yamaha,Used,1999,24.43,9.76,Wood,Goa,394,2798875
+2951627,Yacht,Beneteau,New,2017,40.71,4.64,Aluminum,Kochi,399,734091
+2743960,Motorboat,Boston Whaler,New,2013,49.17,8.44,Aluminum,Mumbai,468,671607
+2490250,Jet Ski,Beneteau,New,2008,21.28,2.07,Wood,Goa,186,4676505
+303310,Fishing Boat,Jeanneau,Used,2017,8.82,3.5,Aluminum,Visakhapatnam,196,1608637
+4921496,Fishing Boat,Boston Whaler,Used,2015,14.1,7.77,Steel,Goa,116,2766865
+1377632,Jet Ski,Yamaha,New,1995,29.04,7.95,Steel,Kochi,440,3293843
+81846,Fishing Boat,Sea Ray,Used,2010,35.23,6.93,Aluminum,Mumbai,373,477283
+1298729,Jet Ski,Yamaha,New,1993,21.68,5.63,Wood,Mumbai,96,608249
+3855326,Sailboat,Sea Ray,New,1990,24.58,5.9,Wood,Mumbai,56,2581313
+4070351,Jet Ski,Yamaha,Used,2002,13.67,4.12,Wood,Kochi,343,4826691
+4245904,Yacht,Sea Ray,New,2012,38.63,4.09,Wood,Mumbai,209,444888
+4746773,Fishing Boat,Jeanneau,Used,1994,14.2,8.21,Steel,Kochi,38,1962400
+1688557,Jet Ski,Beneteau,Used,2009,15.87,7.13,Aluminum,Visakhapatnam,98,4846672
+1300451,Motorboat,Bayliner,New,2011,33.65,3.3,Wood,Visakhapatnam,126,3651080
+2352706,Motorboat,Sea Ray,New,2008,43.72,4.58,Wood,Chennai,186,2198956
+1243565,Yacht,Boston Whaler,New,2016,44.34,9.24,Aluminum,Mumbai,140,2810912
+455744,Yacht,Boston Whaler,Used,2002,33.77,5.17,Fiberglass,Kochi,212,4551670
+4105064,Jet Ski,Boston Whaler,New,2012,20.62,3.3,Steel,Kochi,91,3052323
+3102527,Jet Ski,Yamaha,Used,1993,6.73,6.76,Aluminum,Kochi,411,347339
+3911091,Jet Ski,Boston Whaler,New,2017,10.99,6.75,Aluminum,Visakhapatnam,186,4909154
+4171865,Fishing Boat,Bayliner,New,2006,5.76,2.6,Wood,Visakhapatnam,395,3190845
+3997685,Motorboat,Jeanneau,Used,2020,19.06,4.51,Wood,Visakhapatnam,360,714652
+1495650,Fishing Boat,Bayliner,Used,2010,13.52,6.62,Wood,Mumbai,330,162619
+2820917,Jet Ski,Sea Ray,Used,2005,43.8,2.25,Wood,Kochi,496,2446013
+4864202,Jet Ski,Boston Whaler,Used,2022,35.63,9.92,Steel,Chennai,49,2790175
+4336821,Fishing Boat,Beneteau,Used,2005,16.47,6.28,Fiberglass,Kochi,217,4794088
+4518794,Yacht,Beneteau,New,1998,48.66,9.64,Aluminum,Visakhapatnam,327,4334492
+1240816,Jet Ski,Boston Whaler,Used,1995,45.33,3.73,Wood,Chennai,411,1408138
+4781846,Sailboat,Jeanneau,New,1990,45.09,4.67,Steel,Mumbai,185,3058097
+2336658,Sailboat,Boston Whaler,New,1999,32.14,3.33,Wood,Visakhapatnam,231,2640508
+2693907,Jet Ski,Bayliner,New,2020,42.95,8.3,Fiberglass,Goa,68,3936076
+1779663,Yacht,Yamaha,Used,1993,15.65,3.91,Wood,Goa,397,1473943
+2049713,Fishing Boat,Sea Ray,New,2022,25.41,6.6,Wood,Goa,139,490439
+4788347,Fishing Boat,Sea Ray,Used,2001,13.17,8.78,Fiberglass,Visakhapatnam,48,2966326
+1107073,Sailboat,Jeanneau,Used,1994,24.2,4.41,Steel,Goa,293,2470417
+1110060,Yacht,Jeanneau,New,2023,21.4,2.4,Fiberglass,Visakhapatnam,47,3840965
+1714733,Motorboat,Sea Ray,New,2017,48.39,8.46,Steel,Mumbai,263,316285
+4434498,Motorboat,Sea Ray,Used,2006,7.66,4.63,Wood,Mumbai,327,3244311
+1739569,Fishing Boat,Bayliner,New,2008,29.27,6.71,Aluminum,Chennai,93,2964359
+565780,Jet Ski,Jeanneau,New,2021,12.51,9.04,Steel,Mumbai,212,3097804
+1006602,Motorboat,Beneteau,New,1994,38.19,5.81,Fiberglass,Goa,130,112029
+3262207,Sailboat,Yamaha,New,2013,18.44,9.73,Wood,Visakhapatnam,310,2253283
+2991551,Fishing Boat,Boston Whaler,Used,2016,46.04,9.99,Aluminum,Visakhapatnam,479,486013
+64504,Yacht,Bayliner,Used,2017,42.37,7.06,Wood,Chennai,253,913498
+2393750,Yacht,Yamaha,Used,2010,6.3,8.66,Steel,Mumbai,311,3688192
+2180989,Fishing Boat,Beneteau,Used,2001,34.42,3.41,Steel,Chennai,348,1882150
+1291685,Yacht,Sea Ray,New,1995,47.45,5.13,Wood,Chennai,178,2001773
+2038484,Sailboat,Bayliner,Used,2015,12.94,6.05,Fiberglass,Chennai,44,623991
+4956444,Sailboat,Bayliner,New,2011,17.23,3.43,Steel,Goa,236,2473974
+4184706,Yacht,Beneteau,New,1998,38.06,8.44,Steel,Mumbai,114,3606999
+3453052,Yacht,Boston Whaler,Used,2015,13.26,9.02,Fiberglass,Kochi,225,3778249
+3883830,Motorboat,Boston Whaler,Used,2015,46.59,7.7,Aluminum,Kochi,73,842577
+3791658,Motorboat,Beneteau,Used,2021,21.6,2.93,Fiberglass,Visakhapatnam,454,603430
+3322326,Yacht,Jeanneau,New,1991,48.74,3.4,Fiberglass,Kochi,330,1643938
+2898766,Jet Ski,Beneteau,New,2017,35.12,4.19,Aluminum,Kochi,91,3980408
+166008,Motorboat,Bayliner,Used,2008,45.81,4.12,Steel,Chennai,416,1822243
+1050770,Motorboat,Sea Ray,New,2011,44.9,5.15,Steel,Chennai,296,4239885
+229420,Motorboat,Bayliner,Used,2004,10.08,7.62,Aluminum,Visakhapatnam,329,3920576
+1791334,Yacht,Bayliner,Used,2007,26.19,2.31,Fiberglass,Chennai,41,1393056
+2227576,Yacht,Jeanneau,New,1997,31.31,3.54,Wood,Mumbai,380,1742427
+2358773,Motorboat,Bayliner,New,2017,7.76,4.45,Aluminum,Chennai,165,3900153
+168382,Jet Ski,Boston Whaler,New,1998,25.52,9.16,Steel,Visakhapatnam,202,4026199
+3778612,Yacht,Bayliner,New,2010,43.41,4.33,Steel,Chennai,386,875581
+398423,Sailboat,Yamaha,Used,1991,43.76,9.36,Aluminum,Mumbai,201,1050542
+849453,Yacht,Yamaha,Used,1999,42.25,2.73,Wood,Visakhapatnam,130,3857151
+570614,Fishing Boat,Boston Whaler,New,2019,15.29,8.99,Aluminum,Visakhapatnam,208,4213993
+2929856,Sailboat,Boston Whaler,New,2013,38.79,8.31,Wood,Kochi,287,1619216
+1790290,Jet Ski,Boston Whaler,New,2022,23.77,6.91,Fiberglass,Mumbai,354,3105292
+4603824,Motorboat,Beneteau,New,2011,28.31,7.97,Steel,Kochi,159,213428
+921980,Fishing Boat,Boston Whaler,New,2008,34.06,7.79,Wood,Goa,279,3315872
+2587853,Yacht,Boston Whaler,New,2009,41.34,5.6,Fiberglass,Mumbai,205,85483
+1913962,Yacht,Beneteau,New,2000,39.08,6.99,Aluminum,Visakhapatnam,262,3837016
+4365198,Yacht,Beneteau,Used,1996,47.53,6.16,Fiberglass,Goa,331,311227
+2787251,Yacht,Boston Whaler,New,2024,25.81,8.42,Wood,Visakhapatnam,391,1096709
+3282081,Yacht,Beneteau,New,1998,23.63,9.33,Steel,Visakhapatnam,38,2544350
+3924232,Yacht,Yamaha,New,2013,37.78,2.38,Aluminum,Goa,257,3968539
+4225902,Motorboat,Jeanneau,Used,2006,34.01,9.17,Wood,Kochi,405,3042305
+372392,Motorboat,Beneteau,New,2011,48.75,9.16,Aluminum,Visakhapatnam,164,3600671
+788477,Fishing Boat,Yamaha,New,1999,37.71,6.7,Aluminum,Visakhapatnam,201,715291
+3004757,Sailboat,Sea Ray,Used,2018,14.55,2.21,Steel,Goa,341,4204925
+401828,Fishing Boat,Jeanneau,Used,2017,43.38,7.98,Steel,Goa,270,2374154
+2422467,Jet Ski,Sea Ray,New,2001,37.12,9.94,Fiberglass,Goa,382,3451723
+1389838,Fishing Boat,Bayliner,Used,2015,10.08,6.45,Aluminum,Kochi,39,1670729
+2091769,Fishing Boat,Beneteau,New,2002,40.07,5.1,Fiberglass,Goa,76,1907758
+2286598,Jet Ski,Beneteau,New,1995,19.75,7.98,Steel,Goa,416,696385
+105349,Yacht,Bayliner,Used,2021,9.7,5.84,Steel,Chennai,105,1030074
+267472,Yacht,Sea Ray,Used,2017,44.97,3.34,Fiberglass,Visakhapatnam,312,2199877
+4998201,Fishing Boat,Sea Ray,New,2018,45.68,4.56,Wood,Visakhapatnam,100,1667916
+4317303,Motorboat,Boston Whaler,New,2001,34.6,2.35,Fiberglass,Visakhapatnam,281,2380859
+3885426,Fishing Boat,Beneteau,New,1995,32.96,7.42,Aluminum,Kochi,164,4746439
+2123803,Jet Ski,Boston Whaler,Used,1994,39.45,7.19,Fiberglass,Kochi,396,606696
+4433199,Jet Ski,Sea Ray,New,2017,10.44,7.71,Steel,Mumbai,29,1370250
+3697592,Sailboat,Bayliner,New,1990,47.05,7.46,Steel,Mumbai,445,2238333
+1388076,Yacht,Sea Ray,Used,2017,18.87,2.13,Steel,Kochi,64,496003
+1784035,Sailboat,Sea Ray,New,1992,28.76,3.93,Fiberglass,Mumbai,271,3926987
+4660193,Jet Ski,Yamaha,New,2024,27.61,6.45,Steel,Kochi,341,2874995
+2726260,Yacht,Yamaha,Used,2000,44.17,8.32,Steel,Visakhapatnam,447,2800711
+3636400,Motorboat,Bayliner,New,2007,42.8,9.46,Fiberglass,Mumbai,368,4515543
+3878503,Yacht,Beneteau,Used,2006,36.49,2.84,Fiberglass,Kochi,446,3433419
+2194574,Yacht,Yamaha,New,1994,5.81,3.77,Aluminum,Kochi,460,2960115
+3632836,Yacht,Sea Ray,New,2013,5.24,3.78,Fiberglass,Mumbai,385,749431
+4885517,Yacht,Boston Whaler,Used,2007,16.72,9.49,Aluminum,Chennai,436,609304
+3190593,Fishing Boat,Bayliner,Used,1993,26.17,9.65,Fiberglass,Mumbai,251,4981895
+63478,Jet Ski,Bayliner,New,2009,23.39,3.69,Steel,Visakhapatnam,180,2718027
+3669336,Yacht,Jeanneau,Used,2006,42.73,9.61,Steel,Goa,43,2745332
+4233297,Motorboat,Beneteau,Used,2004,14.11,9.1,Fiberglass,Chennai,319,1402467
+3041647,Fishing Boat,Sea Ray,Used,2002,37.0,8.29,Wood,Visakhapatnam,36,2785955
+3464164,Jet Ski,Yamaha,Used,1999,31.59,3.26,Steel,Goa,361,254207
+4536102,Jet Ski,Boston Whaler,Used,2006,47.39,6.85,Aluminum,Mumbai,27,815909
+4420546,Sailboat,Jeanneau,New,2009,16.81,9.53,Steel,Goa,360,4019376
+3906107,Sailboat,Beneteau,New,2003,13.56,6.47,Steel,Kochi,4,1822652
+1521823,Jet Ski,Boston Whaler,New,2005,10.92,2.71,Fiberglass,Goa,412,1768733
+1385307,Motorboat,Boston Whaler,New,1993,37.62,3.68,Fiberglass,Goa,211,4058706
+1225519,Motorboat,Beneteau,New,2006,46.65,7.55,Wood,Visakhapatnam,132,3734686
+3281632,Jet Ski,Jeanneau,Used,2014,12.77,5.24,Wood,Goa,403,2858385
+1809694,Sailboat,Jeanneau,Used,2004,45.41,7.16,Steel,Goa,173,890921
+1105689,Jet Ski,Jeanneau,Used,2007,42.71,7.07,Steel,Mumbai,160,501113
+2520102,Yacht,Jeanneau,Used,1990,46.73,7.47,Aluminum,Chennai,23,4966801
+1644149,Yacht,Bayliner,Used,2002,45.83,7.12,Wood,Mumbai,411,4683353
+2041774,Sailboat,Bayliner,Used,2009,43.09,4.37,Fiberglass,Mumbai,385,434413
+842642,Yacht,Beneteau,Used,2018,41.21,6.06,Steel,Kochi,159,4793610
+404012,Jet Ski,Boston Whaler,New,2018,27.29,8.37,Fiberglass,Kochi,313,1156783
+4343763,Sailboat,Sea Ray,New,1992,14.72,2.62,Aluminum,Goa,96,4774089
+4753260,Yacht,Sea Ray,Used,2012,14.42,4.46,Fiberglass,Visakhapatnam,190,1960762
+909260,Jet Ski,Bayliner,New,1999,11.87,8.17,Fiberglass,Mumbai,413,1078250
+912814,Fishing Boat,Jeanneau,New,2000,7.55,4.58,Steel,Visakhapatnam,447,1539373
+4437303,Sailboat,Beneteau,New,1991,5.71,5.48,Aluminum,Chennai,210,2043713
+1178163,Yacht,Sea Ray,New,1995,36.2,3.94,Steel,Chennai,161,2795552
+4125693,Motorboat,Yamaha,New,2023,25.96,8.45,Steel,Chennai,105,2350685
+1599705,Sailboat,Jeanneau,Used,2015,11.37,3.66,Wood,Goa,16,1720458
+131538,Yacht,Beneteau,New,1997,38.02,9.52,Wood,Goa,7,3746480
+3543995,Jet Ski,Beneteau,New,1993,8.31,4.96,Fiberglass,Mumbai,137,577783
+230895,Yacht,Bayliner,New,1993,22.35,9.76,Fiberglass,Mumbai,389,4912107
+2510926,Jet Ski,Yamaha,Used,2020,22.14,2.47,Steel,Chennai,484,178030
+3531089,Sailboat,Boston Whaler,Used,1990,39.61,4.82,Fiberglass,Chennai,489,3513846
+2542843,Yacht,Sea Ray,Used,2016,47.03,9.86,Aluminum,Chennai,114,3385838
+4718878,Jet Ski,Jeanneau,Used,2017,39.58,4.23,Steel,Goa,479,4407548
+3341106,Sailboat,Bayliner,New,2003,28.67,6.82,Aluminum,Kochi,318,1194306
+4952349,Yacht,Yamaha,New,2021,5.04,5.04,Fiberglass,Kochi,263,459794
+3983969,Jet Ski,Bayliner,Used,2001,35.94,5.72,Wood,Kochi,91,3965874
+815892,Fishing Boat,Beneteau,New,2002,13.74,5.35,Fiberglass,Visakhapatnam,109,4953866
+3513009,Yacht,Sea Ray,Used,2006,9.82,3.5,Steel,Mumbai,228,4020675
+3506879,Jet Ski,Beneteau,New,2004,29.54,5.44,Fiberglass,Mumbai,179,1226471
+2384326,Yacht,Sea Ray,New,2014,11.83,8.07,Aluminum,Kochi,425,2502563
+4556254,Fishing Boat,Bayliner,New,1997,28.88,9.48,Wood,Kochi,392,1845663
+4550631,Yacht,Jeanneau,New,2022,18.77,3.52,Wood,Chennai,316,1445017
+1301789,Yacht,Sea Ray,Used,2008,21.26,4.6,Wood,Visakhapatnam,299,1864960
+243471,Jet Ski,Bayliner,New,1993,44.47,8.42,Aluminum,Visakhapatnam,364,3333733
+1208864,Fishing Boat,Beneteau,Used,1995,28.66,7.16,Aluminum,Goa,287,2593422
+3270498,Yacht,Jeanneau,New,1995,23.07,8.24,Wood,Goa,388,73980
+1041399,Sailboat,Sea Ray,Used,1997,43.04,4.79,Fiberglass,Mumbai,74,917521
+4282287,Motorboat,Bayliner,Used,2001,20.02,3.39,Aluminum,Kochi,381,359839
+1187417,Jet Ski,Sea Ray,Used,2004,11.69,8.2,Fiberglass,Goa,458,2110918
+328916,Motorboat,Sea Ray,New,2000,44.35,6.81,Steel,Visakhapatnam,316,1249545
+3637347,Sailboat,Boston Whaler,New,2001,39.66,5.85,Steel,Chennai,43,2027916
+1368713,Motorboat,Yamaha,New,1996,34.54,7.9,Wood,Visakhapatnam,487,858690
+4515555,Yacht,Bayliner,New,1999,30.51,5.7,Steel,Chennai,295,3430547
+4757595,Sailboat,Sea Ray,New,1998,14.8,8.53,Fiberglass,Chennai,58,403495
+326917,Yacht,Beneteau,New,2022,21.86,6.49,Wood,Mumbai,177,1277638
+3241344,Fishing Boat,Bayliner,New,2013,49.32,8.55,Aluminum,Visakhapatnam,84,1602266
+2285643,Sailboat,Beneteau,Used,2005,47.49,9.48,Steel,Mumbai,468,1583125
+123532,Jet Ski,Jeanneau,New,2012,10.74,2.84,Wood,Visakhapatnam,476,3002820
+3422256,Jet Ski,Jeanneau,Used,1992,17.96,8.7,Aluminum,Kochi,363,1240768
+1076650,Sailboat,Bayliner,Used,1994,7.34,7.84,Aluminum,Visakhapatnam,277,279179
+2285292,Fishing Boat,Jeanneau,Used,2017,49.9,7.91,Fiberglass,Chennai,366,714457
+868223,Yacht,Yamaha,Used,2007,41.33,9.94,Wood,Goa,420,75635
+1191903,Yacht,Beneteau,Used,1990,44.57,5.93,Aluminum,Kochi,9,3685899
+2516377,Yacht,Jeanneau,Used,2019,46.16,3.19,Steel,Goa,258,4283258
+3255523,Motorboat,Sea Ray,Used,1999,40.29,3.96,Wood,Goa,386,1928762
+1531840,Jet Ski,Beneteau,Used,2022,44.51,7.7,Aluminum,Mumbai,442,4839036
+248885,Jet Ski,Boston Whaler,New,1996,19.71,4.7,Aluminum,Chennai,492,2212608
+3384554,Jet Ski,Bayliner,Used,2016,47.67,2.47,Fiberglass,Kochi,64,3357027
+103047,Jet Ski,Beneteau,Used,2017,24.13,2.78,Steel,Visakhapatnam,309,3735548
+67691,Motorboat,Beneteau,Used,2009,10.55,2.46,Fiberglass,Visakhapatnam,298,652022
+424316,Yacht,Boston Whaler,Used,2018,49.55,9.7,Steel,Kochi,409,923104
+3888758,Sailboat,Beneteau,New,1990,24.46,7.73,Aluminum,Visakhapatnam,366,4908829
+4741464,Motorboat,Bayliner,New,1994,9.3,9.48,Aluminum,Mumbai,465,2628719
+1370617,Motorboat,Boston Whaler,New,2005,41.55,6.1,Steel,Chennai,349,464227
+3174321,Fishing Boat,Jeanneau,Used,2016,26.11,6.82,Steel,Visakhapatnam,112,4727953
+4445903,Motorboat,Sea Ray,Used,1993,30.53,6.22,Aluminum,Mumbai,88,326153
+2691616,Sailboat,Yamaha,Used,2001,25.49,7.62,Wood,Kochi,496,2380515
+4600437,Jet Ski,Sea Ray,New,1990,47.2,6.76,Fiberglass,Goa,391,302417
+4354104,Motorboat,Jeanneau,New,2014,17.66,3.36,Steel,Mumbai,354,4960330
+1284038,Yacht,Bayliner,Used,2001,7.32,4.48,Steel,Chennai,382,1637613
+910064,Yacht,Boston Whaler,New,2002,42.26,3.9,Aluminum,Chennai,379,1199523
+1403568,Sailboat,Beneteau,New,1996,27.25,4.15,Aluminum,Mumbai,369,3032674
+3145320,Sailboat,Yamaha,Used,2002,13.72,3.87,Steel,Visakhapatnam,247,3693045
+932289,Yacht,Boston Whaler,New,2009,44.72,2.17,Fiberglass,Mumbai,126,1898445
+3531618,Fishing Boat,Bayliner,Used,1995,41.45,7.02,Steel,Visakhapatnam,498,3026253
+4332345,Yacht,Beneteau,Used,2021,34.75,4.37,Steel,Mumbai,169,3028623
+4614932,Motorboat,Yamaha,Used,1992,48.05,2.39,Wood,Chennai,257,3199045
+2354046,Sailboat,Boston Whaler,New,1999,32.09,8.07,Aluminum,Goa,71,2676696
+68672,Sailboat,Bayliner,New,2008,38.74,6.66,Steel,Mumbai,170,3942430
+475310,Fishing Boat,Boston Whaler,New,2001,31.25,7.87,Aluminum,Goa,64,452657
+4622517,Yacht,Bayliner,New,1996,38.69,5.35,Aluminum,Chennai,187,4462174
+4702033,Jet Ski,Bayliner,New,1991,25.04,4.07,Aluminum,Mumbai,228,1035037
+151521,Yacht,Beneteau,Used,2015,30.78,7.09,Steel,Visakhapatnam,56,2566511
+2771778,Fishing Boat,Jeanneau,New,2015,37.46,7.79,Steel,Kochi,384,283464
+212422,Fishing Boat,Yamaha,Used,1999,43.66,8.94,Wood,Visakhapatnam,259,937463
+1969603,Yacht,Boston Whaler,New,2010,17.32,9.32,Steel,Visakhapatnam,284,1697768
+1696900,Sailboat,Boston Whaler,New,2024,48.28,9.6,Aluminum,Kochi,71,4643666
+3945264,Sailboat,Jeanneau,Used,1993,40.67,7.37,Aluminum,Goa,149,4746524
+3097134,Yacht,Jeanneau,Used,2003,14.93,5.33,Aluminum,Goa,270,4546286
+1217351,Yacht,Yamaha,New,2017,30.82,5.09,Aluminum,Chennai,177,534267
+4990052,Sailboat,Sea Ray,New,2006,37.87,7.92,Steel,Kochi,474,2835048
+1217974,Fishing Boat,Boston Whaler,Used,1991,28.35,5.72,Wood,Kochi,460,121675
+4175879,Yacht,Jeanneau,Used,2010,17.88,3.03,Wood,Chennai,438,959435
+441271,Fishing Boat,Yamaha,Used,2002,9.98,5.84,Aluminum,Chennai,280,710872
+2192278,Fishing Boat,Sea Ray,Used,1994,42.97,9.17,Steel,Chennai,261,1675621
+176292,Yacht,Sea Ray,New,1992,45.39,5.21,Fiberglass,Visakhapatnam,100,2806171
+2212683,Fishing Boat,Bayliner,New,2006,43.58,5.37,Aluminum,Goa,148,1214468
+1318294,Yacht,Bayliner,Used,1997,15.81,6.7,Aluminum,Goa,473,3810557
+2006563,Sailboat,Boston Whaler,Used,1995,47.68,8.26,Fiberglass,Goa,59,1457596
+3980749,Sailboat,Boston Whaler,Used,2003,33.05,7.96,Wood,Kochi,6,3078478
+4996471,Motorboat,Yamaha,Used,1999,29.38,7.94,Aluminum,Chennai,383,1440870
+4273593,Yacht,Bayliner,Used,2010,18.55,5.47,Aluminum,Kochi,165,3822311
+3436023,Motorboat,Bayliner,Used,1997,24.89,8.09,Steel,Goa,372,3787383
+4105270,Sailboat,Sea Ray,Used,2022,17.91,7.97,Fiberglass,Goa,155,1583045
+3000465,Fishing Boat,Sea Ray,Used,1994,46.0,8.68,Steel,Visakhapatnam,75,2645848
+2601813,Sailboat,Bayliner,Used,1998,17.89,7.33,Wood,Chennai,47,2503679
+3176978,Motorboat,Yamaha,New,1993,9.11,3.68,Wood,Chennai,0,2332243
+3363892,Jet Ski,Jeanneau,Used,2006,25.87,5.76,Wood,Goa,448,1765540
+1131209,Sailboat,Bayliner,New,2011,39.0,8.51,Fiberglass,Goa,37,1810702
+4006903,Sailboat,Jeanneau,New,2021,34.31,8.52,Fiberglass,Chennai,60,381328
+2417155,Jet Ski,Beneteau,Used,2013,32.11,8.49,Wood,Mumbai,215,2027804
+1856733,Fishing Boat,Boston Whaler,New,1999,8.53,7.09,Steel,Chennai,174,4447006
+4382444,Motorboat,Bayliner,New,2003,35.33,6.34,Steel,Visakhapatnam,499,1341295
+2693702,Jet Ski,Yamaha,New,2021,27.22,6.67,Fiberglass,Mumbai,350,312882
+817564,Fishing Boat,Jeanneau,Used,2019,17.05,7.33,Wood,Goa,164,4523974
+4441606,Sailboat,Yamaha,New,2024,10.9,9.42,Wood,Mumbai,471,4361224
+4058147,Fishing Boat,Bayliner,Used,1997,48.89,5.94,Steel,Chennai,67,3985374
+4961821,Yacht,Beneteau,New,2017,9.0,4.82,Wood,Chennai,23,4742723
+3878166,Yacht,Yamaha,New,2021,18.53,8.77,Fiberglass,Chennai,335,4772635
+1058915,Jet Ski,Beneteau,Used,2014,16.65,5.11,Wood,Goa,259,4141737
+2529835,Yacht,Bayliner,New,2002,14.5,6.19,Aluminum,Goa,255,4909712
+2479068,Jet Ski,Boston Whaler,New,2018,9.53,7.61,Steel,Mumbai,120,72992
+4406331,Yacht,Yamaha,Used,2010,49.62,7.38,Steel,Chennai,190,2057532
+3557314,Jet Ski,Beneteau,New,1992,11.34,5.0,Wood,Goa,139,4664097
+3019091,Jet Ski,Boston Whaler,Used,2019,48.16,3.3,Fiberglass,Mumbai,258,2270635
+549446,Yacht,Jeanneau,New,1997,36.0,6.14,Wood,Goa,203,400571
+3253959,Motorboat,Yamaha,New,2020,11.08,2.34,Aluminum,Chennai,247,843815
+76221,Motorboat,Bayliner,New,2004,26.02,5.37,Wood,Kochi,259,1959369
+3449425,Motorboat,Yamaha,Used,2019,26.33,2.44,Fiberglass,Visakhapatnam,167,4948749
+384687,Jet Ski,Boston Whaler,New,2005,42.27,4.78,Steel,Chennai,176,1719910
+319178,Motorboat,Yamaha,Used,2005,45.73,8.29,Fiberglass,Chennai,444,1311553
+2207963,Jet Ski,Sea Ray,New,1991,5.37,7.75,Wood,Goa,272,3211552
+3339481,Jet Ski,Sea Ray,New,1996,41.43,4.43,Aluminum,Goa,101,4301623
+4703245,Sailboat,Sea Ray,Used,2011,36.35,5.94,Wood,Kochi,386,2321287
+1704134,Yacht,Jeanneau,Used,1998,44.2,7.62,Steel,Visakhapatnam,477,2348125
+172826,Yacht,Yamaha,Used,2011,28.83,6.81,Steel,Chennai,409,4303250
+3118739,Jet Ski,Bayliner,Used,2022,46.24,9.01,Wood,Kochi,316,4095836
+380093,Sailboat,Beneteau,Used,1992,47.94,4.99,Wood,Chennai,485,674232
+4951255,Sailboat,Boston Whaler,Used,2016,36.39,6.9,Wood,Mumbai,316,1880920
+4043003,Fishing Boat,Yamaha,New,1998,36.53,4.93,Aluminum,Chennai,406,1997813
+3807965,Motorboat,Boston Whaler,Used,1995,13.09,7.37,Fiberglass,Mumbai,462,2745157
+1705594,Motorboat,Bayliner,Used,1993,46.95,9.78,Fiberglass,Visakhapatnam,5,3624721
+3298087,Yacht,Beneteau,New,1990,31.59,9.5,Steel,Kochi,139,3882959
+2175699,Motorboat,Bayliner,New,1994,47.31,6.68,Fiberglass,Goa,378,1727698
+1330767,Sailboat,Boston Whaler,New,2006,22.37,6.06,Steel,Kochi,152,3551928
+2537039,Fishing Boat,Yamaha,Used,2015,40.92,2.55,Steel,Mumbai,22,1097555
+1972662,Motorboat,Bayliner,Used,2019,43.0,4.71,Steel,Mumbai,330,782351
+3064819,Jet Ski,Jeanneau,New,1990,19.52,6.76,Steel,Visakhapatnam,357,553523
+1165433,Sailboat,Jeanneau,Used,1991,31.26,8.53,Wood,Goa,257,3235444
+1590450,Fishing Boat,Boston Whaler,New,1999,10.09,8.61,Wood,Visakhapatnam,130,1735978
+634217,Jet Ski,Sea Ray,Used,1999,21.53,6.85,Steel,Visakhapatnam,302,3890172
+4981722,Fishing Boat,Jeanneau,New,1995,14.19,8.29,Aluminum,Mumbai,215,4285453
+4221921,Sailboat,Beneteau,Used,1992,23.17,3.87,Steel,Mumbai,80,192470
+2580645,Yacht,Bayliner,New,1990,17.33,5.12,Fiberglass,Mumbai,125,2326046
+2546831,Yacht,Bayliner,Used,2019,17.37,5.77,Steel,Chennai,59,3987850
+1231871,Motorboat,Sea Ray,New,2012,38.38,3.4,Fiberglass,Kochi,331,4933425
+2738957,Jet Ski,Bayliner,Used,1993,23.67,5.43,Steel,Chennai,255,3037823
+3145403,Sailboat,Bayliner,New,1995,40.5,7.89,Aluminum,Chennai,87,2313504
+362654,Motorboat,Beneteau,Used,2013,27.4,7.28,Aluminum,Goa,25,4683337
+3466470,Sailboat,Beneteau,Used,2008,45.87,4.14,Aluminum,Kochi,187,4176903
+3580874,Jet Ski,Yamaha,New,2016,47.5,8.92,Aluminum,Visakhapatnam,138,2643866
+3499664,Jet Ski,Jeanneau,Used,2017,38.82,2.95,Fiberglass,Visakhapatnam,470,2212209
+3421072,Yacht,Beneteau,New,2021,32.37,7.65,Fiberglass,Chennai,182,2892506
+4574660,Fishing Boat,Jeanneau,New,2024,27.8,2.75,Steel,Mumbai,77,1071888
+943457,Yacht,Yamaha,Used,2006,15.3,2.67,Fiberglass,Kochi,468,3717939
+1443306,Sailboat,Bayliner,Used,2006,38.43,6.27,Fiberglass,Visakhapatnam,445,2985433
+127080,Sailboat,Sea Ray,New,1991,5.59,9.04,Aluminum,Mumbai,333,1309253
+2525931,Sailboat,Beneteau,New,2024,32.94,9.9,Fiberglass,Goa,265,872896
+564429,Motorboat,Jeanneau,New,1993,14.4,5.62,Wood,Kochi,47,1108091
+3366226,Jet Ski,Yamaha,New,2007,12.99,7.63,Fiberglass,Chennai,111,1602677
+208332,Fishing Boat,Sea Ray,Used,2019,40.96,5.19,Aluminum,Kochi,232,1696053
+1389739,Fishing Boat,Yamaha,New,2016,38.95,8.49,Steel,Chennai,141,2620362
+2406972,Motorboat,Bayliner,Used,2022,31.39,7.33,Aluminum,Chennai,373,1318340
+50754,Yacht,Beneteau,Used,1993,45.39,4.07,Fiberglass,Chennai,345,1950865
+4508107,Sailboat,Bayliner,New,2006,14.7,5.83,Steel,Kochi,482,3070671
+4888153,Jet Ski,Bayliner,New,2009,40.09,5.48,Steel,Mumbai,35,3232526
+4935766,Jet Ski,Jeanneau,Used,2002,25.52,5.54,Fiberglass,Mumbai,430,606311
+3483852,Sailboat,Bayliner,Used,2003,5.8,9.15,Fiberglass,Visakhapatnam,90,1223033
+4995132,Jet Ski,Beneteau,Used,1994,25.46,9.22,Aluminum,Goa,425,2031212
+3164589,Fishing Boat,Beneteau,New,2000,8.12,4.86,Steel,Visakhapatnam,470,977898
+3076987,Yacht,Yamaha,New,2024,6.79,5.45,Steel,Visakhapatnam,493,1341376
+1114178,Motorboat,Yamaha,Used,2021,25.89,6.81,Steel,Chennai,297,3253325
+1215783,Jet Ski,Beneteau,New,1998,17.62,6.3,Steel,Mumbai,403,3322253
+3457268,Motorboat,Boston Whaler,New,2005,26.0,3.01,Fiberglass,Kochi,266,2983738
+827683,Jet Ski,Boston Whaler,New,2007,13.6,5.91,Steel,Mumbai,69,4883952
+3855891,Jet Ski,Jeanneau,Used,2022,46.97,9.61,Fiberglass,Goa,25,3896447
+3894781,Jet Ski,Bayliner,New,2013,13.82,5.09,Aluminum,Chennai,327,3955367
+3476108,Motorboat,Sea Ray,Used,2000,41.47,9.07,Fiberglass,Goa,143,3049649
+293288,Jet Ski,Yamaha,New,2022,28.09,4.01,Aluminum,Goa,110,919097
+3426835,Yacht,Jeanneau,New,1990,39.69,5.19,Wood,Visakhapatnam,364,1868556
+4844857,Yacht,Bayliner,New,2008,13.55,2.73,Fiberglass,Mumbai,432,2125688
+3881967,Jet Ski,Bayliner,New,2014,41.31,2.07,Steel,Goa,265,3085735
+1215961,Motorboat,Boston Whaler,New,2017,16.63,7.81,Aluminum,Kochi,44,470872
+507962,Yacht,Sea Ray,New,2007,26.63,6.51,Fiberglass,Goa,73,1892318
+4697238,Motorboat,Bayliner,New,2022,9.97,9.64,Aluminum,Visakhapatnam,446,4709715
+3122126,Sailboat,Jeanneau,Used,2020,28.01,9.93,Fiberglass,Mumbai,53,2286423
+2708053,Jet Ski,Boston Whaler,New,2016,34.88,5.3,Fiberglass,Mumbai,91,2660497
+3241207,Jet Ski,Sea Ray,New,2010,22.84,3.65,Fiberglass,Kochi,18,1117966
+3236427,Sailboat,Jeanneau,Used,2002,28.29,9.43,Fiberglass,Goa,348,1602237
+1768620,Yacht,Sea Ray,Used,1992,35.52,8.49,Wood,Visakhapatnam,119,1748995
+2865180,Motorboat,Boston Whaler,Used,2022,15.03,6.64,Aluminum,Goa,230,2946607
+1290676,Motorboat,Jeanneau,New,2017,7.95,2.44,Wood,Mumbai,197,941296
+1628045,Sailboat,Yamaha,New,2007,9.74,2.26,Wood,Kochi,228,1459591
+3255803,Sailboat,Bayliner,Used,2003,38.82,7.53,Wood,Visakhapatnam,17,1515583
+1180776,Jet Ski,Bayliner,Used,2019,31.46,7.81,Fiberglass,Kochi,380,1829199
+4548914,Jet Ski,Beneteau,New,2017,22.51,6.68,Steel,Kochi,409,4581769
+2556963,Sailboat,Jeanneau,Used,2002,31.45,8.6,Steel,Mumbai,61,224057
+1315778,Jet Ski,Sea Ray,Used,2014,43.18,7.38,Aluminum,Goa,92,3306928
+3814669,Yacht,Jeanneau,Used,2019,25.89,7.57,Aluminum,Goa,248,3345642
+4265841,Fishing Boat,Bayliner,Used,2010,16.4,5.58,Wood,Visakhapatnam,490,3624686
+4501472,Yacht,Sea Ray,Used,2017,27.1,2.13,Wood,Goa,316,1086099
+993313,Fishing Boat,Sea Ray,New,2017,27.65,6.8,Fiberglass,Kochi,96,3671919
+3108686,Jet Ski,Bayliner,New,1991,34.53,9.21,Steel,Chennai,470,3898209
+4601011,Jet Ski,Sea Ray,Used,2013,25.57,8.58,Fiberglass,Mumbai,278,4516190
+1597376,Motorboat,Sea Ray,Used,2016,32.39,4.29,Wood,Mumbai,183,4922353
+1663220,Fishing Boat,Yamaha,New,2024,49.93,8.41,Aluminum,Goa,393,2027477
+217517,Jet Ski,Beneteau,New,1999,6.39,3.94,Fiberglass,Goa,38,3676195
+3397288,Motorboat,Boston Whaler,New,1990,32.28,5.1,Steel,Goa,482,3778225
+831166,Motorboat,Sea Ray,Used,2000,13.36,3.46,Steel,Visakhapatnam,348,513868
+244344,Fishing Boat,Sea Ray,New,2003,13.58,4.92,Fiberglass,Visakhapatnam,129,764003
+3455006,Yacht,Yamaha,New,2014,5.42,8.91,Steel,Chennai,364,88351
+4818825,Jet Ski,Beneteau,Used,2014,20.28,4.38,Aluminum,Chennai,273,3338793
+4048802,Motorboat,Boston Whaler,New,2008,21.02,8.64,Steel,Mumbai,329,1128368
+2784138,Motorboat,Sea Ray,Used,1990,10.73,6.86,Fiberglass,Goa,183,3478328
+687136,Jet Ski,Jeanneau,Used,2019,18.76,2.13,Fiberglass,Goa,44,512232
+2893205,Yacht,Beneteau,New,2013,40.27,6.23,Aluminum,Goa,6,971338
+2187039,Motorboat,Yamaha,Used,2016,13.07,6.37,Fiberglass,Goa,277,4081292
+4437950,Sailboat,Boston Whaler,Used,2012,12.52,8.44,Steel,Kochi,128,3671790
+1506791,Motorboat,Bayliner,Used,2014,27.72,4.95,Wood,Mumbai,319,1164752
+4638314,Fishing Boat,Yamaha,Used,2012,16.92,3.49,Wood,Kochi,240,4117130
+1026478,Fishing Boat,Sea Ray,New,2002,16.48,7.63,Wood,Mumbai,444,1468225
+2239001,Sailboat,Sea Ray,Used,2018,38.15,4.58,Steel,Chennai,155,1995433
+714860,Fishing Boat,Jeanneau,Used,2014,34.16,8.97,Aluminum,Visakhapatnam,216,1488365
+1216588,Sailboat,Bayliner,New,2004,7.23,2.33,Steel,Visakhapatnam,209,1976384
+3372010,Yacht,Bayliner,Used,2010,38.73,2.27,Aluminum,Kochi,100,1984741
+1051268,Sailboat,Beneteau,New,1994,37.06,2.64,Aluminum,Mumbai,262,3330569
+2737487,Yacht,Beneteau,Used,2003,19.92,3.61,Wood,Mumbai,345,4141292
+1735590,Fishing Boat,Boston Whaler,New,1999,27.24,7.53,Wood,Chennai,21,4866256
+2179116,Sailboat,Boston Whaler,New,2008,15.89,3.69,Steel,Kochi,256,2176723
+4739503,Sailboat,Boston Whaler,New,2019,13.12,6.3,Fiberglass,Goa,142,4189139
+1280483,Jet Ski,Jeanneau,New,2011,27.8,3.45,Wood,Kochi,433,115852
+3862089,Motorboat,Beneteau,New,2000,46.35,3.09,Aluminum,Mumbai,428,83625
+1501976,Fishing Boat,Yamaha,Used,1992,36.16,2.66,Steel,Kochi,218,1650002
+1306391,Yacht,Jeanneau,New,2007,38.14,8.99,Wood,Chennai,489,65117
+4225019,Fishing Boat,Bayliner,Used,2009,45.97,4.78,Steel,Visakhapatnam,305,2962473
+123728,Motorboat,Yamaha,Used,2018,33.23,2.04,Aluminum,Goa,36,1400033
+3563504,Fishing Boat,Yamaha,New,2019,9.05,4.31,Wood,Chennai,97,3635849
+2563463,Sailboat,Boston Whaler,Used,2010,10.79,9.32,Steel,Chennai,363,1524081
+3339286,Jet Ski,Boston Whaler,Used,1995,6.34,6.95,Aluminum,Chennai,495,123371
+995731,Fishing Boat,Sea Ray,Used,2016,30.3,6.02,Aluminum,Mumbai,79,1339155
+3040245,Sailboat,Beneteau,New,2013,20.63,6.33,Aluminum,Visakhapatnam,403,635420
+3340591,Jet Ski,Yamaha,New,1992,40.44,5.62,Wood,Chennai,474,2942993
+2049141,Jet Ski,Beneteau,New,2018,32.15,4.33,Steel,Chennai,49,4405669
+2474443,Jet Ski,Bayliner,New,1990,7.11,3.48,Steel,Goa,361,2841659
+2677226,Fishing Boat,Jeanneau,New,1990,11.42,2.79,Fiberglass,Mumbai,158,1308041
+530622,Jet Ski,Bayliner,Used,2021,11.4,6.79,Wood,Kochi,233,844256
+2477578,Yacht,Jeanneau,New,2017,40.04,2.47,Wood,Chennai,284,4811434
+2198471,Yacht,Beneteau,Used,2013,13.95,5.13,Aluminum,Mumbai,268,2216840
+1807427,Sailboat,Bayliner,Used,2001,34.76,9.3,Wood,Visakhapatnam,326,3952220
+4679563,Jet Ski,Jeanneau,Used,2006,6.75,4.82,Aluminum,Goa,110,911342
+780736,Motorboat,Beneteau,Used,2018,27.6,6.88,Wood,Chennai,337,3297249
+2458715,Sailboat,Bayliner,Used,2017,35.96,5.82,Steel,Visakhapatnam,88,2785721
+422037,Sailboat,Bayliner,Used,2014,47.69,2.24,Aluminum,Goa,47,3287470
+1483334,Fishing Boat,Bayliner,New,1994,30.51,3.89,Aluminum,Mumbai,203,1319637
+593049,Yacht,Sea Ray,Used,2017,49.9,8.4,Aluminum,Goa,66,1661329
+4615994,Fishing Boat,Bayliner,New,2016,14.85,9.61,Aluminum,Goa,2,1379413
+2965362,Yacht,Boston Whaler,Used,2017,8.25,4.48,Wood,Chennai,342,140617
+2683274,Sailboat,Boston Whaler,Used,1992,16.91,5.86,Fiberglass,Kochi,64,821489
+1132685,Fishing Boat,Sea Ray,New,1995,43.72,2.58,Fiberglass,Visakhapatnam,381,1981493
+3328988,Fishing Boat,Jeanneau,New,2004,43.12,4.99,Wood,Kochi,210,1282411
+4309544,Sailboat,Yamaha,Used,1990,22.57,7.89,Fiberglass,Goa,370,1571185
+2512469,Motorboat,Jeanneau,Used,2024,30.98,4.97,Steel,Chennai,460,1154298
+2635203,Motorboat,Sea Ray,Used,2013,5.02,3.82,Aluminum,Kochi,488,2648467
+4888626,Jet Ski,Sea Ray,Used,2001,8.13,8.41,Steel,Chennai,31,3957258
+3613587,Yacht,Beneteau,Used,2006,27.69,9.77,Aluminum,Mumbai,366,2006077
+1373979,Motorboat,Yamaha,New,1991,42.58,9.47,Steel,Chennai,14,1142162
+2504244,Yacht,Jeanneau,Used,2012,27.59,2.51,Wood,Goa,252,1197912
+62428,Yacht,Beneteau,Used,2006,31.46,8.21,Wood,Kochi,270,2723925
+3363793,Yacht,Beneteau,Used,1995,27.06,2.42,Fiberglass,Visakhapatnam,157,751670
+3229840,Fishing Boat,Beneteau,New,1992,36.43,3.81,Wood,Chennai,309,2126431
+4881636,Sailboat,Jeanneau,New,1997,8.66,4.7,Fiberglass,Visakhapatnam,303,412427
+199052,Sailboat,Bayliner,Used,2005,28.32,7.62,Steel,Mumbai,307,1454086
+1664247,Sailboat,Beneteau,Used,2021,39.89,2.84,Steel,Chennai,312,1039034
+4466085,Motorboat,Beneteau,New,2016,35.11,3.03,Fiberglass,Mumbai,271,1368671
+590324,Motorboat,Boston Whaler,Used,2015,22.58,9.0,Fiberglass,Visakhapatnam,7,3775400
+2993122,Jet Ski,Jeanneau,Used,2001,38.66,3.43,Fiberglass,Goa,99,941257
+4045486,Jet Ski,Boston Whaler,New,1993,44.28,8.46,Wood,Mumbai,106,4492070
+4262599,Yacht,Sea Ray,Used,2008,32.89,3.08,Fiberglass,Kochi,463,3559620
+4115570,Sailboat,Beneteau,New,2020,37.59,5.76,Aluminum,Visakhapatnam,263,2493781
+348660,Fishing Boat,Yamaha,Used,2021,6.71,9.12,Aluminum,Goa,385,2268388
+3219413,Jet Ski,Jeanneau,New,2004,8.93,5.19,Wood,Visakhapatnam,296,1465368
+3208187,Motorboat,Bayliner,New,2012,30.09,8.44,Fiberglass,Chennai,77,400464
+3472748,Motorboat,Beneteau,Used,2010,17.21,6.78,Wood,Kochi,187,2490319
+3310116,Motorboat,Jeanneau,New,2021,35.37,3.65,Aluminum,Kochi,82,4723874
+3664842,Jet Ski,Boston Whaler,New,2020,14.12,7.64,Aluminum,Visakhapatnam,107,2634285
+3257045,Sailboat,Yamaha,New,2021,21.93,2.31,Steel,Mumbai,491,1486357
+2434301,Motorboat,Beneteau,New,2017,30.33,3.17,Wood,Mumbai,188,4214443
+1995033,Jet Ski,Bayliner,New,2001,12.7,3.97,Steel,Visakhapatnam,439,1063011
+3655036,Sailboat,Beneteau,Used,2017,7.95,3.89,Fiberglass,Kochi,222,573179
+288290,Yacht,Jeanneau,New,1990,5.56,3.38,Aluminum,Mumbai,159,1476293
+2104146,Sailboat,Bayliner,New,2007,25.42,2.25,Steel,Visakhapatnam,188,899933
+2715495,Yacht,Bayliner,New,1994,40.43,6.66,Fiberglass,Chennai,362,1540821
+1637685,Motorboat,Boston Whaler,New,2014,38.66,3.4,Wood,Visakhapatnam,255,4394885
+4032159,Motorboat,Beneteau,New,2017,47.83,8.38,Fiberglass,Mumbai,453,746576
+2740932,Motorboat,Boston Whaler,New,1993,14.57,7.25,Steel,Goa,308,259644
+4169602,Sailboat,Yamaha,New,2024,35.5,7.73,Aluminum,Chennai,158,4695525
+3800126,Jet Ski,Bayliner,New,2023,8.79,4.42,Fiberglass,Visakhapatnam,230,2127845
+1069821,Yacht,Yamaha,New,2015,10.36,6.33,Fiberglass,Mumbai,413,2916707
+1752421,Yacht,Bayliner,New,2021,33.24,3.73,Aluminum,Chennai,87,4041879
+262465,Sailboat,Sea Ray,Used,2018,18.81,2.91,Wood,Mumbai,213,328276
+3762895,Sailboat,Sea Ray,New,2007,45.85,7.02,Fiberglass,Mumbai,174,2246638
+895959,Yacht,Sea Ray,New,1990,30.66,2.34,Wood,Mumbai,342,2944293
+3992042,Yacht,Beneteau,Used,2014,22.7,8.74,Aluminum,Goa,382,1392342
+4028605,Jet Ski,Jeanneau,Used,2015,16.73,7.9,Wood,Chennai,325,2085672
+3728370,Sailboat,Boston Whaler,Used,2010,40.81,5.64,Steel,Visakhapatnam,201,3983758
+825499,Sailboat,Jeanneau,Used,2020,14.66,7.53,Fiberglass,Visakhapatnam,253,3046035
+4765068,Motorboat,Bayliner,New,2008,27.99,9.04,Aluminum,Chennai,364,1732107
+2019532,Jet Ski,Beneteau,Used,2006,26.17,5.35,Aluminum,Goa,163,2955407
+3766344,Jet Ski,Bayliner,Used,2005,34.25,3.86,Steel,Goa,294,2053313
+1579273,Fishing Boat,Jeanneau,New,2022,26.21,7.36,Aluminum,Mumbai,189,245515
+2526350,Motorboat,Jeanneau,New,2019,21.21,8.63,Wood,Mumbai,107,3036885
+1707457,Fishing Boat,Jeanneau,Used,2022,29.19,7.59,Steel,Goa,44,642269
+2190183,Jet Ski,Bayliner,Used,2013,24.45,3.02,Aluminum,Kochi,483,2877554
+4605492,Motorboat,Sea Ray,Used,2008,14.47,5.7,Steel,Visakhapatnam,297,3696099
+4641813,Sailboat,Yamaha,New,2010,49.59,9.52,Steel,Mumbai,201,1964671
+3973771,Sailboat,Jeanneau,Used,2008,18.36,7.63,Steel,Mumbai,295,3776188
+4397465,Jet Ski,Boston Whaler,Used,1998,35.5,7.46,Aluminum,Chennai,133,4761725
+2362920,Jet Ski,Bayliner,New,2004,12.89,8.16,Aluminum,Mumbai,88,2479433
+2091482,Jet Ski,Jeanneau,New,1996,20.26,4.31,Fiberglass,Chennai,156,1476296
+3825319,Yacht,Bayliner,Used,2021,35.01,9.31,Aluminum,Mumbai,493,2418362
+3170002,Yacht,Jeanneau,Used,2021,49.6,5.37,Aluminum,Visakhapatnam,210,4913827
+1025701,Jet Ski,Bayliner,Used,2008,14.39,7.32,Fiberglass,Goa,413,2058765
+2583196,Sailboat,Sea Ray,Used,2008,6.64,7.79,Wood,Visakhapatnam,359,164101
+1247096,Jet Ski,Yamaha,Used,2006,35.36,7.34,Fiberglass,Mumbai,428,3337201
+1454304,Yacht,Beneteau,Used,1994,47.33,9.05,Wood,Chennai,384,1732783
+4877841,Yacht,Boston Whaler,New,2024,6.47,3.15,Wood,Visakhapatnam,104,1892468
+3495532,Yacht,Yamaha,New,2017,35.31,8.81,Wood,Mumbai,364,3206800
+1463551,Sailboat,Boston Whaler,Used,2001,13.9,3.43,Steel,Goa,66,1415640
+1188912,Jet Ski,Boston Whaler,New,2015,33.24,9.54,Aluminum,Mumbai,183,2306125
+3505079,Jet Ski,Boston Whaler,Used,2007,39.99,2.98,Steel,Goa,19,571843
+2484656,Fishing Boat,Boston Whaler,Used,2013,31.59,6.45,Aluminum,Chennai,474,2326810
+1659628,Fishing Boat,Beneteau,New,2007,22.09,5.45,Aluminum,Chennai,20,3537575
+4243845,Yacht,Yamaha,New,2002,7.82,4.52,Aluminum,Chennai,448,4847980
+4173627,Motorboat,Jeanneau,New,2011,47.3,5.44,Fiberglass,Chennai,252,900586
+3640837,Yacht,Sea Ray,Used,2019,44.74,8.21,Fiberglass,Visakhapatnam,134,4690757
+2086113,Fishing Boat,Beneteau,New,1990,16.16,7.92,Steel,Mumbai,461,1593081
+1349624,Jet Ski,Boston Whaler,New,1990,14.89,2.99,Wood,Chennai,309,423696
+4274732,Fishing Boat,Bayliner,Used,2012,6.83,4.29,Steel,Chennai,448,2132585
+3670157,Yacht,Yamaha,Used,2012,39.41,7.37,Wood,Mumbai,375,293227
+1043547,Sailboat,Jeanneau,Used,2001,36.83,2.38,Aluminum,Goa,129,2306392
+3126007,Yacht,Bayliner,New,2008,38.91,3.12,Aluminum,Mumbai,81,4319970
+4317644,Yacht,Jeanneau,New,2001,17.27,7.98,Wood,Visakhapatnam,72,2150628
+2174836,Jet Ski,Bayliner,New,2002,8.48,5.02,Aluminum,Mumbai,319,1731303
+2479844,Sailboat,Jeanneau,Used,2006,29.28,4.92,Steel,Kochi,454,2019727
+2237922,Yacht,Yamaha,New,2022,15.63,4.36,Aluminum,Chennai,475,785008
+2938466,Jet Ski,Bayliner,New,2015,13.29,8.18,Steel,Mumbai,65,1250136
+3110475,Motorboat,Boston Whaler,New,2010,40.62,9.91,Fiberglass,Chennai,245,1898356
+2718300,Yacht,Sea Ray,Used,1997,19.03,8.99,Fiberglass,Goa,186,1650577
+526226,Jet Ski,Jeanneau,New,1993,15.06,9.59,Steel,Visakhapatnam,240,1863032
+366574,Motorboat,Beneteau,Used,2017,22.76,5.49,Fiberglass,Kochi,409,3830832
+3153063,Fishing Boat,Bayliner,Used,2013,10.86,8.57,Fiberglass,Chennai,209,1735253
+1438912,Sailboat,Yamaha,New,1993,45.96,7.88,Steel,Visakhapatnam,100,390401
+4495719,Jet Ski,Beneteau,New,2018,15.63,2.56,Steel,Chennai,107,1576688
+2083488,Yacht,Jeanneau,New,2021,20.54,4.28,Fiberglass,Kochi,401,1468358
+2834952,Motorboat,Yamaha,Used,2017,48.1,8.57,Aluminum,Kochi,190,3274462
+4673123,Yacht,Yamaha,Used,2018,29.52,6.54,Steel,Visakhapatnam,312,564142
+3023192,Fishing Boat,Sea Ray,Used,2013,8.2,2.57,Wood,Chennai,154,3635568
+1230257,Yacht,Sea Ray,Used,2007,42.67,7.94,Steel,Kochi,314,4403016
+3684759,Sailboat,Boston Whaler,New,2002,43.68,4.62,Aluminum,Chennai,383,4660850
+936363,Jet Ski,Boston Whaler,Used,2016,42.02,6.43,Steel,Chennai,2,3019510
+1954393,Jet Ski,Bayliner,New,2020,14.24,9.39,Wood,Visakhapatnam,445,1630113
+981123,Sailboat,Sea Ray,Used,2007,19.17,7.21,Fiberglass,Mumbai,102,3509196
+2693615,Yacht,Beneteau,New,2014,11.32,9.33,Aluminum,Mumbai,231,774929
+193507,Yacht,Boston Whaler,New,2002,42.98,9.6,Fiberglass,Chennai,48,2731302
+1201461,Sailboat,Beneteau,New,1994,34.22,5.9,Aluminum,Mumbai,280,3028701
+2854921,Fishing Boat,Beneteau,Used,2002,42.56,6.49,Steel,Chennai,354,4440899
+1345722,Sailboat,Yamaha,New,2024,9.15,4.95,Aluminum,Chennai,498,3163253
+1434630,Sailboat,Beneteau,Used,2012,46.61,8.54,Fiberglass,Kochi,418,1900372
+1894468,Jet Ski,Boston Whaler,New,2024,7.83,5.12,Fiberglass,Visakhapatnam,401,3828783
+4046849,Fishing Boat,Beneteau,New,1996,12.17,6.99,Fiberglass,Goa,212,4785027
+3317575,Sailboat,Beneteau,Used,2019,42.31,3.63,Steel,Kochi,409,4165822
+1480922,Motorboat,Jeanneau,New,2010,14.62,7.62,Wood,Goa,328,4383621
+4892435,Fishing Boat,Boston Whaler,Used,2004,6.49,9.5,Steel,Visakhapatnam,266,2515796
+537992,Sailboat,Sea Ray,New,2019,29.35,7.57,Steel,Goa,492,1451747
+2266175,Fishing Boat,Boston Whaler,Used,2000,22.1,3.53,Wood,Goa,284,636798
+3540968,Fishing Boat,Sea Ray,Used,1997,31.66,4.56,Wood,Mumbai,233,1619963
+336328,Sailboat,Beneteau,Used,1999,39.67,5.03,Fiberglass,Chennai,461,2059101
+3113977,Fishing Boat,Boston Whaler,Used,2012,16.92,2.26,Steel,Goa,288,2104338
+1872274,Motorboat,Sea Ray,Used,1999,23.9,4.77,Wood,Goa,99,737008
+4097746,Motorboat,Yamaha,Used,1992,14.36,8.63,Fiberglass,Visakhapatnam,282,4536398
+296280,Yacht,Sea Ray,New,2011,7.71,3.65,Wood,Chennai,470,1708308
+523170,Jet Ski,Sea Ray,New,2015,30.55,2.32,Steel,Kochi,33,2018312
+2740605,Jet Ski,Jeanneau,New,2024,13.22,4.06,Aluminum,Kochi,382,682106
+2194733,Motorboat,Jeanneau,New,1994,25.85,7.82,Aluminum,Kochi,327,450865
+1383360,Fishing Boat,Yamaha,New,2021,39.8,5.42,Steel,Kochi,393,438354
+2578040,Motorboat,Boston Whaler,Used,2008,48.51,7.55,Aluminum,Kochi,265,2640865
+1538560,Yacht,Bayliner,Used,1997,7.38,7.29,Wood,Goa,93,1310704
+3627090,Jet Ski,Bayliner,New,1999,21.65,7.31,Wood,Chennai,488,905806
+797383,Sailboat,Boston Whaler,Used,2014,29.36,2.12,Wood,Visakhapatnam,95,1624845
+1903343,Motorboat,Jeanneau,New,2018,11.56,8.92,Fiberglass,Goa,492,400964
+3142732,Jet Ski,Yamaha,New,2015,26.09,4.03,Wood,Mumbai,194,2877864
+3328589,Yacht,Bayliner,Used,2017,18.61,2.48,Fiberglass,Mumbai,92,3138675
+811887,Yacht,Sea Ray,New,2004,47.35,4.45,Fiberglass,Chennai,233,3329737
+59017,Fishing Boat,Bayliner,New,2017,43.75,7.96,Aluminum,Chennai,389,1252642
+4414475,Sailboat,Bayliner,New,2014,33.35,3.55,Wood,Chennai,101,1980197
+2424633,Motorboat,Beneteau,New,2009,18.7,6.68,Steel,Chennai,232,3339951
+641929,Motorboat,Sea Ray,New,2018,17.32,4.31,Aluminum,Mumbai,388,2155965
+3175616,Motorboat,Boston Whaler,Used,2005,29.14,9.56,Fiberglass,Kochi,53,4484150
+2192233,Motorboat,Beneteau,New,1995,48.23,2.82,Steel,Chennai,145,3492944
+3350972,Yacht,Yamaha,Used,2019,46.39,4.32,Wood,Chennai,66,145705
+1321421,Jet Ski,Sea Ray,New,2002,23.91,5.66,Aluminum,Goa,497,922231
+4317593,Motorboat,Yamaha,Used,1991,43.34,6.49,Steel,Kochi,310,1550018
+2694547,Motorboat,Boston Whaler,New,2011,9.23,8.56,Aluminum,Goa,196,2454414
+3330727,Motorboat,Sea Ray,New,2000,40.0,4.37,Wood,Goa,7,2373139
+1626464,Yacht,Boston Whaler,New,1997,12.35,4.13,Aluminum,Visakhapatnam,390,1600434
+4753993,Fishing Boat,Beneteau,New,2005,48.95,2.25,Wood,Mumbai,277,2087584
+908218,Yacht,Sea Ray,Used,2003,18.66,7.35,Wood,Kochi,415,452290
+2641602,Sailboat,Yamaha,Used,1990,46.71,7.51,Fiberglass,Mumbai,144,1397516
+3957066,Yacht,Boston Whaler,New,2007,49.65,8.54,Fiberglass,Goa,444,1870654
+3290728,Yacht,Jeanneau,Used,1998,20.84,5.17,Aluminum,Mumbai,14,4896674
+4147773,Yacht,Sea Ray,New,1999,23.54,3.77,Steel,Mumbai,346,330914
+1574938,Jet Ski,Boston Whaler,New,2006,26.85,7.54,Aluminum,Goa,13,2109062
+4079952,Sailboat,Beneteau,New,2011,20.38,7.72,Fiberglass,Mumbai,10,4348587
+2281411,Yacht,Bayliner,New,1995,36.8,9.0,Fiberglass,Chennai,214,4578744
+4036832,Motorboat,Yamaha,New,2007,34.05,8.83,Aluminum,Kochi,292,803556
+204742,Jet Ski,Bayliner,New,1996,23.55,5.93,Aluminum,Mumbai,307,1105773
+239206,Sailboat,Yamaha,Used,1999,46.27,2.48,Aluminum,Kochi,348,577841
+151673,Sailboat,Jeanneau,Used,2000,39.75,2.55,Fiberglass,Chennai,419,1396082
+3241039,Jet Ski,Jeanneau,New,1998,46.62,6.2,Steel,Goa,378,2756279
+1344324,Jet Ski,Yamaha,New,1991,45.95,2.4,Wood,Kochi,276,4505535
+2420606,Fishing Boat,Yamaha,Used,2001,30.73,9.76,Wood,Visakhapatnam,270,599455
+3534737,Yacht,Yamaha,Used,2014,42.45,2.77,Aluminum,Visakhapatnam,48,3783179
+2708004,Fishing Boat,Beneteau,Used,2020,29.12,6.12,Wood,Chennai,150,4856878
+1742693,Yacht,Yamaha,Used,2005,7.47,5.58,Steel,Visakhapatnam,109,2959572
+3920448,Motorboat,Bayliner,New,2004,36.11,6.96,Aluminum,Goa,310,195153
+4266526,Sailboat,Jeanneau,New,1994,11.81,4.25,Aluminum,Visakhapatnam,484,2303650
+1054785,Motorboat,Bayliner,Used,1992,38.68,8.1,Wood,Kochi,54,2383401
+698093,Fishing Boat,Yamaha,Used,1990,45.77,7.47,Wood,Goa,44,4446048
+2986353,Sailboat,Boston Whaler,Used,2007,48.6,5.84,Wood,Mumbai,266,3877196
+2627389,Jet Ski,Jeanneau,New,2000,16.91,2.91,Steel,Visakhapatnam,110,3875732
+2430047,Jet Ski,Beneteau,New,2023,15.25,8.64,Fiberglass,Mumbai,258,3581053
+164440,Jet Ski,Boston Whaler,New,2004,49.34,5.46,Aluminum,Kochi,224,4521286
+778887,Fishing Boat,Bayliner,Used,2014,43.39,2.29,Wood,Chennai,267,1149492
+3806460,Sailboat,Bayliner,Used,1998,29.9,2.7,Steel,Visakhapatnam,195,1713626
+1968174,Sailboat,Boston Whaler,Used,1995,28.83,8.88,Wood,Kochi,6,4969545
+4160836,Jet Ski,Bayliner,Used,1992,7.38,6.17,Aluminum,Visakhapatnam,321,1044437
+3944014,Motorboat,Yamaha,Used,2008,33.13,8.67,Fiberglass,Chennai,180,4560776
+3252412,Motorboat,Beneteau,New,2004,22.27,3.75,Aluminum,Mumbai,111,359831
+878468,Motorboat,Sea Ray,Used,2008,31.68,5.11,Wood,Kochi,232,374129
+318864,Yacht,Yamaha,Used,2020,30.61,4.53,Aluminum,Mumbai,211,3007263
+1724096,Sailboat,Boston Whaler,New,1994,45.9,9.96,Aluminum,Kochi,109,1863738
+1329851,Motorboat,Jeanneau,Used,1995,49.18,9.62,Aluminum,Goa,286,3602869
+4111921,Yacht,Beneteau,New,2019,49.91,8.83,Wood,Chennai,44,4253542
+4542083,Jet Ski,Yamaha,Used,1993,23.11,7.01,Steel,Goa,105,4678203
+1394172,Jet Ski,Beneteau,Used,2014,5.57,2.58,Fiberglass,Kochi,267,297019
+4251118,Jet Ski,Boston Whaler,Used,1992,28.11,7.03,Wood,Kochi,281,4935518
+4975701,Fishing Boat,Bayliner,Used,2006,14.23,4.38,Steel,Kochi,27,3739113
+3727522,Motorboat,Sea Ray,New,2006,13.92,4.63,Aluminum,Goa,102,4149148
+4150813,Motorboat,Yamaha,New,2008,8.07,9.19,Fiberglass,Goa,237,1935016
+2660463,Motorboat,Beneteau,New,2000,36.37,3.02,Aluminum,Goa,122,4953143
+2669814,Sailboat,Jeanneau,Used,2022,46.95,7.08,Wood,Chennai,417,3816470
+2497138,Motorboat,Boston Whaler,Used,1998,23.53,5.59,Aluminum,Visakhapatnam,69,3758277
+3134183,Yacht,Beneteau,Used,2001,23.23,3.28,Fiberglass,Visakhapatnam,440,795216
+3737497,Sailboat,Yamaha,Used,2018,43.49,2.16,Wood,Chennai,345,2851231
+3126360,Sailboat,Jeanneau,Used,2010,37.31,4.71,Wood,Mumbai,169,775732
+1555835,Motorboat,Bayliner,New,2001,38.9,9.03,Fiberglass,Mumbai,181,3102411
+850112,Sailboat,Sea Ray,Used,1999,31.94,4.28,Fiberglass,Mumbai,346,1181208
+363029,Jet Ski,Sea Ray,New,2012,26.3,4.96,Wood,Goa,126,3963828
+3110294,Sailboat,Boston Whaler,New,2010,44.8,2.61,Aluminum,Goa,251,3961629
+4132355,Fishing Boat,Boston Whaler,Used,2020,33.57,5.33,Fiberglass,Chennai,178,4203205
+1989458,Yacht,Bayliner,Used,2024,7.52,4.87,Aluminum,Mumbai,127,4851036
+1304545,Yacht,Sea Ray,New,2000,47.68,2.05,Fiberglass,Mumbai,469,3604266
+4181916,Jet Ski,Jeanneau,New,2010,12.57,8.64,Steel,Visakhapatnam,14,221161
+1609346,Sailboat,Sea Ray,Used,1991,10.34,9.27,Aluminum,Mumbai,396,4482067
+1412882,Yacht,Beneteau,Used,2019,8.86,6.76,Fiberglass,Visakhapatnam,282,1510473
+1459554,Jet Ski,Sea Ray,Used,2013,9.35,8.39,Wood,Visakhapatnam,206,132422
+4003617,Yacht,Beneteau,Used,2000,41.23,7.95,Wood,Kochi,2,4438528
+3434833,Fishing Boat,Jeanneau,Used,2012,47.18,5.32,Aluminum,Kochi,182,3505619
+2191256,Yacht,Sea Ray,New,2021,16.96,4.6,Aluminum,Kochi,14,3207585
+2928933,Yacht,Boston Whaler,Used,2020,29.39,5.83,Fiberglass,Kochi,88,4638108
+4908539,Sailboat,Yamaha,New,2024,25.15,3.06,Fiberglass,Goa,129,2774186
+2898356,Sailboat,Bayliner,Used,1990,13.83,6.93,Aluminum,Kochi,243,3742700
+4894758,Fishing Boat,Jeanneau,New,2006,38.47,9.49,Wood,Mumbai,466,4370896
+3850346,Motorboat,Sea Ray,New,1999,38.38,2.81,Wood,Visakhapatnam,363,4387066
+579543,Motorboat,Sea Ray,Used,2001,16.68,4.31,Aluminum,Goa,376,3246430
+4706898,Yacht,Boston Whaler,Used,2011,21.04,7.39,Wood,Visakhapatnam,200,4246482
+2305268,Fishing Boat,Jeanneau,Used,2021,34.4,4.3,Fiberglass,Mumbai,144,1261655
+3303511,Yacht,Bayliner,New,1993,22.17,5.93,Fiberglass,Mumbai,438,2297794
+4511263,Sailboat,Sea Ray,New,2018,36.98,4.94,Wood,Chennai,54,431071
+3523654,Yacht,Bayliner,Used,2017,31.3,5.85,Fiberglass,Chennai,12,660944
+1435209,Sailboat,Sea Ray,New,2015,27.85,3.93,Steel,Goa,419,691342
+4908008,Yacht,Bayliner,New,2024,35.2,7.06,Steel,Visakhapatnam,12,1346675
+4975785,Fishing Boat,Jeanneau,New,2012,26.83,6.93,Wood,Goa,417,1596962
+3923228,Yacht,Jeanneau,New,2011,48.43,5.63,Steel,Chennai,115,3501564
+802867,Fishing Boat,Boston Whaler,Used,2009,43.84,3.45,Fiberglass,Mumbai,403,68242
+335852,Yacht,Beneteau,New,1991,28.95,2.27,Wood,Mumbai,164,3914406
+263565,Motorboat,Jeanneau,New,1998,28.21,3.34,Steel,Goa,491,3111468
+3409355,Yacht,Jeanneau,Used,2004,40.62,5.77,Wood,Visakhapatnam,281,185273
+373311,Fishing Boat,Bayliner,Used,2009,20.85,8.22,Aluminum,Chennai,64,1065998
+3879477,Jet Ski,Yamaha,New,2007,48.67,5.24,Steel,Mumbai,318,3733187
+1137166,Jet Ski,Sea Ray,New,2002,42.83,8.95,Fiberglass,Kochi,53,789741
+551828,Yacht,Beneteau,Used,2021,43.36,7.77,Fiberglass,Chennai,478,3113642
+477344,Motorboat,Beneteau,New,1993,8.37,7.54,Aluminum,Chennai,145,2901106
+720621,Jet Ski,Boston Whaler,New,2022,31.89,7.6,Steel,Kochi,54,1162930
+2264357,Sailboat,Jeanneau,New,1993,17.01,6.35,Wood,Mumbai,160,1931049
+4207780,Yacht,Yamaha,New,2022,15.89,6.28,Wood,Mumbai,496,2129013
+1566777,Sailboat,Jeanneau,Used,2000,41.84,4.49,Aluminum,Visakhapatnam,244,3511443
+4764082,Sailboat,Beneteau,Used,1998,5.81,5.19,Aluminum,Visakhapatnam,245,2926894
+55470,Motorboat,Sea Ray,Used,2003,28.98,9.56,Fiberglass,Visakhapatnam,100,1336078
+1426271,Motorboat,Boston Whaler,New,2004,43.41,2.17,Aluminum,Visakhapatnam,370,2269034
+4680204,Yacht,Yamaha,New,1991,24.38,6.44,Aluminum,Chennai,391,725444
+1623144,Fishing Boat,Beneteau,Used,1995,49.57,6.27,Fiberglass,Chennai,93,1674025
+779637,Motorboat,Jeanneau,New,2008,19.38,8.58,Fiberglass,Chennai,491,4702431
+1871826,Yacht,Bayliner,Used,1993,23.86,7.41,Steel,Goa,66,4249414
+2595341,Jet Ski,Boston Whaler,Used,2021,7.7,3.25,Fiberglass,Kochi,446,2341748
+1954749,Jet Ski,Bayliner,New,2007,17.2,2.34,Aluminum,Kochi,225,247932
+3450306,Yacht,Bayliner,Used,1992,15.96,5.58,Aluminum,Visakhapatnam,474,4662477
+2420966,Sailboat,Bayliner,Used,1993,26.95,4.47,Aluminum,Visakhapatnam,491,3778348
+2313946,Jet Ski,Yamaha,New,2024,7.68,5.51,Wood,Goa,282,4298483
+4613949,Sailboat,Yamaha,Used,2019,47.5,2.5,Steel,Visakhapatnam,141,70408
+1977463,Yacht,Boston Whaler,New,2004,22.65,6.33,Aluminum,Goa,250,2868409
+2044552,Sailboat,Yamaha,New,2009,31.69,2.13,Aluminum,Mumbai,236,1349709
+3853868,Sailboat,Beneteau,Used,1992,44.03,4.16,Fiberglass,Goa,126,2798472
+1686833,Jet Ski,Beneteau,New,2020,32.32,9.64,Aluminum,Mumbai,219,3086785
+4503356,Fishing Boat,Boston Whaler,New,1998,7.96,3.93,Aluminum,Goa,91,4455682
+1587316,Yacht,Boston Whaler,New,2015,12.72,6.1,Steel,Visakhapatnam,293,767163
+3643531,Fishing Boat,Yamaha,Used,1995,41.11,9.17,Fiberglass,Kochi,117,4451928
+3435073,Jet Ski,Sea Ray,Used,2000,47.19,4.76,Aluminum,Visakhapatnam,333,782851
+4292514,Motorboat,Beneteau,Used,2002,23.47,5.21,Aluminum,Goa,362,221826
+1492689,Motorboat,Boston Whaler,New,2009,33.92,5.52,Wood,Visakhapatnam,5,1770156
+4406777,Jet Ski,Beneteau,Used,1998,25.2,9.56,Aluminum,Goa,27,3249552
+2512371,Jet Ski,Sea Ray,New,2002,7.04,9.86,Wood,Mumbai,61,651532
+4289678,Motorboat,Boston Whaler,Used,2014,19.61,9.47,Fiberglass,Visakhapatnam,336,968428
+691902,Fishing Boat,Jeanneau,Used,1998,46.29,7.83,Steel,Visakhapatnam,161,2451015
+2014789,Sailboat,Bayliner,Used,1998,12.98,9.59,Fiberglass,Kochi,373,4379364
+520894,Sailboat,Sea Ray,New,1996,15.26,6.52,Steel,Visakhapatnam,427,2645609
+3727784,Jet Ski,Boston Whaler,Used,2023,24.26,9.53,Steel,Mumbai,349,1893331
+1757573,Yacht,Beneteau,New,1994,36.76,5.14,Steel,Visakhapatnam,400,1812969
+1132945,Sailboat,Bayliner,Used,2019,47.3,7.98,Steel,Goa,213,750873
+3177078,Fishing Boat,Bayliner,Used,2016,8.02,7.27,Steel,Visakhapatnam,246,983201
+2522733,Jet Ski,Beneteau,New,2020,28.53,9.63,Aluminum,Mumbai,260,2239514
+3953564,Fishing Boat,Sea Ray,New,1997,18.74,3.44,Steel,Goa,101,1707774
+3685311,Fishing Boat,Bayliner,Used,1996,42.98,9.04,Steel,Visakhapatnam,23,3530299
+3523414,Sailboat,Boston Whaler,New,2021,13.91,8.0,Wood,Kochi,106,3919457
+2417700,Motorboat,Yamaha,New,2009,7.97,3.43,Aluminum,Chennai,244,2965959
+2886253,Jet Ski,Yamaha,New,2002,44.2,5.38,Wood,Chennai,263,4325045
+4674897,Sailboat,Beneteau,New,2014,25.21,4.8,Steel,Mumbai,245,3746902
+1543111,Sailboat,Beneteau,New,1998,22.67,9.41,Steel,Kochi,52,4028080
+3120674,Motorboat,Jeanneau,New,2003,34.91,4.15,Steel,Goa,279,1912072
+2588336,Fishing Boat,Sea Ray,New,2007,42.14,9.65,Wood,Mumbai,315,671836
+2437212,Sailboat,Yamaha,New,2011,36.7,7.03,Steel,Visakhapatnam,44,4056778
+1348837,Sailboat,Sea Ray,New,2023,20.85,5.69,Wood,Kochi,87,4906588
+1902238,Fishing Boat,Beneteau,Used,1997,34.16,7.85,Steel,Mumbai,332,3799859
+4029399,Yacht,Beneteau,Used,2004,6.67,6.97,Wood,Kochi,164,546018
+360854,Motorboat,Boston Whaler,New,2004,28.02,9.59,Steel,Mumbai,83,4825170
+2376024,Yacht,Yamaha,Used,2019,21.67,4.75,Steel,Chennai,18,1468467
+4003395,Fishing Boat,Sea Ray,Used,2007,40.76,9.35,Steel,Kochi,110,4493582
+4641022,Jet Ski,Bayliner,Used,2000,43.91,2.03,Aluminum,Goa,490,2361791

@@ -1,0 +1,12 @@
+Order_ID,Customer Name,Age,Email Address,Order Date,Amount Paid ($),Product Details,Shipping City,Order Status,Quantity Ordered,Remarks,Phone Number
+101.0, john SMITH ,28,john.smith@email.com,2023/04/12,150.25,Laptop - 16GB, New york, delivered,1,Good customer,9876543210
+102.0,ANNA  Jones,,annajones@sample.com,04-15-2023,,Mobile - 64GB,new york ,Delivered ,2,,N/A
+103.0,Sam@@Patel,35,sam@@patel.com,2023.05.10,250.75,Laptop - 8GB, MUMBAI,Delivered,1,Invalid email address,9999999999
+104.0,,-5,rohan@gmail.com,05/13/2023,130.5,Headphone - Wireless,mumbai,cancelled,3,Missing name,12345678
+105.0,Priya Sharma,29,priyasharma@email.com,2023-06-01,420.0,Camera - 20MP,Delhi,Returned,1,RETURNED,
+105.0,Priya Sharma,29,priyasharma@email.com,2023-06-01,420.0,Camera - 20MP,Delhi,Returned,1,Duplicate order,9999999999
+106.0,RAJESH  kumar,145,rajeshkumar@email.com,"Jun 10, 2023",800.99,Laptop - 32GB,delhi,shipped,,Quantity missing,88888abcde
+107.0,Meena,,meena@site,2023-15-06,350.75,,Bangalore,Cancelled,2,,98765
+,,34,test@invalid.com,,600.0,Smartwatch - GPS,bangalore,,1,Missing order ID,0000000000
+108.0,Naresh Verma,41,naresh@email.com,2023-07-20,150000.0,Laptop - 64GB,New Delhi,Delivered,1,Unusually high amount,9876543210
+109.0,Ravi123,Thirty,ravi@com,invalid,-50.0,USB - 32GB,Pune ,in transit,Two,Negative amount,+91-9876543210
